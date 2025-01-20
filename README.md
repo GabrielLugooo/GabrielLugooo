@@ -2,7 +2,7 @@
 
 <h3 align="center">Systems Analyst. Cybersecurity Analyst. Passionate about technology & music.</h3>
 
-<h3 align="left">How to reach me lugohernandogabriel@gmail.com <a href="https://mail.google.com/mail/@gabriellugooo" target="blank"> </a> </h3>
+<h3 align="left">How to reach me: lugohernandogabriel@gmail.com </h3>
 
 <h3 align="left">Connect with me:</h3>
 
