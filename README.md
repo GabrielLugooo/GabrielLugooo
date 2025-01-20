@@ -2,11 +2,7 @@
 
 <h3 align="center">Systems Analyst. Cybersecurity Analyst. Passionate about technology & music.</h3>
 
-- 🔭 I’m currently working on **Independent IA Project**
-
-- 🔭 I’m currently working on **Independent IT Teacher**
-
-- 📫 How to reach me **lugohernandogabriel@outlook.com**
+<h3 align="left">How to reach me lugohernandogabriel@outlook.com</h3>
 
 <h3 align="left">Connect with me:</h3>
 
