@@ -5,11 +5,11 @@
 
 <h3 align="left">Connect with me</h3>
 <p align="left">
-<a href="https://www.youtube.com/c/@gabriellugooo" target="blank"><img align="center" src="https://drive.google.com/file/d/143XTckN7Jx9VbU80XDW7Y50qQatQ0u9r/view?usp=drive_link" alt="@gabriellugooo" height="30" width="40" /></a>
-<a href="http://www.tiktok.com/@gabriellugooo" target="blank"><img align="center" src="https://drive.google.com/file/d/1cqB2DAZ24VrJghgv4Ler_RERBDyRcqEx/view?usp=drive_link" alt="@gabriellugooo" height="30" width="40" /></a>
-<a href="https://instagram.com/lugooogabriel" target="blank"><img align="center" src="https://drive.google.com/file/d/1kBZJrip46e9-8wp--7oGEpcb-gz-lEsB/view?usp=drive_link" alt="lugooogabriel" height="30" width="40" /></a>
-<a href="https://twitter.com/gabriellugo__" target="blank"><img align="center" src="https://drive.google.com/file/d/1lBrmoo9RtlkLuy--5geVYO1ANMc6cHr9/view?usp=drive_link" alt="gabriellugo__" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/hernando-gabriel-lugo" target="blank"><img align="center" src="https://drive.google.com/file/d/1NqDXTCa2cO1CXgl34HRUCyuaMMn6AqLj/view?usp=drive_link" alt="hernando-gabriel-lugo" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/@gabriellugooo" target="blank"><img align="center" src="https://drive.google.com/file/d/143XTckN7Jx9VbU80XDW7Y50qQatQ0u9r.svg" alt="@gabriellugooo" height="30" width="40" /></a>
+<a href="http://www.tiktok.com/@gabriellugooo" target="blank"><img align="center" src="https://drive.google.com/file/d/1cqB2DAZ24VrJghgv4Ler_RERBDyRcqEx.svg" alt="@gabriellugooo" height="30" width="40" /></a>
+<a href="https://instagram.com/lugooogabriel" target="blank"><img align="center" src="https://drive.google.com/file/d/1kBZJrip46e9-8wp--7oGEpcb-gz-lEsB.svg" alt="lugooogabriel" height="30" width="40" /></a>
+<a href="https://twitter.com/gabriellugo__" target="blank"><img align="center" src="https://drive.google.com/file/d/1lBrmoo9RtlkLuy--5geVYO1ANMc6cHr9.svg" alt="gabriellugo__" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/hernando-gabriel-lugo" target="blank"><img align="center" src="https://drive.google.com/file/d/1NqDXTCa2cO1CXgl34HRUCyuaMMn6AqLj.svg" alt="hernando-gabriel-lugo" height="30" width="40" /></a>
 </p>
 
 
@@ -41,7 +41,7 @@
 <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/></a>
 <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/></a>
 <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/></a>
-<a href="https://svelte.dev" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/1/1b/Svelte_Logo.svg" alt="svelte" width="40" height="40"/> </a> 
+<a href="https://svelte.dev" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/1/1b/Svelte_Logo.svg" alt="svelte" width="40" height="40"/></a> 
 <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/></a>
 </p>
 
