@@ -9,6 +9,12 @@
 <a href="https://www.youtube.com/c/@gabriellugooo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@gabriellugooo" height="30" width="40" /></a><a href="https://instagram.com/lugooogabriel" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="lugooogabriel" height="30" width="40" /></a><a href="https://twitter.com/gabriellugo__" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="gabriellugo__" height="30" width="40" /></a><a href="https://linkedin.com/in/hernando-gabriel-lugo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hernando-gabriel-lugo" height="30" width="40" /></a>
 </p>
 
+<h3 align="left">Videos de YouTube</h3>
+<p align="left">
+<a href="https://www.youtube.com/watch?v=h79EfoS-xI4" title="La verdad secreta los Nanobots, IA, Neuralink y los UAP-UFO" target="_blank"><img width="32%" src="https://img.youtube.com/vi/h79EfoS-xI4/maxresdefault.jpg" alt="La verdad secreta los Nanobots, IA, Neuralink y los UAP-UFO"/> </a>
+<a href="https://www.youtube.com/watch?v=nXBEuCLCYPc" title="Que son valores Hash y como comprobar virus e integridad de archivos en virustotal.com" target="_blank"><img width="32%" src="https://img.youtube.com/vi/nXBEuCLCYPc/maxresdefault.jpg" alt="Que son valores Hash y como comprobar virus e integridad de archivos en virustotal.com"/> </a>
+</p>
+
 <h3 align="left">Skills</h3>
 
 <h4 align="left">Programming Languages</h4>
