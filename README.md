@@ -1,8 +1,8 @@
-<h1 align="center">Hi 👋, I'm Gabriel Lugo</h1>
+<h1 align="left">Hi 👋, I'm Gabriel Lugo</h1>
 
-<h3 align="center">Systems Analyst. Cybersecurity Analyst. Passionate about technology & music.</h3>
+<h3 align="left">Systems & Cybersecurity Analyst. Passionate about technology, computing, sciencie, books & music.</h3>
 
-<h3 align="left">How to reach me: lugohernandogabriel@outlook.com </h3>
+<h3 align="left">How to reach me: lugohernandogabriel@outlook.com</h3>
 
 <h3 align="left">Connect with me:</h3>
 
