@@ -1,12 +1,15 @@
 <h1 align="left">Hi 👋, I'm Gabriel Lugo</h1>
 
-<h4 align="left">Systems & Cybersecurity Analyst. Passionate about technology, computing, sciencie, books & music.</h4>
+<h3 align="left">Systems & Cybersecurity Analyst. Passionate about technology, computing, sciencie, books & music.</h3>
+
 <h4 align="left">How to reach me: lugohernandogabriel@outlook.com</h4>
 
 <h4 align="left">Connect with me:</h4>
 <p align="left">
 <a href="https://www.youtube.com/c/@gabriellugooo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@gabriellugooo" height="30" width="40" /></a><a href="https://instagram.com/lugooogabriel" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="lugooogabriel" height="30" width="40" /></a><a href="https://twitter.com/gabriellugo__" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="gabriellugo__" height="30" width="40" /></a><a href="https://linkedin.com/in/hernando-gabriel-lugo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hernando-gabriel-lugo" height="30" width="40" /></a>
 </p>
+
+<h3 align="left">Skills</h3>
 
 <h4 align="left">Programming Languages</h4>
 <p align="left"> 
