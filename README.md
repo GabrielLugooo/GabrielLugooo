@@ -5,18 +5,18 @@
 
 <h3 align="left">Connect with me</h3>
 <p align="left">
-<a href="https://www.youtube.com/@gabriellugooo" target="_blank"><img align="center" src="https://simpleicons.org/icons/youtube.svg" alt="@gabriellugooo" height="30" width="40" /></a>
-<a href="http://www.tiktok.com/@gabriellugooo" target="_blank"><img align="center" src="https://simpleicons.org/icons/tiktok.svg" alt="@gabriellugooo" height="30" width="40" /></a>
-<a href="https://instagram.com/lugooogabriel" target="_blank"><img align="center" src="https://simpleicons.org/icons/instagram.svg" alt="lugooogabriel" height="30" width="40" /></a>
-<a href="https://twitter.com/gabriellugo__" target="_blank"><img align="center" src="https://simpleicons.org/icons/x.svg" alt="gabriellugo__" height="30" width="40" /></a>
-<a href="https://linktr.ee/gabriellugooo" target="_blank"><img align="center" src="https://simpleicons.org/icons/linktree.svg" alt="gabriellugooo" height="30" width="40" /></a>
+<a href="https://www.youtube.com/@gabriellugooo" target="_blank"> <img align="center" src="https://simpleicons.org/icons/youtube.svg" alt="@gabriellugooo" height="30" width="40" /></a>
+<a href="http://www.tiktok.com/@gabriellugooo" target="_blank"> <img align="center" src="https://simpleicons.org/icons/tiktok.svg" alt="@gabriellugooo" height="30" width="40" /></a>
+<a href="https://instagram.com/lugooogabriel" target="_blank"> <img align="center" src="https://simpleicons.org/icons/instagram.svg" alt="lugooogabriel" height="30" width="40" /></a>
+<a href="https://twitter.com/gabriellugo__" target="_blank"> <img align="center" src="https://simpleicons.org/icons/x.svg" alt="gabriellugo__" height="30" width="40" /></a>
+<a href="https://linktr.ee/gabriellugooo" target="_blank"> <img align="center" src="https://simpleicons.org/icons/linktree.svg" alt="gabriellugooo" height="30" width="40" /></a>
 </p>
 
 
 <h3 align="left">Videos de YouTube</h3>
 <p align="left">
-<a href="https://www.youtube.com/watch?v=h79EfoS-xI4" title="La verdad secreta los Nanobots, IA, Neuralink y los UAP-UFO" target="_blank"><img width="32%" src="https://img.youtube.com/vi/h79EfoS-xI4/maxresdefault.jpg" alt="La verdad secreta los Nanobots, IA, Neuralink y los UAP-UFO"/> </a>
-<a href="https://www.youtube.com/watch?v=nXBEuCLCYPc" title="Que son valores Hash y como comprobar virus e integridad de archivos en virustotal.com" target="_blank"><img width="32%" src="https://img.youtube.com/vi/nXBEuCLCYPc/maxresdefault.jpg" alt="Que son valores Hash y como comprobar virus e integridad de archivos en virustotal.com"/> </a>
+<a href="https://www.youtube.com/watch?v=h79EfoS-xI4" title="La verdad secreta los Nanobots, IA, Neuralink y los UAP-UFO" target="_blank"> <img width="32%" src="https://img.youtube.com/vi/h79EfoS-xI4/maxresdefault.jpg" alt="La verdad secreta los Nanobots, IA, Neuralink y los UAP-UFO"/></a>
+<a href="https://www.youtube.com/watch?v=nXBEuCLCYPc" title="Que son valores Hash y como comprobar virus e integridad de archivos en virustotal.com" target="_blank"> <img width="32%" src="https://img.youtube.com/vi/nXBEuCLCYPc/maxresdefault.jpg" alt="Que son valores Hash y como comprobar virus e integridad de archivos en virustotal.com"/></a>
 </p>
 
 
