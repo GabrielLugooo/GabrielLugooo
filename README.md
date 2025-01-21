@@ -5,11 +5,11 @@
 
 <h3 align="left">Connect with me</h3>
 <p align="left">
-<a href="https://www.youtube.com/c/@gabriellugooo" target="blank"><img align="center" src="https://simpleicons.org/icons/youtube.svg" alt="@gabriellugooo" height="30" width="40" /></a>
-<a href="http://www.tiktok.com/@gabriellugooo" target="blank"><img align="center" src="https://simpleicons.org/icons/tiktok.svg" alt="@gabriellugooo" height="30" width="40" /></a>
-<a href="https://instagram.com/lugooogabriel" target="blank"><img align="center" src="https://simpleicons.org/icons/instagram.svg" alt="lugooogabriel" height="30" width="40" /></a>
-<a href="https://twitter.com/gabriellugo__" target="blank"><img align="center" src="https://simpleicons.org/icons/x.svg" alt="gabriellugo__" height="30" width="40" /></a>
-<a href="https://linktr.ee/gabriellugooo" target="blank"><img align="center" src="https://simpleicons.org/icons/linktree.svg" alt="gabriellugooo" height="30" width="40" /></a>
+<a href="https://www.youtube.com/@gabriellugooo" target="_blank"><img align="center" src="https://simpleicons.org/icons/youtube.svg" alt="@gabriellugooo" height="30" width="40" /></a>
+<a href="http://www.tiktok.com/@gabriellugooo" target="_blank"><img align="center" src="https://simpleicons.org/icons/tiktok.svg" alt="@gabriellugooo" height="30" width="40" /></a>
+<a href="https://instagram.com/lugooogabriel" target="_blank"><img align="center" src="https://simpleicons.org/icons/instagram.svg" alt="lugooogabriel" height="30" width="40" /></a>
+<a href="https://twitter.com/gabriellugo__" target="_blank"><img align="center" src="https://simpleicons.org/icons/x.svg" alt="gabriellugo__" height="30" width="40" /></a>
+<a href="https://linktr.ee/gabriellugooo" target="_blank"><img align="center" src="https://simpleicons.org/icons/linktree.svg" alt="gabriellugooo" height="30" width="40" /></a>
 </p>
 
 
