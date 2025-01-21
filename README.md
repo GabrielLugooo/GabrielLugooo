@@ -1,14 +1,24 @@
 <h1 align="left">Hi 👋, I'm Gabriel Lugo</h1>
-
-<h3 align="left">Systems & Cybersecurity Analyst. Passionate about technology, computing, sciencie, books & music.</h3>
-
-<h3 align="left">How to reach me: lugohernandogabriel@outlook.com</h3>
+<h4 align="left">Systems & Cybersecurity Analyst. Passionate about technology, computing, sciencie, books & music.</h4>
+<h4 align="left">How to reach me: lugohernandogabriel@outlook.com</h4>
 
 <h3 align="left">Connect with me:</h3>
 
 <p align="left">
-<a href="https://linkedin.com/in/hernando-gabriel-lugo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hernando-gabriel-lugo" height="30" width="40" /></a><a href="https://twitter.com/gabriellugo__" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="gabriellugo__" height="30" width="40" /></a><a href="https://instagram.com/lugooogabriel" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="lugooogabriel" height="30" width="40" /></a><a href="https://www.youtube.com/c/@gabriellugooo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@gabriellugooo" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/@gabriellugooo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@gabriellugooo" height="30" width="40" /></a><a href="https://instagram.com/lugooogabriel" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="lugooogabriel" height="30" width="40" /></a><a href="https://twitter.com/gabriellugo__" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="gabriellugo__" height="30" width="40" /></a><a href="https://linkedin.com/in/hernando-gabriel-lugo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hernando-gabriel-lugo" height="30" width="40" /></a>
 </p>
+
+<h3 align="left">Videos de YouTube</h3>
+<iframe width="421" height="748" src="https://www.youtube.com/embed/h79EfoS-xI4" title="La verdad secreta los Nanobots, IA, Neuralink y los UAP-UFO #ia #alien #neuralink #uap #ai #elonmusk" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+<iframe width="421" height="748" src="https://www.youtube.com/embed/nXBEuCLCYPc" title="Que son valores Hash y como comprobar virus e integridad de archivos en virustotal.com" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+<h3 align="left">Videos de TikTok</h3>
+
+<blockquote class="tiktok-embed" cite="https://www.tiktok.com/@gabriellugooo/video/7398748545743867141" data-video-id="7398748545743867141" style="max-width: 605px;min-width: 325px;" > <section> <a target="_blank" title="@gabriellugooo" href="https://www.tiktok.com/@gabriellugooo?refer=embed">@gabriellugooo</a> <a title="anonymous" target="_blank" href="https://www.tiktok.com/tag/anonymous?refer=embed">#Anonymous</a> <a title="cyberhuntersop" target="_blank" href="https://www.tiktok.com/tag/cyberhuntersop?refer=embed">#cyberhuntersop</a> <a title="venezuela🇻🇪" target="_blank" href="https://www.tiktok.com/tag/venezuela%F0%9F%87%BB%F0%9F%87%AA?refer=embed">#venezuela🇻🇪</a> <a target="_blank" title="♬ sonido original - @gabriellugooo" href="https://www.tiktok.com/music/sonido-original-7398748553423702789?refer=embed">♬ sonido original - 
+@gabriellugooo</a> </section> </blockquote> <script async src="https://www.tiktok.com/embed.js"></script>
+
+<blockquote class="tiktok-embed" cite="https://www.tiktok.com/@gabriellugooo/video/7399432222773660934" data-video-id="7399432222773660934" style="max-width: 605px;min-width: 325px;" > <section> <a target="_blank" title="@gabriellugooo" href="https://www.tiktok.com/@gabriellugooo?refer=embed">@gabriellugooo</a> Hoy Domingo...video detallado en el perfil de TikTok del día Sábado  <a title="cyberops" target="_blank" href="https://www.tiktok.com/tag/cyberops?refer=embed">#cyberops</a> <a title="anonymous" target="_blank" href="https://www.tiktok.com/tag/anonymous?refer=embed">#anonymous</a> <a title="venezuela🇻🇪" target="_blank" href="https://www.tiktok.com/tag/venezuela%F0%9F%87%BB%F0%9F%87%AA?refer=embed">#venezuela🇻🇪</a> <a title="cyberhuntersop" target="_blank" href="https://www.tiktok.com/tag/cyberhuntersop?refer=embed">#cyberhuntersop</a> <a target="_blank" title="♬ sonido original - @gabriellugooo" href="https://www.tiktok.com/music/sonido-original-7399432230285658886?refer=embed">♬ sonido original - @gabriellugooo</a> </section> </blockquote> <script async src="https://www.tiktok.com/embed.js"></script>
 
 <h3 align="left">Skills</h3>
 
