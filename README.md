@@ -2,9 +2,9 @@
 
 <h3 align="left">Systems & Cybersecurity Analyst. Passionate about technology, computing, sciencie, books & music.</h3>
 
-<h4 align="left">How to reach me: lugohernandogabriel@outlook.com</h4>
+<h3 align="left">How to reach me: lugohernandogabriel@outlook.com</h3>
 
-<h4 align="left">Connect with me:</h4>
+<h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.youtube.com/c/@gabriellugooo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@gabriellugooo" height="30" width="40" /></a><a href="https://instagram.com/lugooogabriel" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="lugooogabriel" height="30" width="40" /></a><a href="https://twitter.com/gabriellugo__" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="gabriellugo__" height="30" width="40" /></a><a href="https://linkedin.com/in/hernando-gabriel-lugo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hernando-gabriel-lugo" height="30" width="40" /></a>
 </p>
