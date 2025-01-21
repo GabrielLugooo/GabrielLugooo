@@ -5,11 +5,11 @@
 
 <h3 align="left">Connect with me</h3>
 <p align="left">
-<a href="https://www.youtube.com/@gabriellugooo" target='_blank'> <img align="center" src="https://simpleicons.org/icons/youtube.svg" alt="@gabriellugooo" height="30" width="40" /></a>
-<a href="http://www.tiktok.com/@gabriellugooo" target="_blank"> <img align="center" src="https://simpleicons.org/icons/tiktok.svg" alt="@gabriellugooo" height="30" width="40" /></a>
-<a href="https://instagram.com/lugooogabriel" target="_blank"> <img align="center" src="https://simpleicons.org/icons/instagram.svg" alt="lugooogabriel" height="30" width="40" /></a>
-<a href="https://twitter.com/gabriellugo__" target="_blank"> <img align="center" src="https://simpleicons.org/icons/x.svg" alt="gabriellugo__" height="30" width="40" /></a>
-<a href="https://linktr.ee/gabriellugooo" target="_blank"> <img align="center" src="https://simpleicons.org/icons/linktree.svg" alt="gabriellugooo" height="30" width="40" /></a>
+<a target="_blank" href="https://www.youtube.com/@gabriellugooo"><img align="center" src="https://simpleicons.org/icons/youtube.svg" alt="@gabriellugooo" height="30" width="40" />YouTube</a>
+<a target="_blank" href="http://www.tiktok.com/@gabriellugooo"> <img align="center" src="https://simpleicons.org/icons/tiktok.svg" alt="@gabriellugooo" height="30" width="40" />TikTok</a>
+<a target="_blank" href="https://instagram.com/lugooogabriel"> <img align="center" src="https://simpleicons.org/icons/instagram.svg" alt="lugooogabriel" height="30" width="40" />Instagram</a>
+<a target="_blank" href="https://twitter.com/gabriellugo__"> <img align="center" src="https://simpleicons.org/icons/x.svg" alt="gabriellugo__" height="30" width="40" />X</a>
+<a target="_blank" href="https://linktr.ee/gabriellugooo"> <img align="center" src="https://simpleicons.org/icons/linktree.svg" alt="gabriellugooo" height="30" width="40" />Linktree</a>
 </p>
 
 
