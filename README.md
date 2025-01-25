@@ -1,9 +1,8 @@
-<h1 align="center">Hi 👋, I'm Gabriel Lugo</h1>
+# Hi 👋, I'm Gabriel Lugo
 
-<h4 align="center">Systems & Cybersecurity Analyst. Passionate about technology, computing, sciencie, books & music.</h4>
+### Systems & Cybersecurity Analyst. Passionate about technology, computing, sciencie, books & music.
 
-
-<h3 align="left">Connect with me</h3>
+### Connect with me
 <p align="left">
 <a href="https://www.youtube.com/@gabriellugooo" target="_blank" rel="noreferrer noopener"> <img align="center" src="https://simpleicons.org/icons/youtube.svg" alt="@gabriellugooo" height="30" width="40" /></a>
 <a href="http://www.tiktok.com/@gabriellugooo" target="_blank" rel="noreferrer noopener"> <img align="center" src="https://simpleicons.org/icons/tiktok.svg" alt="@gabriellugooo" height="30" width="40" /></a>
@@ -12,15 +11,13 @@
 <a href="https://linktr.ee/gabriellugooo" target="_blank" rel="noreferrer noopener"> <img align="center" src="https://simpleicons.org/icons/linktree.svg" alt="gabriellugooo" height="30" width="40" /></a>
 </p>
 
-
-<h3 align="left">Videos de YouTube</h3>
+### Videos de YouTube
 <p align="left">
 <a href="https://www.youtube.com/watch?v=h79EfoS-xI4" title="La verdad secreta los Nanobots, IA, Neuralink y los UAP-UFO" target="_blank" rel="noreferrer noopener"> <img width="32%" src="https://img.youtube.com/vi/h79EfoS-xI4/maxresdefault.jpg" alt="La verdad secreta los Nanobots, IA, Neuralink y los UAP-UFO"/></a>
 <a href="https://www.youtube.com/watch?v=nXBEuCLCYPc" title="Que son valores Hash y como comprobar virus e integridad de archivos en virustotal.com" target="_blank" rel="noreferrer noopener"> <img width="32%" src="https://img.youtube.com/vi/nXBEuCLCYPc/maxresdefault.jpg" alt="Que son valores Hash y como comprobar virus e integridad de archivos en virustotal.com"/></a>
 </p>
 
-
-<h3 align="left">Skills</h3>
+### Skills
 
 <h4 align="left">Programming Languages</h4>
 <p align="left"> 
