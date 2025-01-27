@@ -1,7 +1,6 @@
 <img src="https://media.licdn.com/dms/image/v2/D4D16AQG0duTiBDe9fw/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1731079758532?e=1743638400&v=beta&t=WMlekLI2ySHVckQvQ7CO2CFPZGF-5h4pYZN-U6jbpvI" />
 
 <h1 align="left">Hi 👋, I'm Gabriel Lugo</h1>
-<a href="https://www.linkedin.com/in/hernando-gabriel-lugo" target="_blank" rel="noreferrer noopener"> <img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-ar21.svg" alt="hernando-gabriel-lugo" /></a>
 
 <h3 align="left">About Me</h3>
 <p align="left">
@@ -19,7 +18,7 @@ My journey in computer science has led me to develop a passion for cybersecurity
 <a href="http://www.tiktok.com/@gabriellugooo" target="_blank" rel="noreferrer noopener"> <img align="center" src="https://simpleicons.org/icons/tiktok.svg" alt="@gabriellugooo" height="30" width="40" /></a>
 <a href="https://instagram.com/lugooogabriel" target="_blank" rel="noreferrer noopener"> <img align="center" src="https://simpleicons.org/icons/instagram.svg" alt="lugooogabriel" height="30" width="40" /></a>
 <a href="https://twitter.com/gabriellugo__" target="_blank" rel="noreferrer noopener"> <img align="center" src="https://simpleicons.org/icons/x.svg" alt="gabriellugo__" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/hernando-gabriel-lugo" target="_blank" rel="noreferrer noopener"> <img align="center" src="https://www.svgrepo.com/show/108614/linkedin.svg" alt="hernando-gabriel-lugo" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/hernando-gabriel-lugo" target="_blank" rel="noreferrer noopener"> <img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-ar21.svg" alt="hernando-gabriel-lugo" /></a>
 <a href="https://linktr.ee/gabriellugooo" target="_blank" rel="noreferrer noopener"> <img align="center" src="https://simpleicons.org/icons/linktree.svg" alt="gabriellugooo" height="30" width="40" /></a>
 </p>
 
@@ -31,8 +30,7 @@ My journey in computer science has led me to develop a passion for cybersecurity
 
 <h3 align="left">Certifications</h3>
 <p align="left">
-<a href="" rel="noreferrer"> <img src="" alt="google cibersecurity" width="40" height="40"/></a>
-    
+- <a href="" rel="noreferrer"> <img src="" alt="google cibersecurity" width="40" height="40"/></a>
 </p>
 
 <h3 align="left">Projects</h3>
@@ -71,9 +69,9 @@ Skill                                                Project
 
 <h4 align="left">Networks</h4>
 <p>
-<a href="https://www.tcpdump.org" rel="noreferrer"> <img src="https://aboutnetworks.net/wp-content/uploads/2020/05/tcpdump-logo.jpg" alt="tcpdump" height="40"/>tcp dump</a>
-<a href="https://www.wireshark.org" rel="noreferrer"> <img src="https://simpleicons.org/icons/wireshark.svg" alt="wireshark" height="40"/></a>
-<a href="https://suricata.io" rel="noreferrer"> <img src="https://suricata.io/wp-content/uploads/2023/09/Logo-Suricata-vert-whitetype-R.png" alt="suricata" height="40"/></a>
+tcp dump <a href="https://www.tcpdump.org" rel="noreferrer"> <img src="https://aboutnetworks.net/wp-content/uploads/2020/05/tcpdump-logo.jpg" alt="tcpdump" height="40"/></a>
+wireshark <a href="https://www.wireshark.org" rel="noreferrer"> <img src="https://simpleicons.org/icons/wireshark.svg" alt="wireshark" height="40"/></a>
+suricata <a href="https://suricata.io" rel="noreferrer"> <img src="https://suricata.io/wp-content/uploads/2023/09/Logo-Suricata-vert-whitetype-R.png" alt="suricata" height="40"/></a>
 </p>
 
 <h4 align="left">EndPoints</h4>
@@ -96,8 +94,8 @@ Skill                                                Project
 <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/></a>
 <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/></a>
 <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/></a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/></a>
 <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/></a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/></a>
 <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/></a>
 </p>
 
