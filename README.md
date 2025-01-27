@@ -1,3 +1,5 @@
+<img src="https://media.licdn.com/dms/image/v2/D4D16AQG0duTiBDe9fw/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1731079758532?e=1743638400&v=beta&t=WMlekLI2ySHVckQvQ7CO2CFPZGF-5h4pYZN-U6jbpvI" />
+
 <h1 align="left">Hi 👋, I'm Gabriel Lugo</h1><a href="https://www.linkedin.com/in/hernando-gabriel-lugo" target="_blank" rel="noreferrer noopener"> <img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-ar21.svg" alt="hernando-gabriel-lugo" /></a>
 
 <h3 align="left">About Me</h3>
@@ -5,7 +7,7 @@
 I am a recent graduate Systems & Cybersecurity Analyst (both careers) with a profound interest and passionate about technology, computing, sciencie, books & music (piano) and dedication to solving problems.
 </p>
 
-<h3 align="left">Objective</h3>
+<h3 align="left">Objectives</h3>
 <p align="left">
 My journey in computer science has led me to develop a passion for cybersecurity, and I am now eager to transition into this field, specifically aiming to join a Security Operations Center (SOC) as a Tier 1 Analyst.
 </p>
