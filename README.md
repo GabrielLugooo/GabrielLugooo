@@ -1,6 +1,7 @@
 <img src="https://media.licdn.com/dms/image/v2/D4D16AQG0duTiBDe9fw/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1731079758532?e=1743638400&v=beta&t=WMlekLI2ySHVckQvQ7CO2CFPZGF-5h4pYZN-U6jbpvI" />
 
-<h1 align="left">Hi 👋, I'm Gabriel Lugo</h1><a href="https://www.linkedin.com/in/hernando-gabriel-lugo" target="_blank" rel="noreferrer noopener"> <img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-ar21.svg" alt="hernando-gabriel-lugo" /></a>
+<h1 align="left">Hi 👋, I'm Gabriel Lugo</h1>
+<a href="https://www.linkedin.com/in/hernando-gabriel-lugo" target="_blank" rel="noreferrer noopener"> <img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-ar21.svg" alt="hernando-gabriel-lugo" /></a>
 
 <h3 align="left">About Me</h3>
 <p align="left">
@@ -70,9 +71,9 @@ Skill                                                Project
 
 <h4 align="left">Networks</h4>
 <p align="left">
-<a href="https://www.tcpdump.org" rel="noreferrer"> <img src="https://www.tcpdump.org/images/logo.png" alt="tcpdump" width="40" height="40"/>tcp dump</a>
-<a href="https://www.wireshark.org" rel="noreferrer"> <img src="https://simpleicons.org/icons/wireshark.svg" alt="wireshark" width="40" height="40"/></a>
-<a href="https://suricata.io" rel="noreferrer"> <img src="https://suricata.io/wp-content/uploads/2023/09/Logo-Suricata-vert-whitetype-R.png" alt="suricata" width="40" height="40"/></a>
+<a href="https://www.tcpdump.org" rel="noreferrer"> <img src="https://www.tcpdump.org/images/logo.png" alt="tcpdump"  height="40"/>tcp dump</a>
+<a href="https://www.wireshark.org" rel="noreferrer"> <img src="https://simpleicons.org/icons/wireshark.svg" alt="wireshark"  height="40"/></a>
+<a href="https://suricata.io" rel="noreferrer"> <img src="https://suricata.io/wp-content/uploads/2023/09/Logo-Suricata-vert-whitetype-R.png" alt="suricata" height="40"/></a>
 </p>
 
 <h4 align="left">EndPoints</h4>
