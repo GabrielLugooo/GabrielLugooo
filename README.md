@@ -71,8 +71,8 @@ Skill                                                Project
 
 <h4 align="left">Networks</h4>
 <p align="left">
-<a href="https://www.tcpdump.org" rel="noreferrer"> <img src="https://www.tcpdump.org/images/logo.png" alt="tcpdump"  height="40"/>tcp dump</a>
-<a href="https://www.wireshark.org" rel="noreferrer"> <img src="https://simpleicons.org/icons/wireshark.svg" alt="wireshark"  height="40"/></a>
+<a href="https://www.tcpdump.org" rel="noreferrer"> <img src="https://profi-tutorials.de/linux/wp-content/uploads/sites/3/2021/05/tcpdump-featured.jpg" alt="tcpdump" width="40" height="40"/>tcp dump</a>
+<a href="https://www.wireshark.org" rel="noreferrer"> <img src="https://simpleicons.org/icons/wireshark.svg" alt="wireshark" height="40"/></a>
 <a href="https://suricata.io" rel="noreferrer"> <img src="https://suricata.io/wp-content/uploads/2023/09/Logo-Suricata-vert-whitetype-R.png" alt="suricata" height="40"/></a>
 </p>
 
