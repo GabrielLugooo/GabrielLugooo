@@ -70,7 +70,7 @@ Skill                                                Project
 </p>
 
 <h4 align="left">Networks</h4>
-<p align="left">
+<p>
 <a href="https://www.tcpdump.org" rel="noreferrer"> <img src="https://aboutnetworks.net/wp-content/uploads/2020/05/tcpdump-logo.jpg" alt="tcpdump" height="40"/>tcp dump</a>
 <a href="https://www.wireshark.org" rel="noreferrer"> <img src="https://simpleicons.org/icons/wireshark.svg" alt="wireshark" height="40"/></a>
 <a href="https://suricata.io" rel="noreferrer"> <img src="https://suricata.io/wp-content/uploads/2023/09/Logo-Suricata-vert-whitetype-R.png" alt="suricata" height="40"/></a>
