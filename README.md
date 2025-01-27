@@ -1,5 +1,4 @@
-<h1 align="left">Hi 👋, I'm Gabriel Lugo</h1>
-<a href="https://www.linkedin.com/in/hernando-gabriel-lugo" target="_blank" rel="noreferrer noopener"> <img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-ar21.svg" alt="hernando-gabriel-lugo" height="30" /></a>
+![image](https://github.com/user-attachments/assets/bbc82d12-18ab-4a46-9540-6ef73ae8137d)<h1 align="left">Hi 👋, I'm Gabriel Lugo</h1><a href="https://www.linkedin.com/in/hernando-gabriel-lugo" target="_blank" rel="noreferrer noopener"> <img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-ar21.svg" alt="hernando-gabriel-lugo" height="30" /></a>
 
 <h3 align="left">About Me</h3>
 <p align="left">
@@ -29,46 +28,64 @@ My journey in computer science has led me to develop a passion for cybersecurity
 
 <h3 align="left">Certifications</h3>
 <p align="left">
-<img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-<img src="https://img.shields.io/badge/-Network%2B-007ACC?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-<img src="https://img.shields.io/badge/-A%2B-4D4D4D?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-<img src="https://img.shields.io/badge/-CDSA-006400?&style=for-the-badge&logoColor=white" />
-<img src="https://img.shields.io/badge/-CCD-000080?&style=for-the-badge&logoColor=white" />
+<a href="" rel="noreferrer"> <img src="" alt="google cibersecurity" width="40" height="40"/></a>
+    
 </p>
 
-<h3 align="left">Skills</h3>
+<h3 align="left">Projects</h3>
+<p align="left">
+- <a href="https://google.com">Detection Lab</a>
+- <a href="https://google.com">SOC Automation Project</a>
+</p>
+
+<h4 align="left">Personal Skills</h4>
+<p align="left">
+</p>
 
 <h4 align="left">Technical Skills</h4>
+<p align="left"> 
+Skill                                                Project
+    
+- SIEM Implementation and Log Analysis               <a href="https://google.com">Detection Lab</a> 
+- Network Traffic Monitoring and Attack Detection    <a href="https://google.com">Detection Lab</a> 
+- Security Automation with Shuffle SOAR              <a href="https://google.com">SOC Automation Project</a>                             
+- Incident Response Planning and Execution           <a href="https://google.com">SOC Automation Project</a>                             
+- Case Management with TheHive                       <a href="https://google.com">SOC Automation Project</a>                             
+- Scripting and Automation for Threat Mitigation     <a href="https://google.com">SOC Automation Project</a>
 
-<div>
-| Skill                                             | Associated Project                             |
-|---------------------------------------------------|------------------------------------------------|
-| SIEM Implementation and Log Analysis              | <a href="https://google.com">Detection Lab</a> |
-| Network Traffic Monitoring and Attack Detection   | <a href="https://google.com">Detection Lab</a> |
-| Security Automation with Shuffle SOAR             | SOC Automation Lab                             |
-| Incident Response Planning and Execution          | SOC Automation Lab                             |
-| Case Management with TheHive                      | SOC Automation Lab                             |
-| Scripting and Automation for Threat Mitigation    | SOC Automation Lab                             |
-</div>
+- Frameworks (NIST CSF-NIST Risk-SP80053R5-OSINT)
+- OsInt
+- InfoSec
+- CloudSec
+- Ai Risks
+
+- Kali Linux
+- Xploits
+- Phishing
+- Malware
+-  
+</p>
 
 <h4 align="left">Networks</h4>
 <p align="left">
-<a href="" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/377840/wireshark.svg" />
-<a href="" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/-Suricata-EF3B2D?&style=for-the-badge&logo=Suricata&logoColor=white" />
-<a href="" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/-Zeek-777BB4?&style=for-the-badge&logo=Zeek&logoColor=white" />
+<a href="https://www.tcpdump.org" rel="noreferrer"> <img src="https://www.tcpdump.org/images/logo.png" alt="tcpdump" width="40" height="40"/></a>
+<a href="https://www.wireshark.org" rel="noreferrer"> <img src="https://simpleicons.org/icons/wireshark.svg" alt="wireshark" width="40" height="40"/></a>
+<a href="https://suricata.io" rel="noreferrer"> <img src="https://suricata.io/wp-content/uploads/2023/09/Logo-Suricata-vert-whitetype-R.png" alt="suricata" width="40" height="40"/></a>
 </p>
 
 <h4 align="left">EndPoints</h4>
 <p align="left">
-    <img src="https://img.shields.io/badge/-Microsoft_Defender_for_Endpoint-00A4EF?&style=for-the-badge&logo=Microsoft&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Velociraptor-4B275F?&style=for-the-badge&logo=Velociraptor&logoColor=white" />
-</div>
+<a href="https://learn.microsoft.com/en-us/defender-endpoint/microsoft-defender-endpoint" rel="noreferrer"> <img src="https://www.svgrepo.com/show/452062/microsoft.svg" alt="microsoftdefender" width="40" height="40"/></a>
+<a href="https://docs.velociraptor.app" rel="noreferrer"> <img src="https://www.svgrepo.com/show/101327/velociraptor.svg" alt="velociraptor" width="40" height="40"/></a>
+</p>
 
 <h4 align="left">SIEM´s Softwares</h4>
 <p align="left">
-    <img src="https://img.shields.io/badge/-Microsoft_Sentinel-0078D4?&style=for-the-badge&logo=Microsoft&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=Splunk&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Elastic-005571?&style=for-the-badge&logo=Elastic&logoColor=white" />
+<a href="https://cloud.google.com/security/products/security-operations?hl=es_419" rel="noreferrer"> <img src="https://www.svgrepo.com/show/353805/google-cloud.svg" alt="googlesecops" width="40" height="40"/></a>
+<a href="https://www.splunk.com/en_us/download/soar-free-trial.html?locale=en_us" rel="noreferrer"> <img src="https://www.svgrepo.com/show/448628/splunk.svg" alt="splunk" width="40" height="40"/></a>
+<a href="https://netalertx.com" rel="noreferrer"> <img src="https://www.svgrepo.com/show/512317/github-142.svg" alt="netalertx" width="40" height="40"/></a>
+<a href="https://wazuh.com/" rel="noreferrer"> <img src="https://simpleicons.org/icons/wantedly.svg" alt="wazuh" width="40" height="40"/></a>
+<a href="https://www.elastic.co/es/blog/elastic-siem-free-open" rel="noreferrer"> <img src="https://www.svgrepo.com/show/373575/elastic.svg" alt="elastic" width="40" height="40"/></a>
 </p>
 
 <h4 align="left">Programming Languages</h4>
@@ -108,7 +125,6 @@ My journey in computer science has led me to develop a passion for cybersecurity
 
 <h4 align="left">AI / ML</h4>
 <p align="left">
-<a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/></a> 
 <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/></a>
 <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/></a> 
 </p>
@@ -164,10 +180,4 @@ My journey in computer science has led me to develop a passion for cybersecurity
 <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/></a>
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/></a> 
 <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/></a> 
-</p>
-
-<h3 align="left">Projects</h3>
-<p align="left">
-- Detection Lab
-- SOC Automation Project
 </p>
