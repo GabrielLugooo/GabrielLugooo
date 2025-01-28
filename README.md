@@ -1,4 +1,4 @@
-<img src="https://media.licdn.com/dms/image/v2/D4D16AQG0duTiBDe9fw/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1731079758532?e=1743638400&v=beta&t=WMlekLI2ySHVckQvQ7CO2CFPZGF-5h4pYZN-U6jbpvI" />
+<img src="https://drive.google.com/file/d/15EoOusTnSnmQakMDWORd4cIYOU2dHuss/view?usp=drive_link" />
 
 <h1 align="left">Hi 👋, I'm Gabriel Lugo</h1>
 
