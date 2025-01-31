@@ -32,6 +32,7 @@ I am a fully-motivated cybersecurity analyst seeking an entry-level cybersecurit
 <a href="https://www.youtube.com/@gabriellugooo" target="_blank" rel="noreferrer noopener"> <img align="center" src="https://simpleicons.org/icons/youtube.svg" alt="@gabriellugooo" height="30" width="40" /></a>
 <a href="http://www.tiktok.com/@gabriellugooo" target="_blank" rel="noreferrer noopener"> <img align="center" src="https://simpleicons.org/icons/tiktok.svg" alt="@gabriellugooo" height="30" width="40" /></a>
 <a href="https://instagram.com/lugooogabriel" target="_blank" rel="noreferrer noopener"> <img align="center" src="https://www.svgrepo.com/show/521711/instagram.svg" alt="lugooogabriel" height="30" width="40" /></a>
+<a href="https://instagram.com/lugooogabriel" target="_blank" rel="noreferrer noopener"> <img align="center" src="https://img.icons8.com/?size=50&id=eRJfQw0Zs44S&format=gif" alt="lugooogabriel" height="30" width="40" /></a>
 <a href="https://twitter.com/gabriellugo__" target="_blank" rel="noreferrer noopener"> <img align="center" src="https://simpleicons.org/icons/x.svg" alt="gabriellugo__" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/hernando-gabriel-lugo" target="_blank" rel="noreferrer noopener"> <img align="center" src="https://www.svgrepo.com/show/473701/linkedin.svg" alt="hernando-gabriel-lugo" height="30" width="40" /></a>
 <a href="https://github.com/GabrielLugooo" target="_blank" rel="noreferrer noopener"> <img align="center" src="https://img.icons8.com/?size=48&id=akG4VRhAoSii&format=png" alt="gabriellugooo" /></a>
