@@ -4,12 +4,16 @@
 
 <h3 align="left">About Me</h3>
 <p align="left">
-I am a recent graduate Systems & Cybersecurity Analyst (both careers) with a profound interest and passionate about technology, computing, sciencie, books & music (piano) and dedication to solving problems.
-</p>
+Hello! My name is Gabriel, I am motivated and passionate about technology, cybersecurity and computing, as well as safeguarding people's security, including their financial well-being. I enjoy working with technology and analyzing and solving cybersecurity problems.
 
-<h3 align="left">Objectives</h3>
-<p align="left">
-My journey in computer science has led me to develop a passion for cybersecurity, and I am now eager to transition into this field, specifically aiming to join a Security Operations Center (SOC) as a Tier 1 Analyst.
+I was introduced to the world of computing in 1994, at the age of 14, when I started a GW BASIC course, a year before the Windows 95 OS. In 1997/98, at the age of 17/18, I was already helping my 4th year high school computer classmates with the first TANGO Software app (soft for accountants) in MS-DOS and MS Windows.
+
+I have been interested in the field of cybersecurity since I had access to the Internet. At the age of 18, I had my first notebook and the first thing I did was play Resident Evil and analyze networks with Triangle, a pioneering software for triangulating GSM technology antennas to determine locations and access Wi-Fi networks.
+
+I am a recent graduate as a systems analyst and cybersecurity analyst. I also like to continue learning, so I have taken countless courses in the IT industry that help me continue to expand my horizon of knowledge, develop my professional skills, and solve organizational problems. This is one of my passions and missions.
+
+I am passionate about helping others, so I share information on topics related to technology, IT, and cybersecurity on my social networks. Also I like science, books, learn and play music (piano).
+
 </p>
 
 <h3 align="left">Connect with me</h3>
@@ -22,56 +26,61 @@ My journey in computer science has led me to develop a passion for cybersecurity
 <a href="https://linktr.ee/gabriellugooo" target="_blank" rel="noreferrer noopener"> <img align="center" src="https://simpleicons.org/icons/linktree.svg" alt="gabriellugooo" height="30" width="40" /></a>
 </p>
 
-<h3 align="left">YouTube Videos</h3>
+<h3 align="left">CV´s</h3>
 <p align="left">
-<a href="https://www.youtube.com/watch?v=nXBEuCLCYPc" title="Que son valores Hash y como comprobar virus e integridad de archivos en virustotal.com" target="_blank" rel="noreferrer noopener"> <img width="32%" src="https://img.youtube.com/vi/nXBEuCLCYPc/maxresdefault.jpg" alt="Que son valores Hash y como comprobar virus e integridad de archivos en virustotal.com"/></a>
-<a href="https://www.youtube.com/watch?v=h79EfoS-xI4" title="La verdad secreta los Nanobots, IA, Neuralink y los UAP-UFO" target="_blank" rel="noreferrer noopener"> <img width="32%" src="https://img.youtube.com/vi/h79EfoS-xI4/maxresdefault.jpg" alt="La verdad secreta los Nanobots, IA, Neuralink y los UAP-UFO"/></a>
+- <a href="">CV Lugo CiberSecurity English</a>
+- <a href="">CV Lugo CiberSecurity Spanish</a>
+</p>
+
+<h3 align="left">Objectives</h3>
+<p align="left">
+My journey in computer science has led me to develop a passion for cybersecurity, and I am now eager to transition into this field, specifically aiming to join a Security Operations Center (SOC) as a Tier 1 Analyst.
+
+I am a fully-motivated cybersecurity analyst seeking an entry-level cybersecurity position to apply my skills in network security, security policy, and organizational risk management.
+
 </p>
 
 <h3 align="left">Certifications</h3>
 <p align="left">
-- <a href="" rel="noreferrer"> <img src="" alt="google cibersecurity" width="40" height="40"/></a>
+- <a href="" rel="noreferrer"> <img src="" alt="Google Cibersecurity Certificate" width="40" height="40"/></a>
+- <a href="" rel="noreferrer"> <img src="" alt="Virasoro Higher Institute of Informatics" width="40" height="40"/></a>
 </p>
 
 <h3 align="left">Projects</h3>
 <p align="left">
-- <a href="https://google.com">Detection Lab</a>
-- <a href="https://google.com">SOC Automation Project</a>
+- <a href="">Detection Lab</a>
+- <a href="">SOC Automation Project</a>
 </p>
 
-<h4 align="left">Personal Skills</h4>
+<h3 align="left">Strengths</h3>
 <p align="left">
+- Strong detail-oriented
+- Strong problem-solving skills
+- Excellent organization
+- Easy collaboration and communication
+- Empathy, ethical integrity and responsibility
+- Protection and security mindset
+- Passion for cybersec, technology & computing
+- Efficiency, service and fast learning
 </p>
 
-<h4 align="left">Technical Skills</h4>
-<p align="left"> 
-Skill                                                Project
-    
-- SIEM Implementation and Log Analysis               <a href="https://google.com">Detection Lab</a> 
-- Network Traffic Monitoring and Attack Detection    <a href="https://google.com">Detection Lab</a> 
-- Security Automation with Shuffle SOAR              <a href="https://google.com">SOC Automation Project</a>                             
-- Incident Response Planning and Execution           <a href="https://google.com">SOC Automation Project</a>                             
-- Case Management with TheHive                       <a href="https://google.com">SOC Automation Project</a>                             
-- Scripting and Automation for Threat Mitigation     <a href="https://google.com">SOC Automation Project</a>
-
-- Frameworks (NIST CSF-NIST Risk-SP80053R5-OSINT)
-- OsInt
-- InfoSec
-- CloudSec
-- Ai Risks
-
-- Kali Linux
-- Xploits
-- Phishing
-- Malware
--  
+<h3 align="left">Skills</h3>
+<p align="left">                                                
+- Threats, risks and vulnerabilities
+- Incident response
+- Security frameworks and controls (NIST)
+- Security hardening 
+- Linux, Git and Bash command line
+- SQL and Python
+- TCPDump, Wireshark and Suricata
+- SIEM Tools
 </p>
 
 <h4 align="left">Networks</h4>
 <p>
-tcp dump <a href="https://www.tcpdump.org" rel="noreferrer"> <img src="https://aboutnetworks.net/wp-content/uploads/2020/05/tcpdump-logo.jpg" alt="tcpdump" height="40"/></a>
-wireshark <a href="https://www.wireshark.org" rel="noreferrer"> <img src="https://simpleicons.org/icons/wireshark.svg" alt="wireshark" height="40"/></a>
-suricata <a href="https://suricata.io" rel="noreferrer"> <img src="https://suricata.io/wp-content/uploads/2023/09/Logo-Suricata-vert-whitetype-R.png" alt="suricata" height="40"/></a>
+<a href="https://www.tcpdump.org" rel="noreferrer"> <img src="https://aboutnetworks.net/wp-content/uploads/2020/05/tcpdump-logo.jpg" alt="tcpdump" height="40"/></a>
+<a href="https://www.wireshark.org" rel="noreferrer"> <img src="https://simpleicons.org/icons/wireshark.svg" alt="wireshark" height="40"/></a>
+<a href="https://suricata.io" rel="noreferrer"> <img src="https://suricata.io/wp-content/uploads/2023/09/Logo-Suricata-vert-whitetype-R.png" alt="suricata" height="40"/></a>
 </p>
 
 <h4 align="left">EndPoints</h4>
