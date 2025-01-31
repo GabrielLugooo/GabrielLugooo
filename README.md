@@ -20,9 +20,9 @@ I am passionate about helping others, so I share information on topics related t
 <p align="left">
 <a href="https://www.youtube.com/@gabriellugooo" target="_blank" rel="noreferrer noopener"> <img align="center" src="https://simpleicons.org/icons/youtube.svg" alt="@gabriellugooo" height="30" width="40" /></a>
 <a href="http://www.tiktok.com/@gabriellugooo" target="_blank" rel="noreferrer noopener"> <img align="center" src="https://simpleicons.org/icons/tiktok.svg" alt="@gabriellugooo" height="30" width="40" /></a>
-<a href="https://instagram.com/lugooogabriel" target="_blank" rel="noreferrer noopener"> <img align="center" src="https://simpleicons.org/icons/instagram.svg" alt="lugooogabriel" height="30" width="40" /></a>
+<a href="https://instagram.com/lugooogabriel" target="_blank" rel="noreferrer noopener"> <img align="center" src="https://www.svgrepo.com/show/521711/instagram.svg" alt="lugooogabriel" height="30" width="40" /></a>
 <a href="https://twitter.com/gabriellugo__" target="_blank" rel="noreferrer noopener"> <img align="center" src="https://simpleicons.org/icons/x.svg" alt="gabriellugo__" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/hernando-gabriel-lugo" target="_blank" rel="noreferrer noopener"> <img align="center" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-ar21.svg" alt="hernando-gabriel-lugo" height="30" /></a>
+<a href="https://www.linkedin.com/in/hernando-gabriel-lugo" target="_blank" rel="noreferrer noopener"> <img align="center" src="https://www.svgrepo.com/show/500918/linkedin.svg" alt="hernando-gabriel-lugo" height="30" /></a>
 <a href="https://linktr.ee/gabriellugooo" target="_blank" rel="noreferrer noopener"> <img align="center" src="https://simpleicons.org/icons/linktree.svg" alt="gabriellugooo" height="30" width="40" /></a>
 </p>
 
