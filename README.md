@@ -34,7 +34,7 @@ I am a fully-motivated cybersecurity analyst seeking an entry-level cybersecurit
 <a href="https://instagram.com/lugooogabriel" target="_blank" rel="noreferrer noopener"> <img align="center" src="https://www.svgrepo.com/show/521711/instagram.svg" alt="lugooogabriel" height="30" width="40" /></a>
 <a href="https://twitter.com/gabriellugo__" target="_blank" rel="noreferrer noopener"> <img align="center" src="https://simpleicons.org/icons/x.svg" alt="gabriellugo__" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/hernando-gabriel-lugo" target="_blank" rel="noreferrer noopener"> <img align="center" src="https://www.svgrepo.com/show/473701/linkedin.svg" alt="hernando-gabriel-lugo" height="30" width="40" /></a>
-<a href="https://github.com/GabrielLugooo" target="_blank" rel="noreferrer noopener"> <img align="center" src="https://img.icons8.com/?size=96&id=akG4VRhAoSii&format=gif" alt="gabriellugooo" height="30" width="40" /></a>
+<a href="https://github.com/GabrielLugooo" target="_blank" rel="noreferrer noopener"> <img align="center" src="https://img.icons8.com/?size=96&id=akG4VRhAoSii&format=svg" alt="gabriellugooo" /></a>
 <a href="" target="_blank" rel="noreferrer noopener"> <img align="center" src="" alt="lugohernandogabriel@gmail.com" height="30" width="40" /></a>
 <a href="https://linktr.ee/gabriellugooo" target="_blank" rel="noreferrer noopener"> <img align="center" src="https://simpleicons.org/icons/linktree.svg" alt="gabriellugooo" height="30" width="40" /></a>
 </p>
