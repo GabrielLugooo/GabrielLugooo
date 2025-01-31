@@ -37,7 +37,7 @@ I am a fully-motivated cybersecurity analyst seeking an entry-level cybersecurit
 <a href="https://github.com/GabrielLugooo" target="_blank" rel="noreferrer noopener"> <img align="center" src="https://img.icons8.com/?size=80&id=AngkmzgE6d3E&format=png" alt="gabriellugooo" height="34" width="34" /></a>
 <a href="mailto:lugohernandogabriel@gmail.com" target="_blank" rel="noreferrer noopener"> <img align="center" src="https://img.icons8.com/?size=50&id=38036&format=png" alt="lugohernandogabriel@gmail.com" height="40" width="40" /></a>
 <a href="https://linktr.ee/gabriellugooo" target="_blank" rel="noreferrer noopener"> <img align="center" src="https://simpleicons.org/icons/linktree.svg" alt="gabriellugooo" height="40" width="40" /></a>
-</p>
+<a align="left"> <img src="https://komarev.com/ghpvc/?username=GabrielLugoo&label=Profile%20views&color=green&base=1000" alt="GabrielLugooo" /></a>
 
 <a target="_blank" align="center">
   <img align="right" top="500" height="300" width="400" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
