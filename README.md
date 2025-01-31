@@ -15,6 +15,18 @@ I am a recent graduate as a systems analyst and cybersecurity analyst. I also li
 I am passionate about helping others, so I share information on topics related to technology, IT, and cybersecurity on my social networks. Also I like science, books, learn and play music (piano).
 </p>
 
+<h3 align="left">Objectives</h3>
+<p align="left">
+My journey in computer science has led me to develop a passion for cybersecurity, and I am now eager to transition into this field, specifically aiming to join a Security Operations Center (SOC) as a Tier 1 Analyst.
+I am a fully-motivated cybersecurity analyst seeking an entry-level cybersecurity position to apply my skills in network security, security policy, and organizational risk management.
+</p>
+
+<h3 align="left">CV´s</h3>
+<p align="left">
+- <a href="">CV Lugo CiberSecurity English</a>
+- <a href="">CV Lugo CiberSecurity Spanish</a>
+</p>
+
 <h3 align="left">Connect with me</h3>
 <p align="left">
 <a href="https://www.youtube.com/@gabriellugooo" target="_blank" rel="noreferrer noopener"> <img align="center" src="https://simpleicons.org/icons/youtube.svg" alt="@gabriellugooo" height="30" width="40" /></a>
@@ -25,17 +37,9 @@ I am passionate about helping others, so I share information on topics related t
 <a href="https://linktr.ee/gabriellugooo" target="_blank" rel="noreferrer noopener"> <img align="center" src="https://simpleicons.org/icons/linktree.svg" alt="gabriellugooo" height="30" width="40" /></a>
 </p>
 
-<h3 align="left">CV´s</h3>
-<p align="left">
-- <a href="">CV Lugo CiberSecurity English</a>
-- <a href="">CV Lugo CiberSecurity Spanish</a>
-</p>
-
-<h3 align="left">Objectives</h3>
-<p align="left">
-My journey in computer science has led me to develop a passion for cybersecurity, and I am now eager to transition into this field, specifically aiming to join a Security Operations Center (SOC) as a Tier 1 Analyst.
-I am a fully-motivated cybersecurity analyst seeking an entry-level cybersecurity position to apply my skills in network security, security policy, and organizational risk management.
-</p>
+<a target="_blank" align="center">
+  <img align="right" top="500" height="300" width="400" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
+</a>
 
 <h3 align="left">Certifications</h3>
 <p align="left">
@@ -60,10 +64,6 @@ I am a fully-motivated cybersecurity analyst seeking an entry-level cybersecurit
 -Passion for cybersec, technology & computing
 -Efficiency, service and fast learning
 </p>
-
-<a target="_blank" align="center">
-  <img align="right" top="500" height="300" width="400" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
-</a>
 
 <h3 align="left">Skills</h3>
 <p align="left">                                                
