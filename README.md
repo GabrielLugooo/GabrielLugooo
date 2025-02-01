@@ -57,7 +57,7 @@ My journey in computer science has led me to develop a passion for cybersecurity
 
  - <a href="">Detection Lab</a>
  - <a href="">SOC Automation Project</a>
-
+ - <a href="">Working on own IA Secret Project</a>
 
 <h3 align="left">Strengths</h3>
 
