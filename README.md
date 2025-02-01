@@ -61,24 +61,24 @@ My journey in computer science has led me to develop a passion for cybersecurity
 </p>
 
 <h3 align="left">Strengths</h3>
-- Strong detail-oriented
-- Strong problem-solving skills
-- Excellent organization
-- Easy collaboration and communication
-- Empathy, ethical integrity and responsibility
-- Protection and security mindset
-- Passion for cybersec, technology & computing
-- Efficiency, service and fast learning
+ - Strong detail-oriented
+ - Strong problem-solving skills
+ - Excellent organization
+ - Easy collaboration and communication
+ - Empathy, ethical integrity and responsibility
+ - Protection and security mindset
+ - Passion for cybersec, technology & computing
+ - Efficiency, service and fast learning
 
 <h3 align="left">Skills</h3>                                               
-- Threats, risks and vulnerabilities
-- Incident response
-- Security frameworks and controls (NIST)
-- Security hardening 
-- Linux, Git and Bash command line
-- SQL and Python
-- TCPDump, Wireshark and Suricata
-- SIEM Tools
+ - Threats, risks and vulnerabilities
+ - Incident response
+ - Security frameworks and controls (NIST)
+ - Security hardening 
+ - Linux, Git and Bash command line
+ - SQL and Python
+ - TCPDump, Wireshark and Suricata
+ - SIEM Tools
 
 <h4 align="left">Networks</h4>
 <p>
