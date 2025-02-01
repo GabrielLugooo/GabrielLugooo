@@ -61,6 +61,7 @@ My journey in computer science has led me to develop a passion for cybersecurity
 </p>
 
 <h3 align="left">Strengths</h3>
+
  - Strong detail-oriented
  - Strong problem-solving skills
  - Excellent organization
@@ -70,7 +71,8 @@ My journey in computer science has led me to develop a passion for cybersecurity
  - Passion for cybersec, technology & computing
  - Efficiency, service and fast learning
 
-<h3 align="left">Skills</h3>                                               
+<h3 align="left">Skills</h3>
+
  - Threats, risks and vulnerabilities
  - Incident response
  - Security frameworks and controls (NIST)
