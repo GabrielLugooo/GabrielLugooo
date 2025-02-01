@@ -27,10 +27,9 @@ My journey in computer science has led me to develop a passion for cybersecurity
 </p>
 
 <h3 align="left">CV´s</h3>
-<p align="left">
-- <a href="">CV Lugo CiberSecurity English</a>
-- <a href="">CV Lugo CiberSecurity Spanish</a>
-</p>
+
+ - <a href="">CV Lugo CiberSecurity English</a>
+ - <a href="">CV Lugo CiberSecurity Spanish</a>
 
 <h3 align="left">Connect with me</h3>
 <p align="left">
@@ -49,16 +48,16 @@ My journey in computer science has led me to develop a passion for cybersecurity
 </a>
 
 <h3 align="left">Certifications</h3>
-<p align="left">
-- <a href="" rel="noreferrer"> <img src="" alt="Google Cibersecurity Certificate" width="40" height="40"/></a>
-- <a href="" rel="noreferrer"> <img src="" alt="Virasoro Higher Institute of Informatics" width="40" height="40"/></a>
-</p>
+
+ - <a href="" rel="noreferrer"> <img src="" alt="Google Cibersecurity Certificate" width="40" height="40"/></a>
+ - <a href="" rel="noreferrer"> <img src="" alt="Virasoro Higher Institute of Informatics" width="40" height="40"/></a>
+
 
 <h3 align="left">Projects</h3>
-<p align="left">
-- <a href="">Detection Lab</a>
-- <a href="">SOC Automation Project</a>
-</p>
+
+ - <a href="">Detection Lab</a>
+ - <a href="">SOC Automation Project</a>
+
 
 <h3 align="left">Strengths</h3>
 
