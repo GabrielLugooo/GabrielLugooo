@@ -12,12 +12,11 @@ I am passionate about helping others, so I share information on topics related t
 
 <details>
 <summary>More About me</summary>
-
-<div align="left">
+<p align="left">
 I was introduced to the world of computing in 1994, at the age of 14, when I started a GW BASIC course, a year before the Windows 95 OS. In 1997/98, at the age of 17/18, I was already helping my 4th year high school computer classmates with the first TANGO Software app (soft for accountants) in MS-DOS and MS Windows.
 
 I have been interested in the field of cybersecurity since I had access to the Internet. At the age of 18, I had my first notebook and the first thing I did was play Resident Evil and analyze networks with Triangle, a pioneering software for triangulating GSM technology antennas to determine locations and access Wi-Fi networks.
-</div>
+</p>
 </details>
 </p>
 
