@@ -1,11 +1,11 @@
 <img align="center" src="https://media.licdn.com/dms/image/v2/D4D16AQG33lvLfE9miA/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1738082363418?e=1743638400&v=beta&t=JbDAzA4ftgIgLqNggBnvu7r-c3ttP7OucxAk_7NqLiU" alt="gabriellugo" /></a>
 
-<h1 align="left">Hi 👋, I'm Gabriel Lugo</h1>
+<h1 align="left">Hi 👋, I'm Gabriel Lugo</h1><a href="">English Version</a><a href="">Spanish Version</a>
 
 <h3 align="left">About Me</h3>
 <p align="left">
 Hello! My name is Gabriel, I am motivated and passionate about technology, cybersecurity and computing, as well as safeguarding people's security, including their financial well-being. I enjoy working with technology and analyzing and solving cybersecurity problems.
-  
+
 I am a recent graduate as a systems analyst and cybersecurity analyst. I also like to continue learning, so I have taken countless courses in the IT industry that help me continue to expand my horizon of knowledge, develop my professional skills, and solve organizational problems. This is one of my passions and missions.
 
 I am passionate about helping others, so I share information on topics related to technology, IT, and cybersecurity on my social networks. Also I like science, books, learn and play music (piano).
@@ -17,6 +17,7 @@ I am passionate about helping others, so I share information on topics related t
 I was introduced to the world of computing in 1994, at the age of 14, when I started a GW BASIC course, a year before the Windows 95 OS. In 1997/98, at the age of 17/18, I was already helping my 4th year high school computer classmates with the first TANGO Software app (soft for accountants) in MS-DOS and MS Windows.
 
 I have been interested in the field of cybersecurity since I had access to the Internet. At the age of 18, I had my first notebook and the first thing I did was play Resident Evil and analyze networks with Triangle, a pioneering software for triangulating GSM technology antennas to determine locations and access Wi-Fi networks.
+
 </p>
 </details>
 </p>
@@ -28,8 +29,8 @@ My journey in computer science has led me to develop a passion for cybersecurity
 
 <h3 align="left">CV´s</h3>
 
- - <a href="">CV Lugo CiberSecurity English</a>
- - <a href="">CV Lugo CiberSecurity Spanish</a>
+- <a href="">CV Lugo CiberSecurity English</a>
+- <a href="">CV Lugo CiberSecurity Spanish</a>
 
 <h3 align="left">Connect with me</h3>
 <p align="left">
@@ -49,37 +50,36 @@ My journey in computer science has led me to develop a passion for cybersecurity
 
 <h3 align="left">Certifications</h3>
 
- - <a href="" rel="noreferrer"> <img src="" alt="Google Cibersecurity Certificate" width="40" height="40"/></a>
- - <a href="" rel="noreferrer"> <img src="" alt="Virasoro Higher Institute of Informatics" width="40" height="40"/></a>
-
+- <a href="" rel="noreferrer"> <img src="" alt="Google Cibersecurity Certificate" width="40" height="40"/></a>
+- <a href="" rel="noreferrer"> <img src="" alt="Virasoro Higher Institute of Informatics" width="40" height="40"/></a>
 
 <h3 align="left">Projects</h3>
 
- - <a href="">Detection Lab</a>
- - <a href="">SOC Automation Project</a>
- - <a href="">Working on own IA Secret Project</a>
+- <a href="">Detection Lab</a>
+- <a href="">SOC Automation Project</a>
+- <a href="">Working on own IA Secret Project</a>
 
 <h3 align="left">Strengths</h3>
 
- - Strong detail-oriented
- - Strong problem-solving skills
- - Excellent organization
- - Easy collaboration and communication
- - Empathy, ethical integrity and responsibility
- - Protection and security mindset
- - Passion for cybersec, technology & computing
- - Efficiency, service and fast learning
+- Strong detail-oriented
+- Strong problem-solving skills
+- Excellent organization
+- Easy collaboration and communication
+- Empathy, ethical integrity and responsibility
+- Protection and security mindset
+- Passion for cybersec, technology & computing
+- Efficiency, service and fast learning
 
 <h3 align="left">Skills</h3>
 
- - Threats, risks and vulnerabilities
- - Incident response
- - Security frameworks and controls (NIST)
- - Security hardening 
- - Linux, Git and Bash command line
- - SQL and Python
- - TCPDump, Wireshark and Suricata
- - SIEM Tools
+- Threats, risks and vulnerabilities
+- Incident response
+- Security frameworks and controls (NIST)
+- Security hardening
+- Linux, Git and Bash command line
+- SQL and Python
+- TCPDump, Wireshark and Suricata
+- SIEM Tools
 
 <h4 align="left">Networks</h4>
 <p>
@@ -197,6 +197,7 @@ My journey in computer science has led me to develop a passion for cybersecurity
 <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/></a> 
 </p>
 
-------
-Credits: [Gabriel Lugo](https://github.com/GabrielLugooo) 
+---
+
+Credits: [Gabriel Lugo](https://github.com/GabrielLugooo)
 Last edited on: 31/01/2025
