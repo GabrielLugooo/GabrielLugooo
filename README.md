@@ -1,4 +1,4 @@
-<img align="center" src="https://media.licdn.com/dms/image/v2/D4D16AQG33lvLfE9miA/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1738082363418?e=1743638400&v=beta&t=JbDAzA4ftgIgLqNggBnvu7r-c3ttP7OucxAk_7NqLiU" alt="gabriellugo" /></a>
+<img align="center" src="https://media.licdn.com/dms/image/v2/D4D16AQGUNxQ7NSC05A/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1738695150340?e=1744243200&v=beta&t=oXX-ixT9bR3dJcYCLv4KBs5wjKFoeP0524kFGHQMYmQ" alt="gabriellugo" /></a>
 
 <p align="left">
 <h1 align="left">Hi 👋, I'm Gabriel Lugo</h1> 
