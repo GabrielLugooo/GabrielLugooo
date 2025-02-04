@@ -33,12 +33,12 @@ I have been interested in the field of cybersecurity since I had access to the I
 </details>
 </p>
 
+----
+
 <h3 align="left">Objectives</h3>
 <p align="left">
 My journey in computer science has led me to develop a passion for cybersecurity, and I am now eager to transition into this field, specifically aiming to join a Security Operations Center (SOC) as a Tier 1 Analyst to apply my skills in network security, security policy, and organizational risk management.
 </p>
-
-----
 
 <h3 align="left">CV´s</h3>
 
@@ -65,10 +65,13 @@ My journey in computer science has led me to develop a passion for cybersecurity
   <img align="right" top="500" height="300" width="400" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
 </a>
 
-<h3 align="left">Certifications</h3>
+<details>
+<summary><h3>Certifications</h3></summary>
 
 - <a href="" rel="noreferrer"> <img src="" alt="Google Cibersecurity Certificate" width="40" height="40"/></a>
 - <a href="" rel="noreferrer"> <img src="" alt="Virasoro Higher Institute of Informatics" width="40" height="40"/></a>
+
+</details>
 
 <details>
 <summary><h3>Projects</h3></summary>
@@ -224,6 +227,7 @@ My journey in computer science has led me to develop a passion for cybersecurity
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/></a> 
 <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/></a> 
 </p>
+
 </details>
 
 ----
