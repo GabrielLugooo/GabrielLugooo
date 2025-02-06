@@ -1,4 +1,4 @@
-<img align="center" src="https://media.licdn.com/dms/image/v2/D4D16AQGUNxQ7NSC05A/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1738695150340?e=1744243200&v=beta&t=oXX-ixT9bR3dJcYCLv4KBs5wjKFoeP0524kFGHQMYmQ" alt="gabriellugo" /></a>
+<img align="center" src="https://media.licdn.com/dms/image/v2/D4D16AQGUNxQ7NSC05A/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1738695150340?e=1744243200&v=beta&t=oXX-ixT9bR3dJcYCLv4KBs5wjKFoeP0524kFGHQMYmQ" alt="gabriellugo" />
 
 <p align="left">
 <h1 align="left">Hi 👋, I'm Gabriel Lugo</h1> 
@@ -31,7 +31,6 @@ I was introduced to the world of computing in 1994, at the age of 14, when I sta
 I have been interested in the field of cybersecurity since I had access to the Internet. At the age of 18, I had my first notebook and the first thing I did was play Resident Evil and analyze networks with Triangle, a pioneering software for triangulating GSM technology antennas to determine locations and access Wi-Fi networks.
 </p>
 </details>
-</p>
 
 ----
 
@@ -43,10 +42,11 @@ My journey in computer science has led me to develop a passion for cybersecurity
 <h3 align="left">CV´s</h3>
 
 <p align="left">
-<a href="" target="_blank" rel="noreferrer noopener"> <img align="center" src="https://img.shields.io/badge/CV%20CiberSec%20Lugo%20English-000000" alt="CV CiberSec Lugo English" /></a>
-<a href="" target="_blank" rel="noreferrer noopener"> <img align="center" src="https://img.shields.io/badge/CV%20CiberSec%20Lugo%20Spanish-000000" alt="CV CiberSec Lugo Spanish" /></a>
-<a href="" target="_blank" rel="noreferrer noopener"> <img align="center" src="https://img.shields.io/badge/CV%20Systems%20Lugo%20English-000000" alt="CV Systems Lugo English" /></a>
-<a href="" target="_blank" rel="noreferrer noopener"> <img align="center" src="https://img.shields.io/badge/CV%20Systems%20Lugo%20Spanish-000000" alt="CV Systems Lugo Spanish" /></a>
+<a href="" target="_blank" rel="noreferrer noopener"> <img align="center" src="https://img.shields.io/badge/CV-CyberSec%20Analyst%20Lugo%20English-green" alt="CV CyberSec Lugo English" /></a>
+<a href="" target="_blank" rel="noreferrer noopener"> <img align="center" src="https://img.shields.io/badge/CV-CyberSec%20Analyst%20Lugo%20Spanish-green" alt="CV CyberSec Lugo Spanish" /></a>
+<a href="" target="_blank" rel="noreferrer noopener"> <img align="center" src="https://img.shields.io/badge/CV-Systems%20Analyst%20Lugo%20English-green" alt="CV Systems Lugo English" /></a>
+<a href="" target="_blank" rel="noreferrer noopener"> <img align="center" src="https://img.shields.io/badge/CV-Systems%20Analyst%20Lugo%20Spanish-green" alt="CV Systems Lugo Spanish" /></a>
+</p>
 
 <h3 align="left">Connect with me</h3>
 
@@ -61,15 +61,16 @@ My journey in computer science has led me to develop a passion for cybersecurity
 <a href="https://linktr.ee/gabriellugooo" target="_blank" rel="noreferrer noopener"> <img align="center" src="https://simpleicons.org/icons/linktree.svg" alt="gabriellugooo" height="40" width="40" /></a>
 </p>
 
-<a target="_blank" align="center">
-  <img align="right" top="500" height="300" width="400" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
-</a>
-
 <details>
 <summary><h3>Certifications</h3></summary>
 
-- <a href="" rel="noreferrer"> <img src="" alt="Google Cibersecurity Certificate" width="40" height="40"/></a>
-- <a href="" rel="noreferrer"> <img src="" alt="Virasoro Higher Institute of Informatics" width="40" height="40"/></a>
+<a href="https://coursera.org/share/ec641fbfb8df73815a842d43dcc33515" target="_blank" rel="noreferrer noopener"> <img src="https://img.shields.io/badge/Certification-Google%20CyberSecurity%20Analyst%20Certificate-green" alt="Google Cybersecurity Certificate" /></a>
+<a href="https://coursera.org/share/ec641fbfb8df73815a842d43dcc33515" target="_blank" rel="noreferrer noopener"> <img src="https://img.shields.io/badge/Certification-ISIV%20Systems%20Analyst%20Certificate-green" alt="Virasoro Higher Institute of Informatics" /></a>
+
+<details>
+<summary>More Certifications</summary>
+<a href="https://coursera.org/share/ec641fbfb8df73815a842d43dcc33515" target="_blank" rel="noreferrer noopener"> <img src="https://img.shields.io/badge/Certification-Others%20Certificate%20Here-green" alt="Google Cybersecurity Certificate" /></a>
+</details>
 
 </details>
 
@@ -109,6 +110,8 @@ My journey in computer science has led me to develop a passion for cybersecurity
 - SIEM Tools
 
 </details>
+
+<a target="_blank" align="center"> <img align="right" height="600" width="300" alt="Infographic" src=""></a>
 
 <details>
 <summary><h3>Other Technicall Skills</h3></summary>
