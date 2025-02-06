@@ -42,10 +42,10 @@ My journey in computer science has led me to develop a passion for cybersecurity
 <h3 align="left">CV´s</h3>
 
 <p align="left">
-<a href="" target="_blank" rel="noreferrer noopener"> <img align="center" src="https://img.shields.io/badge/CV-CyberSec%20Analyst%20Lugo%20English-green" alt="CV CyberSec Lugo English" /></a>
-<a href="" target="_blank" rel="noreferrer noopener"> <img align="center" src="https://img.shields.io/badge/CV-CyberSec%20Analyst%20Lugo%20Spanish-green" alt="CV CyberSec Lugo Spanish" /></a>
-<a href="" target="_blank" rel="noreferrer noopener"> <img align="center" src="https://img.shields.io/badge/CV-Systems%20Analyst%20Lugo%20English-green" alt="CV Systems Lugo English" /></a>
-<a href="" target="_blank" rel="noreferrer noopener"> <img align="center" src="https://img.shields.io/badge/CV-Systems%20Analyst%20Lugo%20Spanish-green" alt="CV Systems Lugo Spanish" /></a>
+<a href="" target="_blank" rel="noreferrer noopener"> <img align="center" src="https://img.shields.io/badge/CV%20CyberSec%20Analyst%20Lugo%20English-000000" alt="CV CyberSec Lugo English" /></a>
+<a href="" target="_blank" rel="noreferrer noopener"> <img align="center" src="https://img.shields.io/badge/CV%20CyberSec%20Analyst%20Lugo%20Spanish-000000" alt="CV CyberSec Lugo Spanish" /></a>
+<a href="" target="_blank" rel="noreferrer noopener"> <img align="center" src="https://img.shields.io/badge/CV%20Systems%20Analyst%20Lugo%20English-000000" alt="CV Systems Lugo English" /></a>
+<a href="" target="_blank" rel="noreferrer noopener"> <img align="center" src="https://img.shields.io/badge/CV%20Systems%20Analyst%20Lugo%20Spanish-000000" alt="CV Systems Lugo Spanish" /></a>
 </p>
 
 <h3 align="left">Connect with me</h3>
@@ -57,29 +57,20 @@ My journey in computer science has led me to develop a passion for cybersecurity
 <a href="https://twitter.com/gabriellugo__" target="_blank" rel="noreferrer noopener"> <img align="center" src="https://img.icons8.com/?size=50&id=phOKFKYpe00C&format=png" alt="gabriellugo__" height="40" width="40" /></a>
 <a href="https://www.linkedin.com/in/hernando-gabriel-lugo" target="_blank" rel="noreferrer noopener"> <img align="center" src="https://img.icons8.com/?size=50&id=8808&format=png" alt="hernando-gabriel-lugo" height="40" width="40" /></a>
 <a href="https://github.com/GabrielLugooo" target="_blank" rel="noreferrer noopener"> <img align="center" src="https://img.icons8.com/?size=80&id=AngkmzgE6d3E&format=png" alt="gabriellugooo" height="34" width="34" /></a>
-<a href="mailto:lugohernandogabriel@gmail.com" target="_blank" rel="noreferrer noopener"> <img align="center" src="https://img.icons8.com/?size=50&id=38036&format=png" alt="lugohernandogabriel@gmail.com" height="40" width="40" /></a>
+<a href="https://tr.ee/bqj_R-SJuZ"> <img align="center" src="https://img.icons8.com/?size=50&id=38036&format=png" alt="lugohernandogabriel@gmail.com" height="40" width="40" /></a>
 <a href="https://linktr.ee/gabriellugooo" target="_blank" rel="noreferrer noopener"> <img align="center" src="https://simpleicons.org/icons/linktree.svg" alt="gabriellugooo" height="40" width="40" /></a>
 </p>
 
 <details>
 <summary><h3>Certifications</h3></summary>
 
-<a href="https://coursera.org/share/ec641fbfb8df73815a842d43dcc33515" target="_blank" rel="noreferrer noopener"> <img src="https://img.shields.io/badge/Certification-Google%20CyberSecurity%20Analyst%20Certificate-green" alt="Google Cybersecurity Certificate" /></a>
-<a href="https://coursera.org/share/ec641fbfb8df73815a842d43dcc33515" target="_blank" rel="noreferrer noopener"> <img src="https://img.shields.io/badge/Certification-ISIV%20Systems%20Analyst%20Certificate-green" alt="Virasoro Higher Institute of Informatics" /></a>
+<a href="https://coursera.org/share/ec641fbfb8df73815a842d43dcc33515" target="_blank" rel="noreferrer noopener"> <img src="https://img.shields.io/badge/Google%20CyberSecurity%20Analyst%20Certificate-000000" alt="Google Cybersecurity Certificate" /></a>
+<a href="https://coursera.org/share/ec641fbfb8df73815a842d43dcc33515" target="_blank" rel="noreferrer noopener"> <img src="https://img.shields.io/badge/ISIV%20Systems%20Analyst%20Certificate-000000" alt="Virasoro Higher Institute of Informatics" /></a>
 
 <details>
 <summary>More Certifications</summary>
-<a href="https://coursera.org/share/ec641fbfb8df73815a842d43dcc33515" target="_blank" rel="noreferrer noopener"> <img src="https://img.shields.io/badge/Certification-Others%20Certificate%20Here-green" alt="Google Cybersecurity Certificate" /></a>
+<a href="https://coursera.org/share/ec641fbfb8df73815a842d43dcc33515" target="_blank" rel="noreferrer noopener"> <img src="https://img.shields.io/badge/Others%20Certificate%20Here-000000" alt="Google Cybersecurity Certificate" /></a>
 </details>
-
-</details>
-
-<details>
-<summary><h3>Projects</h3></summary>
-
-- <a href="">Detection Lab</a>
-- <a href="">SOC Automation Project</a>
-- <a href="">Working on own IA Secret Project</a>
 
 </details>
   
@@ -98,7 +89,7 @@ My journey in computer science has led me to develop a passion for cybersecurity
 </details>
 
 <details>
-<summary><h3>CiberSec Technicall Skills</h3></summary>
+<summary><h3>CiberSec Skills</h3></summary>
 
 - Threats, risks and vulnerabilities
 - Incident response
@@ -110,8 +101,6 @@ My journey in computer science has led me to develop a passion for cybersecurity
 - SIEM Tools
 
 </details>
-
-<a target="_blank" align="center"> <img align="right" height="600" width="300" alt="Infographic" src=""></a>
 
 <details>
 <summary><h3>Other Technicall Skills</h3></summary>
@@ -233,6 +222,16 @@ My journey in computer science has led me to develop a passion for cybersecurity
 
 </details>
 
+<details>
+<summary><h3>Projects</h3></summary>
+
+- <a href="">Detection Lab Project</a>
+- <a href="">SOC Automation Project</a>
+- <a href="">Vicky Project (AI)</a>
+
+</details>
+
 ----
-<a href="https://github.com/GabrielLugooo" target="_blank" rel="noreferrer noopener"> <img align="center" src="https://img.shields.io/badge/Credits-Gabriel%20Lugo-green" alt="Credits" /></a>
-<img align="center" src="https://img.shields.io/badge/Last%20Edited-01%2F02%2F2025-green" alt="Last edited" /></a>
+<a href="" target="_blank" rel="noreferrer noopener"> <img align="center" src="" alt="" ></a>
+<a href="https://linktr.ee/gabriellugooo" target="_blank" rel="noreferrer noopener"> <img align="center" src="https://img.shields.io/badge/Credits-Gabriel%20Lugo-green" alt="Credits" /></a>
+<a href="" target="_blank" rel="noreferrer noopener"> <img align="center" src="https://img.shields.io/badge/Last%20Edited-01%2F02%2F2025-green" alt="Last edited" /></a>
