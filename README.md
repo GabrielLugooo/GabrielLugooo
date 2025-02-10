@@ -40,15 +40,6 @@ I have been interested in the field of cybersecurity since I had access to the I
 My journey in computer science has led me to develop a passion for cybersecurity, and I am now eager to transition into this field, specifically aiming to join a Security Operations Center (SOC) as a Tier 1 Analyst to apply my skills in network security, security policy, and organizational risk management.
 </p>
 
-<h3 align="left">CV´s</h3>
-
-<p align="left">
-<a href="" target="_blank" rel="noreferrer noopener"> <img align="center" src="https://img.shields.io/badge/CV%20CyberSec%20Analyst%20Lugo%20English-000000" alt="CV CyberSec Lugo English" /></a>
-<a href="" target="_blank" rel="noreferrer noopener"> <img align="center" src="https://img.shields.io/badge/CV%20CyberSec%20Analyst%20Lugo%20Spanish-000000" alt="CV CyberSec Lugo Spanish" /></a>
-<a href="" target="_blank" rel="noreferrer noopener"> <img align="center" src="https://img.shields.io/badge/CV%20Systems%20Analyst%20Lugo%20English-000000" alt="CV Systems Lugo English" /></a>
-<a href="" target="_blank" rel="noreferrer noopener"> <img align="center" src="https://img.shields.io/badge/CV%20Systems%20Analyst%20Lugo%20Spanish-000000" alt="CV Systems Lugo Spanish" /></a>
-</p>
-
 <h3 align="left">Connect with me</h3>
 
 <p align="left">
@@ -62,17 +53,39 @@ My journey in computer science has led me to develop a passion for cybersecurity
 <a href="https://linktr.ee/gabriellugooo" target="_blank" rel="noreferrer noopener"> <img align="center" src="https://simpleicons.org/icons/linktree.svg" alt="gabriellugooo" height="40" width="40" /></a>
 </p>
 
+<h3 align="left">CV´s</h3>
+
+<p align="left">
+<a href="" target="_blank" rel="noreferrer noopener"> <img align="center" src="https://img.shields.io/badge/CV%20CyberSec%20Analyst%20Lugo%20English-000000" alt="CV CyberSec Lugo English" /></a>
+<a href="" target="_blank" rel="noreferrer noopener"> <img align="center" src="https://img.shields.io/badge/CV%20CyberSec%20Analyst%20Lugo%20Spanish-000000" alt="CV CyberSec Lugo Spanish" /></a>
+</p>
+
 <details>
 <summary><h3>Certifications</h3></summary>
     
 <a href="https://coursera.org/share/ec641fbfb8df73815a842d43dcc33515" target="_blank" rel="noreferrer noopener"> <img src="https://img.shields.io/badge/Google%20CyberSecurity%20Analyst%20Certificate-000000" alt="Google Cybersecurity Certificate" /></a>
-
-<a href="https://coursera.org/share/ec641fbfb8df73815a842d43dcc33515" target="_blank" rel="noreferrer noopener"> <img src="https://img.shields.io/badge/ISIV%20Systems%20Analyst%20Certificate-000000" alt="Virasoro Higher Institute of Informatics" /></a>
+<a href="https://drive.google.com/file/d/1_XZ_zH40Cy4QJnDo4KaW6r1S5AtOI8B2/view?usp=sharing" target="_blank" rel="noreferrer noopener"> <img src="https://img.shields.io/badge/ISIV%20Systems%20Analyst%20Certificate-000000" alt="Virasoro Higher Institute of Informatics" /></a>
     
 <details>
 <summary>More Certifications</summary>
     
-<a href="https://coursera.org/share/ec641fbfb8df73815a842d43dcc33515" target="_blank" rel="noreferrer noopener"> <img src="https://img.shields.io/badge/Others%20Certificate%20Here-000000" alt="Google Cybersecurity Certificate" /></a>
+
+<a href="https://drive.google.com/file/d/1kD3ijLHutOUMc17g4CLBc3IvdTeEl0Fc/view?usp=sharing" target="_blank" rel="noreferrer noopener"> <img src="https://img.shields.io/badge/Google%20Web%20Analytics-000000" alt="Google Web Analytics" /></a>
+
+<a href="https://drive.google.com/file/d/1L6hVLP3dWeAKx9uW4QGde3TbC5nAjSLT/view?usp=sharing" target="_blank" rel="noreferrer noopener"> <img src="https://img.shields.io/badge/Google%20Fundamentals%20ECommerce-000000" alt="Fundamentals E-Commerce Certificate" /></a>
+<a href="https://drive.google.com/file/d/1QlslvkTRxXVIpDVT83SdaksUATSyJqQE/view?usp=sharing" target="_blank" rel="noreferrer noopener"> <img src="https://img.shields.io/badge/Google%20ECommerce-000000" alt="E-Commerce Certificate" /></a>
+
+<a href="https://drive.google.com/file/d/1lfb2ErXMMkV7c14biQWZ8RvjlnE63Lo7/view?usp=sharing" target="_blank" rel="noreferrer noopener"> <img src="https://img.shields.io/badge/Google%20Fundamentals%20Digital%20Marketing-000000" alt="Fundamentals Digital Marketing Certificate" /></a>
+<a href="https://drive.google.com/file/d/1yzmB79LJ4OROZPY82usaSxT4UtEy_DCE/view?usp=sharing" target="_blank" rel="noreferrer noopener"> <img src="https://img.shields.io/badge/Google%20Digital%20Marketing-000000" alt="Digital MArketing Certificate" /></a>
+
+<a href="https://drive.google.com/file/d/1sjB6YvplBR95dEzHv-OCHtP_6mrJfXBK/view?usp=sharing" target="_blank" rel="noreferrer noopener"> <img src="https://img.shields.io/badge/Google%20Fundamentals%20Mobile%20Apps-000000" alt="Fundamentals Mobile Apps Certificate" /></a>
+<a href="https://drive.google.com/file/d/1Z9l7PIBEDjimKFFm9jmfQBuJ95wZQjc-/view?usp=sharing" target="_blank" rel="noreferrer noopener"> <img src="https://img.shields.io/badge/Google%20Mobile%20Apps-000000" alt="Mobile Apps Certificate" /></a>
+
+<a href="https://drive.google.com/file/d/1gQu1rKui90JUQGpSa3BBqV_LyP92BzOO/view?usp=sharing" target="_blank" rel="noreferrer noopener"> <img src="https://img.shields.io/badge/Electronics%20Technician-000000" alt="Electronics Technician Certificate" /></a>
+
+<a href="https://drive.google.com/file/d/1xhLZg0KT_273_EuGAfaNxem_Fv6_SZGV/view?usp=sharing" target="_blank" rel="noreferrer noopener"> <img src="https://img.shields.io/badge/Kings%20English%20Basics-000000" alt="English Basics Certificate" /></a>
+<a href="https://drive.google.com/file/d/145XJHRFAGnsFNWUSQI8dPqrX4rBD_5Zn/view?usp=sharing" target="_blank" rel="noreferrer noopener"> <img src="https://img.shields.io/badge/Kings%20English%20Intermediate-000000" alt="English Intermediate Certificate" /></a>
+
 
 </details>
 
