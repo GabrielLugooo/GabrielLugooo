@@ -53,12 +53,19 @@ My journey in computer science has led me to develop a passion for cybersecurity
 <a href="https://linktr.ee/gabriellugooo" target="_blank" rel="noreferrer noopener"> <img align="center" src="https://simpleicons.org/icons/linktree.svg" alt="gabriellugooo" height="40" width="40" /></a>
 </p>
 
-<h3 align="left">CV´s</h3>
+<p align="right">
+https://imarticus.org/blog/wp-content/uploads/2021/02/huhgg.gif
+</p>
+
+<details>
+<summary><h3>CV´s</h3></summary>
 
 <p align="left">
 <a href="" target="_blank" rel="noreferrer noopener"> <img align="center" src="https://img.shields.io/badge/CV%20CyberSec%20Analyst%20Lugo%20English-000000" alt="CV CyberSec Lugo English" /></a>
 <a href="" target="_blank" rel="noreferrer noopener"> <img align="center" src="https://img.shields.io/badge/CV%20CyberSec%20Analyst%20Lugo%20Spanish-000000" alt="CV CyberSec Lugo Spanish" /></a>
 </p>
+
+</details>
 
 <details>
 <summary><h3>Certifications</h3></summary>
@@ -69,23 +76,23 @@ My journey in computer science has led me to develop a passion for cybersecurity
 <details>
 <summary>More Certifications</summary>
     
+<a href="https://drive.google.com/file/d/1kD3ijLHutOUMc17g4CLBc3IvdTeEl0Fc/view?usp=sharing" target="_blank" rel="noreferrer noopener"> <img src="https://img.shields.io/badge/Google%20Web%20Analytics-000000" alt="Web Analytics" /></a>
 
-<a href="https://drive.google.com/file/d/1kD3ijLHutOUMc17g4CLBc3IvdTeEl0Fc/view?usp=sharing" target="_blank" rel="noreferrer noopener"> <img src="https://img.shields.io/badge/Google%20Web%20Analytics-000000" alt="Google Web Analytics" /></a>
-
-<a href="https://drive.google.com/file/d/1L6hVLP3dWeAKx9uW4QGde3TbC5nAjSLT/view?usp=sharing" target="_blank" rel="noreferrer noopener"> <img src="https://img.shields.io/badge/Google%20Fundamentals%20ECommerce-000000" alt="Fundamentals E-Commerce Certificate" /></a>
+<a href="https://drive.google.com/file/d/1L6hVLP3dWeAKx9uW4QGde3TbC5nAjSLT/view?usp=sharing" target="_blank" rel="noreferrer noopener"> <img src="https://img.shields.io/badge/Google%20ECommerce%20Fundamentals-000000" alt="E-Commerce Fundamentals Certificate" /></a>
 <a href="https://drive.google.com/file/d/1QlslvkTRxXVIpDVT83SdaksUATSyJqQE/view?usp=sharing" target="_blank" rel="noreferrer noopener"> <img src="https://img.shields.io/badge/Google%20ECommerce-000000" alt="E-Commerce Certificate" /></a>
 
-<a href="https://drive.google.com/file/d/1lfb2ErXMMkV7c14biQWZ8RvjlnE63Lo7/view?usp=sharing" target="_blank" rel="noreferrer noopener"> <img src="https://img.shields.io/badge/Google%20Fundamentals%20Digital%20Marketing-000000" alt="Fundamentals Digital Marketing Certificate" /></a>
-<a href="https://drive.google.com/file/d/1yzmB79LJ4OROZPY82usaSxT4UtEy_DCE/view?usp=sharing" target="_blank" rel="noreferrer noopener"> <img src="https://img.shields.io/badge/Google%20Digital%20Marketing-000000" alt="Digital MArketing Certificate" /></a>
+<a href="https://drive.google.com/file/d/1zhiX5yMXfWPW1MJstMi3fywYQKr2620t/view?usp=sharing" target="_blank" rel="noreferrer noopener"> <img src="https://img.shields.io/badge/Google%20Digital%20Marketing%20Fundamentals-000000" alt="Digital Marketing Fundamentals Certificate" /></a>
+<a href="https://drive.google.com/file/d/1lfb2ErXMMkV7c14biQWZ8RvjlnE63Lo7/view?usp=sharing" target="_blank" rel="noreferrer noopener"> <img src="https://img.shields.io/badge/Google%20Digital%20Marketing-000000" alt="Digital Marketing Certificate" /></a>
+<a href="https://drive.google.com/file/d/1yzmB79LJ4OROZPY82usaSxT4UtEy_DCE/view?usp=sharing" target="_blank" rel="noreferrer noopener"> <img src="https://img.shields.io/badge/Google%20Digital%20Marketing%20Garage-000000" alt="Digital Marketing Garage Certificate" /></a>
 
-<a href="https://drive.google.com/file/d/1sjB6YvplBR95dEzHv-OCHtP_6mrJfXBK/view?usp=sharing" target="_blank" rel="noreferrer noopener"> <img src="https://img.shields.io/badge/Google%20Fundamentals%20Mobile%20Apps-000000" alt="Fundamentals Mobile Apps Certificate" /></a>
+<a href="https://drive.google.com/file/d/1sjB6YvplBR95dEzHv-OCHtP_6mrJfXBK/view?usp=sharing" target="_blank" rel="noreferrer noopener"> <img src="https://img.shields.io/badge/Google%20Mobile%20Apps%20Fundamentals-000000" alt="Mobile Apps Fundamentals Certificate" /></a>
 <a href="https://drive.google.com/file/d/1Z9l7PIBEDjimKFFm9jmfQBuJ95wZQjc-/view?usp=sharing" target="_blank" rel="noreferrer noopener"> <img src="https://img.shields.io/badge/Google%20Mobile%20Apps-000000" alt="Mobile Apps Certificate" /></a>
+<a href="https://drive.google.com/file/d/18T46smPjLIABQFjEXr1D7AKCRmPkgjfG/view?usp=sharing" target="_blank" rel="noreferrer noopener"> <img src="https://img.shields.io/badge/Google%20Mobile%20Apps%20Inventor-000000" alt="Mobile Apps Inventor Certificate" /></a>
 
 <a href="https://drive.google.com/file/d/1gQu1rKui90JUQGpSa3BBqV_LyP92BzOO/view?usp=sharing" target="_blank" rel="noreferrer noopener"> <img src="https://img.shields.io/badge/Electronics%20Technician-000000" alt="Electronics Technician Certificate" /></a>
 
 <a href="https://drive.google.com/file/d/1xhLZg0KT_273_EuGAfaNxem_Fv6_SZGV/view?usp=sharing" target="_blank" rel="noreferrer noopener"> <img src="https://img.shields.io/badge/Kings%20English%20Basics-000000" alt="English Basics Certificate" /></a>
 <a href="https://drive.google.com/file/d/145XJHRFAGnsFNWUSQI8dPqrX4rBD_5Zn/view?usp=sharing" target="_blank" rel="noreferrer noopener"> <img src="https://img.shields.io/badge/Kings%20English%20Intermediate-000000" alt="English Intermediate Certificate" /></a>
-
 
 </details>
 
