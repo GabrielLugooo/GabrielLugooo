@@ -1,34 +1,34 @@
 <img align="center" src="https://media.licdn.com/dms/image/v2/D4D16AQGUNxQ7NSC05A/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1738695150340?e=1744243200&v=beta&t=oXX-ixT9bR3dJcYCLv4KBs5wjKFoeP0524kFGHQMYmQ" alt="gabriellugo" />
 
 <p align="left">
-<h1 align="left">Hi 👋, I'm Gabriel Lugo</h1> 
+<h1 align="left">Hola! 👋, Soy Gabriel Lugo</h1> 
 
-<a href="" target="_blank" rel="noreferrer noopener"> <img align="center" src="https://img.shields.io/badge/Spanish%20Version-000000" alt="Spanish Version" /></a>
-<a href="https://github.com/GabrielLugooo/GabrielLugooo/blob/main/README.md" target="_blank" rel="noreferrer noopener"><img align="center" src="https://img.shields.io/badge/English%20Version-Green" alt="English Version" /></a>
-<img align="center" src="https://komarev.com/ghpvc/?username=GabrielLugoo&label=Profile%20views&color=green&base=2000" alt="GabrielLugooo" />
+<a href="https://github.com/GabrielLugooo/GabrielLugooo/blob/main/README%20Spanish.md" target="_blank" rel="noreferrer noopener"> <img align="center" src="https://img.shields.io/badge/Versión%20Español-000000" alt="Version Español" /></a>
+<a href="https://github.com/GabrielLugooo/GabrielLugooo/blob/main/README.md" target="_blank" rel="noreferrer noopener"><img align="center" src="https://img.shields.io/badge/Versión%20Inglés-Green" alt="Version Inglés" /></a>
+<img align="center" src="https://komarev.com/ghpvc/?username=GabrielLugoo&label=Vistas%20del%20Perfil&color=green&base=2000" alt="GabrielLugooo" />
 </p>
 
-<h3 align="left">About Me</h3>
+<h3 align="left">Acerca de Mi</h3>
 <p align="left">
 
-Hello! My name is Gabriel, I am motivated and passionate about technology, cybersecurity and computing, as well as safeguarding people's security, including their financial well-being. I enjoy working with technology and analyzing and solving cybersecurity problems.
+¡Hola! Mi nombre es Gabriel, soy un apasionado y motivado por la tecnología, la ciberseguridad y la informática, así como por salvaguardar la seguridad de las personas, incluyendo su bienestar financiero. Disfruto trabajar con tecnología y analizar y resolver problemas de ciberseguridad.
 
-I am a recent graduate as a systems analyst and cybersecurity analyst. I also like to continue learning, so I have taken anothers courses in the IT industry that help me continue to expand my horizon of knowledge, develop my professional skills, and solve organizational problems. I am passionate about helping others, so I share information on topics related to technology, IT, and cybersecurity on my social networks. 
+Soy recién graduado como analista de sistemas y analista de ciberseguridad. También me gusta seguir aprendiendo, por lo que he tomado otros cursos en la industria de TI que me ayudan a seguir ampliando mi horizonte de conocimiento, desarrollar mis habilidades profesionales y resolver problemas organizacionales. Me apasiona ayudar a los demás, por lo que comparto información sobre temas relacionados con la tecnología, la TI y la ciberseguridad en mis redes sociales.
 
-Also I like science, books, learn & play music (most part piano, but i was dj & producer in the past!), mtbike & running trials, bmx & skate, portrait photography (worked like one for a while!) and woodworking. I have an entrepreneurial mind, In the past i had a neigborhood supermarket for 10 years, a small computer store - it service, and started my own small overzise t-shirt brand (about skate & bmx).
+También me gusta la ciencia, los libros, aprender y tocar música (piano en su mayoría, ¡pero fui DJ y productor en el pasado!), mtbike y carreras de trial, bmx y skate, fotografía de retrato (¡trabajé como tal por un tiempo!) y carpintería. Tengo una mente emprendedora. En el pasado tuve un supermercado de barrio durante 10 años, una pequeña tienda de computadoras, servicio de TI y comencé mi propia marca de camisetas de gran tamaño (sobre skate y BMX).
 
 <!-- QUOTE -->
 <p align="right">
-    <q><i>Passion drives me, Curiosity guides me</i></q> - by Me 😎<br>
+    <q><i>La pasión me impulsa, la curiosidad me guía</i></q> - Por Mi 😎<br>
 </p>
   
 <details>
-<summary>More About me</summary>
+<summary>Mas Acerca de Mi</summary>
 <p align="left">
   
-I was introduced to the world of computing in 1994, at the age of 14, when I started a GW BASIC course, a year before the Windows 95 OS. In 1997/98, at the age of 17/18, I was already helping my 4th year high school computer classmates with the first TANGO Software app (soft for accountants) in MS-DOS and MS Windows.
+Me introduje en el mundo de la informática en 1994, a los 14 años, cuando empecé un curso de GW BASIC, un año antes del SO Windows 95. En 1997/98, con 17/18 años, ya ayudaba a mis compañeros de informática de 4º de bachillerato con la primera aplicación de TANGO Software (software para contables) en MS-DOS y MS Windows.
 
-I have been interested in the field of cybersecurity since I had access to the Internet. At the age of 18, I had my first notebook and the first thing I did was play Resident Evil and analyze networks with Triangle, a pioneering software for triangulating GSM technology antennas to determine locations and access Wi-Fi networks.
+Me interesé por el ámbito de la ciberseguridad desde que tuve acceso a Internet. A los 18 años tuve mi primer notebook y lo primero que hice fue jugar a Resident Evil y analizar redes con Triangle, un software pionero en triangulación de antenas de tecnología GSM para determinar ubicaciones y acceder a redes Wi-Fi.
 
 </p>
 
@@ -36,12 +36,12 @@ I have been interested in the field of cybersecurity since I had access to the I
 
 ----
 
-<h3 align="left">Objectives</h3>
+<h3 align="left">Objetivos</h3>
 <p align="left">
-My journey in computer science has led me to develop a passion for cybersecurity, and I am now eager to transition into this field, specifically aiming to join a Security Operations Center (SOC) as a Tier 1 Analyst to apply my skills in network security, security policy, and organizational risk management.
+Mi trayectoria en la informática me ha llevado a desarrollar una pasión por la ciberseguridad y ahora estoy ansioso por hacer la transición a este campo, específicamente con el objetivo de unirme a un Centro de Operaciones de Seguridad (SOC) como Analista de Nivel 1 para aplicar mis habilidades en seguridad de red, política de seguridad y gestión de riesgos organizacionales.
 </p>
 
-<h3 align="left">Connect with me</h3>
+<h3 align="left">Conecta Conmigo</h3>
 
 <p align="left">
 <a href="https://www.youtube.com/@gabriellugooo" target="_blank" rel="noreferrer noopener"> <img align="center" src="https://img.icons8.com/?size=50&id=55200&format=png" alt="@gabriellugooo" height="40" width="40" /></a>
@@ -50,7 +50,7 @@ My journey in computer science has led me to develop a passion for cybersecurity
 <a href="https://twitter.com/gabriellugo__" target="_blank" rel="noreferrer noopener"> <img align="center" src="https://img.icons8.com/?size=50&id=phOKFKYpe00C&format=png" alt="gabriellugo__" height="40" width="40" /></a>
 <a href="https://www.linkedin.com/in/hernando-gabriel-lugo" target="_blank" rel="noreferrer noopener"> <img align="center" src="https://img.icons8.com/?size=50&id=8808&format=png" alt="hernando-gabriel-lugo" height="40" width="40" /></a>
 <a href="https://github.com/GabrielLugooo" target="_blank" rel="noreferrer noopener"> <img align="center" src="https://img.icons8.com/?size=80&id=AngkmzgE6d3E&format=png" alt="gabriellugooo" height="34" width="34" /></a>
-<a href=""> <img align="center" src="https://img.icons8.com/?size=50&id=38036&format=png" alt="lugohernandogabriel@gmail.com" height="40" width="40" /></a>
+<a href="mailto:lugohernandogabriel@gmail.com"> <img align="center" src="https://img.icons8.com/?size=50&id=38036&format=png" alt="lugohernandogabriel@gmail.com" height="40" width="40" /></a>
 <a href="https://linktr.ee/gabriellugooo" target="_blank" rel="noreferrer noopener"> <img align="center" src="https://simpleicons.org/icons/linktree.svg" alt="gabriellugooo" height="40" width="40" /></a>
 </p>
 
@@ -60,76 +60,76 @@ My journey in computer science has led me to develop a passion for cybersecurity
 <summary><h3>CV´s</h3></summary>
 
 <p align="left">
-<a href="https://docs.google.com/document/d/16CRnSfFObLvR0PXFiPym0Doz5CGISGQ3AJCcIFAhpIY/edit?usp=sharing" target="_blank" rel="noreferrer noopener"> <img align="center" src="https://img.shields.io/badge/CV%20CyberSec%20Analyst%20Lugo%20English-000000" alt="CV CyberSec Lugo English" /></a>
-<a href="https://docs.google.com/document/d/1zKbdoVUCwNzW58XPBt--MFvbxf-2bXi0VfjkTu30jfI/edit?usp=sharing" target="_blank" rel="noreferrer noopener"> <img align="center" src="https://img.shields.io/badge/CV%20CyberSec%20Analyst%20Lugo%20Spanish-000000" alt="CV CyberSec Lugo Spanish" /></a>
+<a href="https://docs.google.com/document/d/16CRnSfFObLvR0PXFiPym0Doz5CGISGQ3AJCcIFAhpIY/edit?usp=sharing" target="_blank" rel="noreferrer noopener"> <img align="center" src="https://img.shields.io/badge/CV%20Analista%20CiberSec%20Lugo%20Inglés-000000" alt="CV CyberSec Lugo Inglés" /></a>
+<a href="https://docs.google.com/document/d/1zKbdoVUCwNzW58XPBt--MFvbxf-2bXi0VfjkTu30jfI/edit?usp=sharing" target="_blank" rel="noreferrer noopener"> <img align="center" src="https://img.shields.io/badge/CV%20Analista%20CiberSec%20Lugo%20Españolh-000000" alt="CV CyberSec Lugo Español" /></a>
 
-<a href="https://docs.google.com/document/d/1mO4L2IJ0deiYdo515eaVGis_1r_OAxeZAtlXNPOTQ5w/edit?usp=sharing" target="_blank" rel="noreferrer noopener"> <img align="center" src="https://img.shields.io/badge/CV%20Systems%20Analyst%20Lugo%20English-000000" alt="CV Systems Lugo English" /></a>
-<a href="https://docs.google.com/document/d/1J_JAEm1ceemn9kxLkHk5BLSulhVQ3b8eUPhguSQ_vKw/edit?usp=sharing" target="_blank" rel="noreferrer noopener"> <img align="center" src="https://img.shields.io/badge/CV%20Systems%20Analyst%20Lugo%20Spanish-000000" alt="CV Systems Lugo Spanish" /></a>
+<a href="https://docs.google.com/document/d/1mO4L2IJ0deiYdo515eaVGis_1r_OAxeZAtlXNPOTQ5w/edit?usp=sharing" target="_blank" rel="noreferrer noopener"> <img align="center" src="https://img.shields.io/badge/CV%20Analista%20Sistemas%20Lugo%20Inglés-000000" alt="CV Sistemas Lugo Inglés" /></a>
+<a href="https://docs.google.com/document/d/1J_JAEm1ceemn9kxLkHk5BLSulhVQ3b8eUPhguSQ_vKw/edit?usp=sharing" target="_blank" rel="noreferrer noopener"> <img align="center" src="https://img.shields.io/badge/CV%20Analista%20Sistemas%20Lugo%20Español-000000" alt="CV Sistemas Lugo Español" /></a>
 </p>
 
 </details>
 
 <details>
-<summary><h3>Certifications</h3></summary>
+<summary><h3>Certificaciones</h3></summary>
     
-<a href="https://coursera.org/share/ec641fbfb8df73815a842d43dcc33515" target="_blank" rel="noreferrer noopener"> <img src="https://img.shields.io/badge/Google%20CyberSecurity%20Analyst%20Certificate-000000" alt="Google Cybersecurity Certificate" /></a>
-<a href="https://drive.google.com/file/d/1_XZ_zH40Cy4QJnDo4KaW6r1S5AtOI8B2/view?usp=sharing" target="_blank" rel="noreferrer noopener"> <img src="https://img.shields.io/badge/ISIV%20Systems%20Analyst%20Certificate-000000" alt="Virasoro Higher Institute of Informatics" /></a>
+<a href="https://coursera.org/share/ec641fbfb8df73815a842d43dcc33515" target="_blank" rel="noreferrer noopener"> <img src="https://img.shields.io/badge/Certificado%20Analista%20Cibersecuridad%20Google-000000" alt="Certificado Analista Cibersecuridad Google" /></a>
+<a href="https://drive.google.com/file/d/1_XZ_zH40Cy4QJnDo4KaW6r1S5AtOI8B2/view?usp=sharing" target="_blank" rel="noreferrer noopener"> <img src="https://img.shields.io/badge/Certificado%20Analista%20Sistemas%20ISIV-000000" alt="Instituto Superior de Informática de Virasoro" /></a>
     
 <details>
-<summary>More Certifications</summary>
+<summary>Mas Certificaciones</summary>
     
-<a href="https://drive.google.com/file/d/1kD3ijLHutOUMc17g4CLBc3IvdTeEl0Fc/view?usp=sharing" target="_blank" rel="noreferrer noopener"> <img src="https://img.shields.io/badge/Google%20Web%20Analytics-000000" alt="Web Analytics" /></a>
+<a href="https://drive.google.com/file/d/1kD3ijLHutOUMc17g4CLBc3IvdTeEl0Fc/view?usp=sharing" target="_blank" rel="noreferrer noopener"> <img src="https://img.shields.io/badge/Analítica%20Web%20Google-000000" alt="Analítica Web" /></a>
 
-<a href="https://drive.google.com/file/d/1L6hVLP3dWeAKx9uW4QGde3TbC5nAjSLT/view?usp=sharing" target="_blank" rel="noreferrer noopener"> <img src="https://img.shields.io/badge/Google%20ECommerce%20Fundamentals-000000" alt="E-Commerce Fundamentals Certificate" /></a>
-<a href="https://drive.google.com/file/d/1QlslvkTRxXVIpDVT83SdaksUATSyJqQE/view?usp=sharing" target="_blank" rel="noreferrer noopener"> <img src="https://img.shields.io/badge/Google%20ECommerce-000000" alt="E-Commerce Certificate" /></a>
+<a href="https://drive.google.com/file/d/1L6hVLP3dWeAKx9uW4QGde3TbC5nAjSLT/view?usp=sharing" target="_blank" rel="noreferrer noopener"> <img src="https://img.shields.io/badge/Fundamentos%20ECommerce%20Google-000000" alt="Fundamentos E-Commerce" /></a>
+<a href="https://drive.google.com/file/d/1QlslvkTRxXVIpDVT83SdaksUATSyJqQE/view?usp=sharing" target="_blank" rel="noreferrer noopener"> <img src="https://img.shields.io/badge/ECommerce%20Google-000000" alt="E-Commerce" /></a>
 
-<a href="https://drive.google.com/file/d/1zhiX5yMXfWPW1MJstMi3fywYQKr2620t/view?usp=sharing" target="_blank" rel="noreferrer noopener"> <img src="https://img.shields.io/badge/Google%20Digital%20Marketing%20Fundamentals-000000" alt="Digital Marketing Fundamentals Certificate" /></a>
-<a href="https://drive.google.com/file/d/1lfb2ErXMMkV7c14biQWZ8RvjlnE63Lo7/view?usp=sharing" target="_blank" rel="noreferrer noopener"> <img src="https://img.shields.io/badge/Google%20Digital%20Marketing-000000" alt="Digital Marketing Certificate" /></a>
-<a href="https://drive.google.com/file/d/1yzmB79LJ4OROZPY82usaSxT4UtEy_DCE/view?usp=sharing" target="_blank" rel="noreferrer noopener"> <img src="https://img.shields.io/badge/Google%20Digital%20Marketing%20Garage-000000" alt="Digital Marketing Garage Certificate" /></a>
+<a href="https://drive.google.com/file/d/1zhiX5yMXfWPW1MJstMi3fywYQKr2620t/view?usp=sharing" target="_blank" rel="noreferrer noopener"> <img src="https://img.shields.io/badge/Fundamentos%20Marketing%20Digital%20Google-000000" alt="Fundamentos Digital Marketing" /></a>
+<a href="https://drive.google.com/file/d/1lfb2ErXMMkV7c14biQWZ8RvjlnE63Lo7/view?usp=sharing" target="_blank" rel="noreferrer noopener"> <img src="https://img.shields.io/badge/Marketing%20Digital%20Google-000000" alt="Marketing Digital" /></a>
+<a href="https://drive.google.com/file/d/1yzmB79LJ4OROZPY82usaSxT4UtEy_DCE/view?usp=sharing" target="_blank" rel="noreferrer noopener"> <img src="https://img.shields.io/badge/Marketing%20Digital%20Google%20Garage-000000" alt="Marketing Digital Garage" /></a>
 
-<a href="https://drive.google.com/file/d/1sjB6YvplBR95dEzHv-OCHtP_6mrJfXBK/view?usp=sharing" target="_blank" rel="noreferrer noopener"> <img src="https://img.shields.io/badge/Google%20Mobile%20Apps%20Fundamentals-000000" alt="Mobile Apps Fundamentals Certificate" /></a>
-<a href="https://drive.google.com/file/d/1Z9l7PIBEDjimKFFm9jmfQBuJ95wZQjc-/view?usp=sharing" target="_blank" rel="noreferrer noopener"> <img src="https://img.shields.io/badge/Google%20Mobile%20Apps-000000" alt="Mobile Apps Certificate" /></a>
-<a href="https://drive.google.com/file/d/18T46smPjLIABQFjEXr1D7AKCRmPkgjfG/view?usp=sharing" target="_blank" rel="noreferrer noopener"> <img src="https://img.shields.io/badge/Google%20Mobile%20Apps%20Inventor-000000" alt="Mobile Apps Inventor Certificate" /></a>
+<a href="https://drive.google.com/file/d/1sjB6YvplBR95dEzHv-OCHtP_6mrJfXBK/view?usp=sharing" target="_blank" rel="noreferrer noopener"> <img src="https://img.shields.io/badge/Fundamentos%20Apps%20Móviles%Google-000000" alt="Fundamentos Apps Móviles" /></a>
+<a href="https://drive.google.com/file/d/1Z9l7PIBEDjimKFFm9jmfQBuJ95wZQjc-/view?usp=sharing" target="_blank" rel="noreferrer noopener"> <img src="https://img.shields.io/badge/Apps%20Móviles%20Google-000000" alt="Apps Móviles" /></a>
+<a href="https://drive.google.com/file/d/18T46smPjLIABQFjEXr1D7AKCRmPkgjfG/view?usp=sharing" target="_blank" rel="noreferrer noopener"> <img src="https://img.shields.io/badge/Apps%20Móviles%20Inventor%20Google-000000" alt="Apps Móviles Inventor" /></a>
 
-<a href="https://drive.google.com/file/d/1gQu1rKui90JUQGpSa3BBqV_LyP92BzOO/view?usp=sharing" target="_blank" rel="noreferrer noopener"> <img src="https://img.shields.io/badge/Electronics%20Technician-000000" alt="Electronics Technician Certificate" /></a>
+<a href="https://drive.google.com/file/d/1gQu1rKui90JUQGpSa3BBqV_LyP92BzOO/view?usp=sharing" target="_blank" rel="noreferrer noopener"> <img src="https://img.shields.io/badge/Técnico Electrónico-000000" alt="Técnico Electrónico" /></a>
 
-<a href="https://drive.google.com/file/d/1xhLZg0KT_273_EuGAfaNxem_Fv6_SZGV/view?usp=sharing" target="_blank" rel="noreferrer noopener"> <img src="https://img.shields.io/badge/Kings%20English%20Basics-000000" alt="English Basics Certificate" /></a>
-<a href="https://drive.google.com/file/d/145XJHRFAGnsFNWUSQI8dPqrX4rBD_5Zn/view?usp=sharing" target="_blank" rel="noreferrer noopener"> <img src="https://img.shields.io/badge/Kings%20English%20Intermediate-000000" alt="English Intermediate Certificate" /></a>
+<a href="https://drive.google.com/file/d/1xhLZg0KT_273_EuGAfaNxem_Fv6_SZGV/view?usp=sharing" target="_blank" rel="noreferrer noopener"> <img src="https://img.shields.io/badge/Kings%20Inglés%20Básico-000000" alt="Inglés Basico" /></a>
+<a href="https://drive.google.com/file/d/145XJHRFAGnsFNWUSQI8dPqrX4rBD_5Zn/view?usp=sharing" target="_blank" rel="noreferrer noopener"> <img src="https://img.shields.io/badge/Kings%20Inglés%20Intermedio-000000" alt="Inglés Intermedio" /></a>
 
 </details>
 
 </details>
   
 <details>
-<summary><h3>Strengths</h3></summary>
+<summary><h3>Fortalezas</h3></summary>
 
-- Strong detail-oriented
-- Strong problem-solving skills
-- Excellent organization
-- Easy collaboration and communication
-- Empathy, ethical integrity and responsibility
-- Protection and security mindset
-- Passion for cybersec, technology & computing
-- Efficiency, service and fast learning
-
-</details>
-
-<details>
-<summary><h3>CiberSec Skills</h3></summary>
-
-- Threats, risks and vulnerabilities
-- Incident response
-- Security frameworks and controls (NIST)
-- Security hardening
-- Linux, Git and Bash command line
-- SQL and Python
-- TCPDump, Wireshark and Suricata
-- SIEM Tools
+- Gran capacidad de atención a los detalles
+- Sólidas habilidades para resolver problemas
+- Excelente organización
+- Fácil colaboración y comunicación
+- Empatía, integridad ética y responsabilidad
+- Mentalidad de protección y seguridad
+- Pasión por la ciberseguridad, la tecnología y la informática
+- Eficiencia, servicio y aprendizaje rápido
 
 </details>
 
 <details>
-<summary><h3>Other Technicall Skills</h3></summary>
+<summary><h3>Habilidades de Ciberseguridad</h3></summary>
+
+- Amenazas, riesgos y vulnerabilidades
+- Respuesta a incidentes
+- Marcos y controles de seguridad (NIST)
+- Refuerzo de la seguridad
+- Línea de comandos de Linux, Git y Bash
+- SQL y Python
+- TCPDump, Wireshark y Suricata
+- Herramientas SIEM
+
+</details>
+
+<details>
+<summary><h3>Otras Habilidades Técnicas</h3></summary>
 <h4 align="left">Networks</h4>
 <p>
 <a href="https://www.tcpdump.org" rel="noreferrer"> <img src="https://aboutnetworks.net/wp-content/uploads/2020/05/tcpdump-logo.jpg" alt="tcpdump" height="40"/></a>
@@ -249,15 +249,22 @@ My journey in computer science has led me to develop a passion for cybersecurity
 </details>
 
 <details>
-<summary><h3>Projects</h3></summary>
+<summary><h3>Registros de Documentación de Ciberseguridad</h3></summary>
 
-- <a href="">Detection Lab Project</a>
-- <a href="">SOC Automation Project</a>
-- <a href="">Vicky Project (AI)</a>
+<a href="https://github.com/GabrielLugooo/CiberSec-RegistryDocs-Spanish" target="_blank" rel="noreferrer noopener"> <img align="center" src="https://img.shields.io/badge/Registros%20en%20Español-000000" alt="Registros en Español" /></a>
+<a href="https://github.com/GabrielLugooo/CiberSec-RegistryDocs-English" target="_blank" rel="noreferrer noopener"> <img align="center" src="https://img.shields.io/badge/Registros%20en%20Inglés-000000" alt="Registros en Inglés" /></a>
+
+</details>
+
+<details>
+<summary><h3>Proyectos</h3></summary>
+
+- <a href="">Proyecto de Automatización de SOC</a>
+- <a href="">Proyecto IA Vicky</a>
 
 </details>
 
 ----
 
-<a href="https://linktr.ee/gabriellugooo" target="_blank" rel="noreferrer noopener"> <img align="center" src="https://img.shields.io/badge/Credits-Gabriel%20Lugo-green" alt="Credits" /></a>
-<a href="" target="_blank" rel="noreferrer noopener"> <img align="center" src="https://img.shields.io/badge/Last%20Edited-11%2002%202025-green" alt="Last Edited" /></a>
+<a href="https://linktr.ee/gabriellugooo" target="_blank" rel="noreferrer noopener"> <img align="center" src="https://img.shields.io/badge/Créditos-Gabriel%20Lugo-green" alt="Créditos" /></a>
+<a href="" target="_blank" rel="noreferrer noopener"> <img align="center" src="https://img.shields.io/badge/Última%20Edición-12%2002%202025-green" alt="Última Edición" /></a>
