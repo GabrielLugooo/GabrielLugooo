@@ -251,8 +251,8 @@ Mi trayectoria en la informática me ha llevado a desarrollar una pasión por la
 <details>
 <summary><h3>Registros de Documentación de Ciberseguridad</h3></summary>
 
-<a href="https://github.com/GabrielLugooo/CiberSec-RegistryDocs-Spanish" target="_blank" rel="noreferrer noopener"> <img align="center" src="https://img.shields.io/badge/Registros%20en%20Español-000000" alt="Registros en Español" /></a>
-<a href="https://github.com/GabrielLugooo/CiberSec-RegistryDocs-English" target="_blank" rel="noreferrer noopener"> <img align="center" src="https://img.shields.io/badge/Registros%20en%20Inglés-000000" alt="Registros en Inglés" /></a>
+<a href="https://github.com/GabrielLugooo/CiberSec-Logs-Spanish" target="_blank" rel="noreferrer noopener"> <img align="center" src="https://img.shields.io/badge/Registros%20en%20Español-000000" alt="Registros en Español" /></a>
+<a href="https://github.com/GabrielLugooo/CiberSec-Logs-English" target="_blank" rel="noreferrer noopener"> <img align="center" src="https://img.shields.io/badge/Registros%20en%20Inglés-000000" alt="Registros en Inglés" /></a>
 
 </details>
 
