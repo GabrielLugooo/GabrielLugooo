@@ -249,11 +249,18 @@ My journey in computer science has led me to develop a passion for cybersecurity
 </details>
 
 <details>
+<summary><h3>Cybersecurity Logs Documentation</h3></summary>
+
+<a href="https://github.com/GabrielLugooo/CiberSec-Logs-English" target="_blank" rel="noreferrer noopener"> <img align="center" src="https://img.shields.io/badge/English%20Records-000000" alt="English Records" /></a>
+<a href="https://github.com/GabrielLugooo/CiberSec-Logs-Spanish" target="_blank" rel="noreferrer noopener"> <img align="center" src="https://img.shields.io/badge/Spanish%20Records-000000" alt="Spanish Records" /></a>
+
+</details>
+
+<details>
 <summary><h3>Projects</h3></summary>
 
-- <a href="">Detection Lab Project</a>
 - <a href="">SOC Automation Project</a>
-- <a href="">Vicky Project (AI)</a>
+- <a href="">Vicky Ai Project</a>
 
 </details>
 
