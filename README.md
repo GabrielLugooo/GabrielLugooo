@@ -13,9 +13,9 @@
 
 Hello! My name is Gabriel, I am motivated and passionate about technology, cybersecurity and computing, as well as safeguarding people's security, including their financial well-being. I enjoy working with technology and analyzing and solving cybersecurity problems.
 
-I am a recent graduate as a systems analyst and cybersecurity analyst. I also like to continue learning, so I have taken countless courses in the IT industry that help me continue to expand my horizon of knowledge, develop my professional skills, and solve organizational problems. This is one of my passions and missions.
+I am a recent graduate as a systems analyst and cybersecurity analyst. I also like to continue learning, so I have taken anothers courses in the IT industry that help me continue to expand my horizon of knowledge, develop my professional skills, and solve organizational problems. I am passionate about helping others, so I share information on topics related to technology, IT, and cybersecurity on my social networks. 
 
-I am passionate about helping others, so I share information on topics related to technology, IT, and cybersecurity on my social networks. Also I like science, books, learn and play music (piano).
+Also I like science, books, learn & play music (most part piano, but i was dj & producer in the past!), mtbike & running trials, bmx & skate, portrait photography (worked like one for a while!) and woodworking. I have an entrepreneurial mind, In the past i had a neigborhood supermarket for 10 years, a small computer store - it service, and started my own small overzise t-shirt brand (about skate & bmx).
 
 <!-- QUOTE -->
 <p align="right">
@@ -29,6 +29,7 @@ I am passionate about helping others, so I share information on topics related t
 I was introduced to the world of computing in 1994, at the age of 14, when I started a GW BASIC course, a year before the Windows 95 OS. In 1997/98, at the age of 17/18, I was already helping my 4th year high school computer classmates with the first TANGO Software app (soft for accountants) in MS-DOS and MS Windows.
 
 I have been interested in the field of cybersecurity since I had access to the Internet. At the age of 18, I had my first notebook and the first thing I did was play Resident Evil and analyze networks with Triangle, a pioneering software for triangulating GSM technology antennas to determine locations and access Wi-Fi networks.
+
 </p>
 
 </details>
@@ -53,16 +54,17 @@ My journey in computer science has led me to develop a passion for cybersecurity
 <a href="https://linktr.ee/gabriellugooo" target="_blank" rel="noreferrer noopener"> <img align="center" src="https://simpleicons.org/icons/linktree.svg" alt="gabriellugooo" height="40" width="40" /></a>
 </p>
 
-<p align="right">
-https://imarticus.org/blog/wp-content/uploads/2021/02/huhgg.gif
-</p>
+<img align="right" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExbXJsc205cjNiMzJxYTV6MnozejUwMGcwcHV2cWl6OWt1cDliY3phZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/aRHz5xbOz8VEJwgqcR/giphy.gif" alt="SOC Center Gif" width="500" />
 
 <details>
 <summary><h3>CV´s</h3></summary>
 
 <p align="left">
-<a href="" target="_blank" rel="noreferrer noopener"> <img align="center" src="https://img.shields.io/badge/CV%20CyberSec%20Analyst%20Lugo%20English-000000" alt="CV CyberSec Lugo English" /></a>
-<a href="" target="_blank" rel="noreferrer noopener"> <img align="center" src="https://img.shields.io/badge/CV%20CyberSec%20Analyst%20Lugo%20Spanish-000000" alt="CV CyberSec Lugo Spanish" /></a>
+<a href="https://docs.google.com/document/d/16CRnSfFObLvR0PXFiPym0Doz5CGISGQ3AJCcIFAhpIY/edit?usp=sharing" target="_blank" rel="noreferrer noopener"> <img align="center" src="https://img.shields.io/badge/CV%20CyberSec%20Analyst%20Lugo%20English-000000" alt="CV CyberSec Lugo English" /></a>
+<a href="https://docs.google.com/document/d/1zKbdoVUCwNzW58XPBt--MFvbxf-2bXi0VfjkTu30jfI/edit?usp=sharing" target="_blank" rel="noreferrer noopener"> <img align="center" src="https://img.shields.io/badge/CV%20CyberSec%20Analyst%20Lugo%20Spanish-000000" alt="CV CyberSec Lugo Spanish" /></a>
+
+<a href="https://docs.google.com/document/d/1mO4L2IJ0deiYdo515eaVGis_1r_OAxeZAtlXNPOTQ5w/edit?usp=sharing" target="_blank" rel="noreferrer noopener"> <img align="center" src="https://img.shields.io/badge/CV%20Systems%20Analyst%20Lugo%20English-000000" alt="CV Systems Lugo English" /></a>
+<a href="https://docs.google.com/document/d/1J_JAEm1ceemn9kxLkHk5BLSulhVQ3b8eUPhguSQ_vKw/edit?usp=sharing" target="_blank" rel="noreferrer noopener"> <img align="center" src="https://img.shields.io/badge/CV%20Systems%20Analyst%20Lugo%20Spanish-000000" alt="CV Systems Lugo Spanish" /></a>
 </p>
 
 </details>
@@ -256,6 +258,6 @@ https://imarticus.org/blog/wp-content/uploads/2021/02/huhgg.gif
 </details>
 
 ----
-<a href="" target="_blank" rel="noreferrer noopener"> <img align="center" src="" alt="" ></a>
+
 <a href="https://linktr.ee/gabriellugooo" target="_blank" rel="noreferrer noopener"> <img align="center" src="https://img.shields.io/badge/Credits-Gabriel%20Lugo-green" alt="Credits" /></a>
-<a href="" target="_blank" rel="noreferrer noopener"> <img align="center" src="https://img.shields.io/badge/Last%20Edited-01%2F02%2F2025-green" alt="Last edited" /></a>
+<a href="" target="_blank" rel="noreferrer noopener"> <img align="center" src="https://img.shields.io/badge/Last%20Edited-11%2002%202025-green" alt="Last Edited" /></a>
