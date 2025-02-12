@@ -87,7 +87,7 @@ Mi trayectoria en la informática me ha llevado a desarrollar una pasión por la
 <a href="https://drive.google.com/file/d/1lfb2ErXMMkV7c14biQWZ8RvjlnE63Lo7/view?usp=sharing" target="_blank" rel="noreferrer noopener"> <img src="https://img.shields.io/badge/Marketing%20Digital%20Google-000000" alt="Marketing Digital" /></a>
 <a href="https://drive.google.com/file/d/1yzmB79LJ4OROZPY82usaSxT4UtEy_DCE/view?usp=sharing" target="_blank" rel="noreferrer noopener"> <img src="https://img.shields.io/badge/Marketing%20Digital%20Google%20Garage-000000" alt="Marketing Digital Garage" /></a>
 
-<a href="https://drive.google.com/file/d/1sjB6YvplBR95dEzHv-OCHtP_6mrJfXBK/view?usp=sharing" target="_blank" rel="noreferrer noopener"> <img src="https://img.shields.io/badge/Fundamentos%20Apps%20Móviles%Google-000000" alt="Fundamentos Apps Móviles" /></a>
+<a href="https://drive.google.com/file/d/1sjB6YvplBR95dEzHv-OCHtP_6mrJfXBK/view?usp=sharing" target="_blank" rel="noreferrer noopener"> <img src="https://img.shields.io/badge/Fundamentos%20Apps%20Móviles%20Google-000000" alt="Fundamentos Apps Móviles" /></a>
 <a href="https://drive.google.com/file/d/1Z9l7PIBEDjimKFFm9jmfQBuJ95wZQjc-/view?usp=sharing" target="_blank" rel="noreferrer noopener"> <img src="https://img.shields.io/badge/Apps%20Móviles%20Google-000000" alt="Apps Móviles" /></a>
 <a href="https://drive.google.com/file/d/18T46smPjLIABQFjEXr1D7AKCRmPkgjfG/view?usp=sharing" target="_blank" rel="noreferrer noopener"> <img src="https://img.shields.io/badge/Apps%20Móviles%20Inventor%20Google-000000" alt="Apps Móviles Inventor" /></a>
 
