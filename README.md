@@ -4,7 +4,7 @@
 <h1 align="left">Hi 👋, I'm Gabriel Lugo</h1> 
 
 <a href="https://github.com/GabrielLugooo/GabrielLugooo/blob/main/README.md" target="_blank" rel="noreferrer noopener"> <img align="center" src="https://img.shields.io/badge/English%20Version-000000" alt="English Version" /></a>
-<a href="https://github.com/GabrielLugooo/GabrielLugooo/blob/main/Readme%20Spanish.md" target="_blank" rel="noreferrer noopener"> <img align="center" src="https://img.shields.io/badge/Spanish%20Version-Green" alt="Spanish Version" /></a>
+<a href="https://github.com/GabrielLugooo/GabrielLugooo/blob/main/README%20Spanish.md" target="_blank" rel="noreferrer noopener"> <img align="center" src="https://img.shields.io/badge/Spanish%20Version-Green" alt="Spanish Version" /></a>
 <img align="center" src="https://komarev.com/ghpvc/?username=GabrielLugoo&label=Profile%20views&color=green&base=2000" alt="GabrielLugooo" />
 </p>
 
@@ -249,7 +249,7 @@ My journey in computer science has led me to develop a passion for cybersecurity
 </details>
 
 <details>
-<summary><h3>CyberSec Logs Docs</h3></summary>
+<summary><h3>Cybersecurity Logs Documentation</h3></summary>
 
 <a href="https://github.com/GabrielLugooo/CiberSec-Logs-English" target="_blank" rel="noreferrer noopener"> <img align="center" src="https://img.shields.io/badge/English%20Logs-000000" alt="English Logs" /></a>
 <a href="https://github.com/GabrielLugooo/CiberSec-Logs-Spanish" target="_blank" rel="noreferrer noopener"> <img align="center" src="https://img.shields.io/badge/Spanish%20Logs-000000" alt="Spanish Logs" /></a>
@@ -259,8 +259,10 @@ My journey in computer science has led me to develop a passion for cybersecurity
 <details>
 <summary><h3>Projects</h3></summary>
 
-- <a href="">SOC Automation Project</a>
-- <a href="">Vicky Ai Project</a>
+- <a href="" target="_blank" rel="noreferrer noopener"></a>
+- <a href="" target="_blank" rel="noreferrer noopener"></a>
+- <a href="" target="_blank" rel="noreferrer noopener">SOC Automation Project</a>
+- <a href="" target="_blank" rel="noreferrer noopener">Vicky Ai Project</a>
 
 </details>
 
