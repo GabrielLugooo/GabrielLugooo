@@ -115,7 +115,7 @@ My journey in computer science has led me to develop a passion for cybersecurity
 </details>
 
 <details>
-<summary><h3>CiberSec Skills</h3></summary>
+<summary><h3>CyberSec Skills</h3></summary>
 
 - Threats, risks and vulnerabilities
 - Incident response
@@ -249,7 +249,7 @@ My journey in computer science has led me to develop a passion for cybersecurity
 </details>
 
 <details>
-<summary><h3>Cybersecurity Logs Documentation</h3></summary>
+<summary><h3>CyberSec Logs Docs</h3></summary>
 
 <a href="https://github.com/GabrielLugooo/CiberSec-Logs-English" target="_blank" rel="noreferrer noopener"> <img align="center" src="https://img.shields.io/badge/English%20Logs-000000" alt="English Logs" /></a>
 <a href="https://github.com/GabrielLugooo/CiberSec-Logs-Spanish" target="_blank" rel="noreferrer noopener"> <img align="center" src="https://img.shields.io/badge/Spanish%20Logs-000000" alt="Spanish Logs" /></a>
