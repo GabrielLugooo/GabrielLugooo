@@ -1,11 +1,12 @@
 <img align="center" src="https://media.licdn.com/dms/image/v2/D4D16AQGUNxQ7NSC05A/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1738695150340?e=1744243200&v=beta&t=oXX-ixT9bR3dJcYCLv4KBs5wjKFoeP0524kFGHQMYmQ" alt="gabriellugo" />
 
 <p align="left">
-<h1 align="left">Hi 👋, I'm Gabriel Lugo</h1> 
+<h1 align="left">Hi 👋, I'm Gabriel Lugo</h1>
 
 <a href="https://github.com/GabrielLugooo/GabrielLugooo/blob/main/README.md" target="_blank" rel="noreferrer noopener"> <img align="center" src="https://img.shields.io/badge/English%20Version-000000" alt="English Version" /></a>
 <a href="https://github.com/GabrielLugooo/GabrielLugooo/blob/main/README%20Spanish.md" target="_blank" rel="noreferrer noopener"> <img align="center" src="https://img.shields.io/badge/Spanish%20Version-Green" alt="Spanish Version" /></a>
 <img align="center" src="https://komarev.com/ghpvc/?username=GabrielLugoo&label=Profile%20views&color=green&base=2000" alt="GabrielLugooo" />
+
 </p>
 
 <h3 align="left">About Me</h3>
@@ -13,7 +14,7 @@
 
 Hello! My name is Gabriel, I am motivated and passionate about technology, cybersecurity and computing, as well as safeguarding people's security, including their financial well-being. I enjoy working with technology and analyzing and solving cybersecurity problems.
 
-I am a recent graduate as a systems analyst and cybersecurity analyst. I also like to continue learning, so I have taken anothers courses in the IT industry that help me continue to expand my horizon of knowledge, develop my professional skills, and solve organizational problems. I am passionate about helping others, so I share information on topics related to technology, IT, and cybersecurity on my social networks. 
+I am a recent graduate as a systems analyst and cybersecurity analyst. I also like to continue learning, so I have taken anothers courses in the IT industry that help me continue to expand my horizon of knowledge, develop my professional skills, and solve organizational problems. I am passionate about helping others, so I share information on topics related to technology, IT, and cybersecurity on my social networks.
 
 Also I like science, books, learn & play music (most part piano, but i was dj & producer in the past!), mtbike & running trials, bmx & skate, portrait photography (worked like one for a while!) and woodworking. I have an entrepreneurial mind, In the past i had a neigborhood supermarket for 10 years, a small computer store - it service, and started my own small overzise t-shirt brand (about skate & bmx).
 
@@ -34,7 +35,7 @@ I have been interested in the field of cybersecurity since I had access to the I
 
 </details>
 
-----
+---
 
 <h3 align="left">Objectives</h3>
 <p align="left">
@@ -65,6 +66,7 @@ My journey in computer science has led me to develop a passion for cybersecurity
 
 <a href="https://docs.google.com/document/d/1mO4L2IJ0deiYdo515eaVGis_1r_OAxeZAtlXNPOTQ5w/edit?usp=sharing" target="_blank" rel="noreferrer noopener"> <img align="center" src="https://img.shields.io/badge/CV%20Systems%20Analyst%20Lugo%20English-000000" alt="CV Systems Lugo English" /></a>
 <a href="https://docs.google.com/document/d/1J_JAEm1ceemn9kxLkHk5BLSulhVQ3b8eUPhguSQ_vKw/edit?usp=sharing" target="_blank" rel="noreferrer noopener"> <img align="center" src="https://img.shields.io/badge/CV%20Systems%20Analyst%20Lugo%20Spanish-000000" alt="CV Systems Lugo Spanish" /></a>
+
 </p>
 
 </details>
@@ -259,14 +261,40 @@ My journey in computer science has led me to develop a passion for cybersecurity
 <details>
 <summary><h3>Projects</h3></summary>
 
-- <a href="" target="_blank" rel="noreferrer noopener"></a>
-- <a href="" target="_blank" rel="noreferrer noopener"></a>
+<details>
+<summary><h3>CyberSec Projects</h3></summary>
+
 - <a href="" target="_blank" rel="noreferrer noopener">SOC Automation Project</a>
-- <a href="" target="_blank" rel="noreferrer noopener">Vicky Ai Project</a>
+- <a href="https://github.com/GabrielLugooo/Python-Algorithm-Update-File" target="_blank" rel="noreferrer noopener">Python Algorithm Update File</a>
+- <a href="https://github.com/GabrielLugooo/Image-Crypt" target="_blank" rel="noreferrer noopener">Image Crypt</a>
+- <a href="https://github.com/GabrielLugooo/Owasp-Password-Strength-Test" target="_blank" rel="noreferrer noopener">Owasp Password Strength Test</a>
+- <a href="https://github.com/GabrielLugooo/Tsunami-Security-Scanner" target="_blank" rel="noreferrer noopener">Tsunami Security Scanner</a>
+- <a href="https://github.com/GabrielLugooo/Infinity-Antivirus" target="_blank" rel="noreferrer noopener">Infinity Antivirus</a>
 
 </details>
 
-----
+<details>
+<summary><h3>FrontEnd Projects</h3></summary>
+
+- <a href="https://github.com/GabrielLugooo/DC-Shoes-Copycat" target="_blank" rel="noreferrer noopener">DC Shoes Copycat</a>
+- <a href="https://github.com/GabrielLugooo/Game-Awards-Copycat" target="_blank" rel="noreferrer noopener">Game Awards Copycat</a>
+- <a href="https://github.com/GabrielLugooo/Mad-Cool-Copycat" target="_blank" rel="noreferrer noopener">Mad Cool Copycat</a>
+- <a href="https://github.com/GabrielLugooo/Netflix-Copycat" target="_blank" rel="noreferrer noopener">Netflix Copycat</a>
+- <a href="https://github.com/GabrielLugooo/Tinder-Copycat" target="_blank" rel="noreferrer noopener">Tinder Copycat</a>
+
+</details>
+
+<details>
+<summary><h3>Ai Projects</h3></summary>
+
+- <a href="https://github.com/GabrielLugooo/Vicky-Ai" target="_blank" rel="noreferrer noopener">Vicky Ai</a>
+- <a href="" target="_blank" rel="noreferrer noopener"></a>
+
+</details>
+
+</details>
+
+---
 
 <a href="https://linktr.ee/gabriellugooo" target="_blank" rel="noreferrer noopener"> <img align="center" src="https://img.shields.io/badge/Credits-Gabriel%20Lugo-green" alt="Credits" /></a>
 <a href="" target="_blank" rel="noreferrer noopener"> <img align="center" src="https://img.shields.io/badge/Last%20Edited-11%2002%202025-green" alt="Last Edited" /></a>

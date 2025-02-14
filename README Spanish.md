@@ -1,11 +1,12 @@
 <img align="center" src="https://media.licdn.com/dms/image/v2/D4D16AQGUNxQ7NSC05A/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1738695150340?e=1744243200&v=beta&t=oXX-ixT9bR3dJcYCLv4KBs5wjKFoeP0524kFGHQMYmQ" alt="gabriellugo" />
 
 <p align="left">
-<h1 align="left">Hola! 👋, Soy Gabriel Lugo</h1> 
+<h1 align="left">Hola! 👋, Soy Gabriel Lugo</h1>
 
 <a href="https://github.com/GabrielLugooo/GabrielLugooo/blob/main/README%20Spanish.md" target="_blank" rel="noreferrer noopener"> <img align="center" src="https://img.shields.io/badge/Versión%20Español-000000" alt="Version Español" /></a>
 <a href="https://github.com/GabrielLugooo/GabrielLugooo/blob/main/README.md" target="_blank" rel="noreferrer noopener"><img align="center" src="https://img.shields.io/badge/Versión%20Inglés-Green" alt="Version Inglés" /></a>
 <img align="center" src="https://komarev.com/ghpvc/?username=GabrielLugoo&label=Vistas%20del%20Perfil&color=green&base=2000" alt="GabrielLugooo" />
+
 </p>
 
 <h3 align="left">Acerca de Mi</h3>
@@ -34,7 +35,7 @@ Me interesé por el ámbito de la ciberseguridad desde que tuve acceso a Interne
 
 </details>
 
-----
+---
 
 <h3 align="left">Objetivos</h3>
 <p align="left">
@@ -65,6 +66,7 @@ Mi trayectoria en la informática me ha llevado a desarrollar una pasión por la
 
 <a href="https://docs.google.com/document/d/1mO4L2IJ0deiYdo515eaVGis_1r_OAxeZAtlXNPOTQ5w/edit?usp=sharing" target="_blank" rel="noreferrer noopener"> <img align="center" src="https://img.shields.io/badge/CV%20Analista%20Sistemas%20Lugo%20Inglés-000000" alt="CV Sistemas Lugo Inglés" /></a>
 <a href="https://docs.google.com/document/d/1J_JAEm1ceemn9kxLkHk5BLSulhVQ3b8eUPhguSQ_vKw/edit?usp=sharing" target="_blank" rel="noreferrer noopener"> <img align="center" src="https://img.shields.io/badge/CV%20Analista%20Sistemas%20Lugo%20Español-000000" alt="CV Sistemas Lugo Español" /></a>
+
 </p>
 
 </details>
@@ -259,14 +261,40 @@ Mi trayectoria en la informática me ha llevado a desarrollar una pasión por la
 <details>
 <summary><h3>Proyectos</h3></summary>
 
-- <a href="" target="_blank" rel="noreferrer noopener"></a>
-- <a href="" target="_blank" rel="noreferrer noopener"></a>
-- <a href="" target="_blank" rel="noreferrer noopener">Proyecto de Automatización de SOC</a>
-- <a href="" target="_blank" rel="noreferrer noopener"><Proyecto IA Vicky/a>
+<details>
+<summary><h3>Proyectos CiberSec</h3></summary>
+
+- <a href="" target="_blank" rel="noreferrer noopener">Proyecto Automatización de SOC</a>
+- <a href="https://github.com/GabrielLugooo/Python-Algorithm-Update-File" target="_blank" rel="noreferrer noopener">Algoritmo Python Automatizar Actualización de Archivo</a>
+- <a href="https://github.com/GabrielLugooo/Image-Crypt" target="_blank" rel="noreferrer noopener">Encriptador de Imágenes</a>
+- <a href="https://github.com/GabrielLugooo/Owasp-Password-Strength-Test" target="_blank" rel="noreferrer noopener">Test de Fortaleza de Contraseña Owasp</a>
+- <a href="https://github.com/GabrielLugooo/Tsunami-Security-Scanner" target="_blank" rel="noreferrer noopener">Scanner de Seguridad</a>
+- <a href="https://github.com/GabrielLugooo/Infinity-Antivirus" target="_blank" rel="noreferrer noopener">Infinity Antivirus</a>
 
 </details>
 
-----
+<details>
+<summary><h3>Proyectos FrontEnd</h3></summary>
+
+- <a href="https://github.com/GabrielLugooo/DC-Shoes-Copycat" target="_blank" rel="noreferrer noopener">DC Shoes Copycat</a>
+- <a href="https://github.com/GabrielLugooo/Game-Awards-Copycat" target="_blank" rel="noreferrer noopener">Game Awards Copycat</a>
+- <a href="https://github.com/GabrielLugooo/Mad-Cool-Copycat" target="_blank" rel="noreferrer noopener">Mad Cool Copycat</a>
+- <a href="https://github.com/GabrielLugooo/Netflix-Copycat" target="_blank" rel="noreferrer noopener">Netflix Copycat</a>
+- <a href="https://github.com/GabrielLugooo/Tinder-Copycat" target="_blank" rel="noreferrer noopener">Tinder Copycat</a>
+
+</details>
+
+<details>
+<summary><h3>Proyectos Ai</h3></summary>
+
+- <a href="https://github.com/GabrielLugooo/Vicky-Ai" target="_blank" rel="noreferrer noopener">Vicky Ai</a>
+- <a href="" target="_blank" rel="noreferrer noopener"></a>
+
+</details>
+
+</details>
+
+---
 
 <a href="https://linktr.ee/gabriellugooo" target="_blank" rel="noreferrer noopener"> <img align="center" src="https://img.shields.io/badge/Créditos-Gabriel%20Lugo-green" alt="Créditos" /></a>
 <a href="" target="_blank" rel="noreferrer noopener"> <img align="center" src="https://img.shields.io/badge/Última%20Edición-12%2002%202025-green" alt="Última Edición" /></a>
