@@ -262,22 +262,22 @@ Mi trayectoria en la informática me ha llevado a desarrollar una pasión por la
 <summary><h3>Proyectos</h3></summary>
 
 <details>
-<summary><h3>Proyectos CiberSec</h3></summary>
+<summary>Proyectos CiberSec</summary>
 
 - <a href="" target="_blank" rel="noreferrer noopener">Proyecto Automatización de SOC</a>
 - <a href="https://github.com/GabrielLugooo/Python-Algorithm-Update-File" target="_blank" rel="noreferrer noopener">Algoritmo Python Automatizar Actualización de Archivo</a>
-- <a href="https://github.com/GabrielLugooo/Image-Crypt" target="_blank" rel="noreferrer noopener">Encriptador de Imágenes</a>
 - <a href="https://github.com/GabrielLugooo/Owasp-Password-Strength-Test" target="_blank" rel="noreferrer noopener">Test de Fortaleza de Contraseña Owasp</a>
+- <a href="https://github.com/GabrielLugooo/Image-Crypt" target="_blank" rel="noreferrer noopener">Encriptador de Imágenes</a>
 - <a href="https://github.com/GabrielLugooo/Tsunami-Security-Scanner" target="_blank" rel="noreferrer noopener">Scanner de Seguridad</a>
 - <a href="https://github.com/GabrielLugooo/Infinity-Antivirus" target="_blank" rel="noreferrer noopener">Infinity Antivirus</a>
 
 </details>
 
 <details>
-<summary><h3>Proyectos FrontEnd</h3></summary>
+<summary>Proyectos FrontEnd</summary>
 
-- <a href="https://github.com/GabrielLugooo/DC-Shoes-Copycat" target="_blank" rel="noreferrer noopener">DC Shoes Copycat</a>
 - <a href="https://github.com/GabrielLugooo/Game-Awards-Copycat" target="_blank" rel="noreferrer noopener">Game Awards Copycat</a>
+- <a href="https://github.com/GabrielLugooo/DC-Shoes-Copycat" target="_blank" rel="noreferrer noopener">DC Shoes Copycat</a>
 - <a href="https://github.com/GabrielLugooo/Mad-Cool-Copycat" target="_blank" rel="noreferrer noopener">Mad Cool Copycat</a>
 - <a href="https://github.com/GabrielLugooo/Netflix-Copycat" target="_blank" rel="noreferrer noopener">Netflix Copycat</a>
 - <a href="https://github.com/GabrielLugooo/Tinder-Copycat" target="_blank" rel="noreferrer noopener">Tinder Copycat</a>
@@ -285,7 +285,7 @@ Mi trayectoria en la informática me ha llevado a desarrollar una pasión por la
 </details>
 
 <details>
-<summary><h3>Proyectos Ai</h3></summary>
+<summary>Proyectos Ai</summary>
 
 - <a href="https://github.com/GabrielLugooo/Vicky-Ai" target="_blank" rel="noreferrer noopener">Vicky Ai</a>
 - <a href="" target="_blank" rel="noreferrer noopener"></a>
