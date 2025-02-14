@@ -264,10 +264,10 @@ My journey in computer science has led me to develop a passion for cybersecurity
 <details>
 <summary>CyberSec Projects</summary>
 
-- <a href="" target="_blank" rel="noreferrer noopener">SOC Automation Project</a>
+- <a href="https://github.com/GabrielLugooo/SOC-Automation" target="_blank" rel="noreferrer noopener">SOC Automation Project</a>
 - <a href="https://github.com/GabrielLugooo/Python-Algorithm-Update-File" target="_blank" rel="noreferrer noopener">Python Algorithm Update File</a>
 - <a href="https://github.com/GabrielLugooo/Owasp-Password-Strength-Test" target="_blank" rel="noreferrer noopener">Owasp Password Strength Test</a>
-- <a href="https://github.com/GabrielLugooo/Image-Crypt" target="_blank" rel="noreferrer noopener">Image Crypt</a>
+- <a href="https://github.com/GabrielLugooo/Image-Encrypt" target="_blank" rel="noreferrer noopener">Image Encrypt</a>
 - <a href="https://github.com/GabrielLugooo/Tsunami-Security-Scanner" target="_blank" rel="noreferrer noopener">Tsunami Security Scanner</a>
 - <a href="https://github.com/GabrielLugooo/Infinity-Antivirus" target="_blank" rel="noreferrer noopener">Infinity Antivirus</a>
 
