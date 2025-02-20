@@ -29,7 +29,7 @@ Me introduje en el mundo de la informática en 1994, a los 14 años, cuando empe
 
 Me interesé por el ámbito de la ciberseguridad desde que tuve acceso a Internet. A los 18 años tuve mi primer notebook y lo primero que hice fue jugar a Resident Evil y analizar redes con Triangle, un software pionero en triangulación de antenas de tecnología GSM para determinar ubicaciones y acceder a redes Wi-Fi.
 
-También me gusta la ciencia, los libros, aprender y tocar música (piano en su mayoría, ¡pero fui DJ y productor en el pasado!), mtbike y carreras de trial, bmx y skate, fotografía de retrato (¡trabajé como tal por un tiempo!) y carpintería. Tengo una mente emprendedora. En el pasado tuve un supermercado de barrio durante 10 años, una pequeña tienda de computadoras, servicio de TI y comencé mi propia marca de camisetas overzise (sobre skate y BMX).
+Me gusta la ciencia, los libros, aprender y tocar el piano (¡pero fui productor y DJ en el pasado!), el mtbike, las carreras de trial, el bmx y el skate, la fotografía de retrato (trabajé un tiempo como fotógrafo) y la carpintería. Tengo una mente emprendedora. En el pasado tuve un supermercado de barrio durante 10 años, una pequeña tienda de computadoras y servicio técnico de soporte IT y hace poco comencé mi propia marca de camisetas overzise (sobre skate y bmx).
 
 </p>
 

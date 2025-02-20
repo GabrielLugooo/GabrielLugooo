@@ -29,7 +29,7 @@ I was introduced to the world of computing in 1994, at the age of 14, when I sta
 
 I have been interested in the field of cybersecurity since I had access to the Internet. At the age of 18, I had my first notebook and the first thing I did was play Resident Evil and analyze networks with Triangle, a pioneering software for triangulating GSM technology antennas to determine locations and access Wi-Fi networks.
 
-Also I like science, books, learn & play music (most part piano, but i was dj & producer in the past!), mtbike & running trials, bmx & skate, portrait photography (worked like one for a while!) and woodworking. I have an entrepreneurial mind, In the past i had a neigborhood supermarket for 10 years, a small computer store - it service, and started my own small overzise t-shirt brand (about skate & bmx).
+Also I like science, books, learn & play piano (i was dj & producer in the past!), mtbike & trial running, bmx & skate, portrait photography (worked like PH for a while!) and woodworking. I have an entrepreneurial mind, In the past i had a neigborhood supermarket for 10 years, a small computer store & it support service, and started my own small overzise t-shirt brand (about skate & bmx).
 
 </p>
 
