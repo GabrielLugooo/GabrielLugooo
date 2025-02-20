@@ -264,12 +264,18 @@ Mi trayectoria en la informática me ha llevado a desarrollar una pasión por la
 <details>
 <summary>Proyectos CiberSec</summary>
 
-- <a href="" target="_blank" rel="noreferrer noopener">Proyecto Automatización de SOC</a>
-- <a href="https://github.com/GabrielLugooo/Python-Algorithm-Update-File" target="_blank" rel="noreferrer noopener">Algoritmo Python Automatizar Actualización de Archivo</a>
-- <a href="https://github.com/GabrielLugooo/Owasp-Password-Strength-Test" target="_blank" rel="noreferrer noopener">Test de Fortaleza de Contraseña Owasp</a>
-- <a href="https://github.com/GabrielLugooo/Image-Crypt" target="_blank" rel="noreferrer noopener">Encriptador de Imágenes</a>
-- <a href="https://github.com/GabrielLugooo/Tsunami-Security-Scanner" target="_blank" rel="noreferrer noopener">Scanner de Seguridad</a>
-- <a href="https://github.com/GabrielLugooo/Infinity-Antivirus" target="_blank" rel="noreferrer noopener">Infinity Antivirus</a>
+- <a href="https://github.com/GabrielLugooo/SOC-Automation" target="_blank" rel="noreferrer noopener">Proyecto Automatización de SOC</a>
+- <a href="https://github.com/GabrielLugooo/Python-Automation" target="_blank" rel="noreferrer noopener">Automatización Python</a>
+- <a href="https://github.com/GabrielLugooo/Owasp-Pass-Test" target="_blank" rel="noreferrer noopener">Test Fortaleza de Contraseña Owasp</a>
+- <a href="https://github.com/GabrielLugooo/Image-Encrypt" target="_blank" rel="noreferrer noopener">Encriptador de Imágenes</a>
+
+</details>
+
+<details>
+<summary>Proyectos Ai</summary>
+
+- <a href="https://github.com/GabrielLugooo/Vicky-Ai" target="_blank" rel="noreferrer noopener">Proyecto Vicky IA</a>
+- <a href="" target="_blank" rel="noreferrer noopener"></a>
 
 </details>
 
@@ -281,14 +287,6 @@ Mi trayectoria en la informática me ha llevado a desarrollar una pasión por la
 - <a href="https://github.com/GabrielLugooo/Mad-Cool-Copycat" target="_blank" rel="noreferrer noopener">Mad Cool Copycat</a>
 - <a href="https://github.com/GabrielLugooo/Netflix-Copycat" target="_blank" rel="noreferrer noopener">Netflix Copycat</a>
 - <a href="https://github.com/GabrielLugooo/Tinder-Copycat" target="_blank" rel="noreferrer noopener">Tinder Copycat</a>
-
-</details>
-
-<details>
-<summary>Proyectos Ai</summary>
-
-- <a href="https://github.com/GabrielLugooo/Vicky-Ai" target="_blank" rel="noreferrer noopener">Vicky Ai</a>
-- <a href="" target="_blank" rel="noreferrer noopener"></a>
 
 </details>
 
