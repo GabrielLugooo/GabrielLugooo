@@ -264,29 +264,35 @@ My journey in computer science has led me to develop a passion for cybersecurity
 <details>
 <summary>CyberSec Projects</summary>
 
-- <a href="https://github.com/GabrielLugooo/SOC-Automation" target="_blank" rel="noreferrer noopener">SOC Automation Project</a>
 - <a href="https://github.com/GabrielLugooo/Python-Automation" target="_blank" rel="noreferrer noopener">Python Algorithm Automation</a>
 - <a href="https://github.com/GabrielLugooo/Owasp-Pass-Test" target="_blank" rel="noreferrer noopener">Owasp Password Strength Test</a>
 - <a href="https://github.com/GabrielLugooo/Image-Encrypt" target="_blank" rel="noreferrer noopener">Image Encrypt</a>
+- <a href="https://github.com/GabrielLugooo/SOC-Automation" target="_blank" rel="noreferrer noopener">SOC Automation Project</a>
+
+- <a href="" target="_blank" rel="noreferrer noopener">Canary Token</a>
+- <a href="" target="_blank" rel="noreferrer noopener">Sandbox</a>
+- <a href="" target="_blank" rel="noreferrer noopener">Honeypot Server</a>
+- <a href="" target="_blank" rel="noreferrer noopener">SIEM Stack</a>
+- <a href="" target="_blank" rel="noreferrer noopener">Detection System</a>
 
 </details>
 
 <details>
 <summary>Ai Projects</summary>
 
-- <a href="https://github.com/GabrielLugooo/Vicky-Ai" target="_blank" rel="noreferrer noopener">Vicky AI Project</a>
-- <a href="" target="_blank" rel="noreferrer noopener"></a>
+- <a href="https://github.com/GabrielLugooo/Vicky-Ai-Project/tree/main" target="_blank" rel="noreferrer noopener">Vicky AI Project</a>
+  <a href="" target="_blank" rel="noreferrer noopener"></a>
 
 </details>
 
 <details>
 <summary>FrontEnd Projects</summary>
 
-- <a href="https://github.com/GabrielLugooo/Game-Awards-Copycat" target="_blank" rel="noreferrer noopener">Game Awards Copycat</a>
-- <a href="https://github.com/GabrielLugooo/DC-Shoes-Copycat" target="_blank" rel="noreferrer noopener">DC Shoes Copycat</a>
-- <a href="https://github.com/GabrielLugooo/Mad-Cool-Copycat" target="_blank" rel="noreferrer noopener">Mad Cool Copycat</a>
-- <a href="https://github.com/GabrielLugooo/Netflix-Copycat" target="_blank" rel="noreferrer noopener">Netflix Copycat</a>
-- <a href="https://github.com/GabrielLugooo/Tinder-Copycat" target="_blank" rel="noreferrer noopener">Tinder Copycat</a>
+- <a href="https://github.com/GabrielLugooo/Game-Awards-Copycat" target="_blank" rel="noreferrer noopener">Game Awards Web</a>
+- <a href="https://github.com/GabrielLugooo/DC-Shoes-Copycat" target="_blank" rel="noreferrer noopener">DC Shoes Web</a>
+- <a href="https://github.com/GabrielLugooo/Mad-Cool-Copycat" target="_blank" rel="noreferrer noopener">Mad Cool Web</a>
+- <a href="https://github.com/GabrielLugooo/Netflix-Copycat" target="_blank" rel="noreferrer noopener">Netflix Web</a>
+- <a href="https://github.com/GabrielLugooo/Tinder-Copycat" target="_blank" rel="noreferrer noopener">Tinder Web</a>
 
 </details>
 
