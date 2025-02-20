@@ -16,8 +16,6 @@
 
 Soy recién graduado como analista de sistemas y analista de ciberseguridad. También me gusta seguir aprendiendo, por lo que he tomado otros cursos en la industria de TI que me ayudan a seguir ampliando mi horizonte de conocimiento, desarrollar mis habilidades profesionales y resolver problemas organizacionales. Me apasiona ayudar a los demás, por lo que comparto información sobre temas relacionados con la tecnología, la TI y la ciberseguridad en mis redes sociales.
 
-También me gusta la ciencia, los libros, aprender y tocar música (piano en su mayoría, ¡pero fui DJ y productor en el pasado!), mtbike y carreras de trial, bmx y skate, fotografía de retrato (¡trabajé como tal por un tiempo!) y carpintería. Tengo una mente emprendedora. En el pasado tuve un supermercado de barrio durante 10 años, una pequeña tienda de computadoras, servicio de TI y comencé mi propia marca de camisetas de gran tamaño (sobre skate y BMX).
-
 <!-- QUOTE -->
 <p align="right">
     <q><i>La pasión me impulsa, la curiosidad me guía</i></q> - Por Mi 😎<br>
@@ -30,6 +28,8 @@ También me gusta la ciencia, los libros, aprender y tocar música (piano en su 
 Me introduje en el mundo de la informática en 1994, a los 14 años, cuando empecé un curso de GW BASIC, un año antes del SO Windows 95. En 1997/98, con 17/18 años, ya ayudaba a mis compañeros de informática de 4º de bachillerato con la primera aplicación de TANGO Software (software para contables) en MS-DOS y MS Windows.
 
 Me interesé por el ámbito de la ciberseguridad desde que tuve acceso a Internet. A los 18 años tuve mi primer notebook y lo primero que hice fue jugar a Resident Evil y analizar redes con Triangle, un software pionero en triangulación de antenas de tecnología GSM para determinar ubicaciones y acceder a redes Wi-Fi.
+
+También me gusta la ciencia, los libros, aprender y tocar música (piano en su mayoría, ¡pero fui DJ y productor en el pasado!), mtbike y carreras de trial, bmx y skate, fotografía de retrato (¡trabajé como tal por un tiempo!) y carpintería. Tengo una mente emprendedora. En el pasado tuve un supermercado de barrio durante 10 años, una pequeña tienda de computadoras, servicio de TI y comencé mi propia marca de camisetas overzise (sobre skate y BMX).
 
 </p>
 

@@ -16,8 +16,6 @@ Hello! My name is Gabriel, I am motivated and passionate about technology, cyber
 
 I am a recent graduate as a systems analyst and cybersecurity analyst. I also like to continue learning, so I have taken anothers courses in the IT industry that help me continue to expand my horizon of knowledge, develop my professional skills, and solve organizational problems. I am passionate about helping others, so I share information on topics related to technology, IT, and cybersecurity on my social networks.
 
-Also I like science, books, learn & play music (most part piano, but i was dj & producer in the past!), mtbike & running trials, bmx & skate, portrait photography (worked like one for a while!) and woodworking. I have an entrepreneurial mind, In the past i had a neigborhood supermarket for 10 years, a small computer store - it service, and started my own small overzise t-shirt brand (about skate & bmx).
-
 <!-- QUOTE -->
 <p align="right">
     <q><i>Passion drives me, Curiosity guides me</i></q> - by Me 😎<br>
@@ -30,6 +28,8 @@ Also I like science, books, learn & play music (most part piano, but i was dj & 
 I was introduced to the world of computing in 1994, at the age of 14, when I started a GW BASIC course, a year before the Windows 95 OS. In 1997/98, at the age of 17/18, I was already helping my 4th year high school computer classmates with the first TANGO Software app (soft for accountants) in MS-DOS and MS Windows.
 
 I have been interested in the field of cybersecurity since I had access to the Internet. At the age of 18, I had my first notebook and the first thing I did was play Resident Evil and analyze networks with Triangle, a pioneering software for triangulating GSM technology antennas to determine locations and access Wi-Fi networks.
+
+Also I like science, books, learn & play music (most part piano, but i was dj & producer in the past!), mtbike & running trials, bmx & skate, portrait photography (worked like one for a while!) and woodworking. I have an entrepreneurial mind, In the past i had a neigborhood supermarket for 10 years, a small computer store - it service, and started my own small overzise t-shirt brand (about skate & bmx).
 
 </p>
 
