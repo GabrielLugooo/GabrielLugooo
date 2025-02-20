@@ -251,23 +251,23 @@ Mi trayectoria en la informática me ha llevado a desarrollar una pasión por la
 <details>
 <summary>Proyectos CiberSec</summary>
 
-- <a href="https://github.com/GabrielLugooo/Python-Automation" target="_blank" rel="noreferrer noopener">Automatización Python</a>
+<a href="https://github.com/GabrielLugooo/Python-Automation" target="_blank" rel="noreferrer noopener"> <img align="center" src="https://img.shields.io/badge/Automatización%20Python-000000" alt="Automatización Python" /></a>
 
-- <a href="https://github.com/GabrielLugooo/Owasp-Pass-Test" target="_blank" rel="noreferrer noopener">Test Fortaleza de Contraseña Owasp</a>
+<a href="https://github.com/GabrielLugooo/Owasp-Pass-Test" target="_blank" rel="noreferrer noopener"> <img align="center" src="https://img.shields.io/badge/Test Fortaleza%20de%20Contraseña Owasp-000000" alt="Owasp Pass Test" /></a>
 
-- <a href="https://github.com/GabrielLugooo/Image-Encrypt" target="_blank" rel="noreferrer noopener">Encriptador de Imágenes</a>
+<a href="https://github.com/GabrielLugooo/Image-Encrypt" target="_blank" rel="noreferrer noopener"> <img align="center" src="https://img.shields.io/badge/Encriptador%20de%20Imágenes-000000" alt="Encriptador de Imágenes" /></a>
 
-- <a href="https://github.com/GabrielLugooo/SOC-Automation" target="_blank" rel="noreferrer noopener">Proyecto Automatización SOC</a>
+<a href="https://github.com/GabrielLugooo/SOC-Automation" target="_blank" rel="noreferrer noopener"> <img align="center" src="https://img.shields.io/badge/Proyecto%20Automatización%20SOC-000000" alt="Proyecto Automatización SOC" /></a>
 
-- <a href="" target="_blank" rel="noreferrer noopener">Canary Token</a>
+<a href="" target="_blank" rel="noreferrer noopener"> <img align="center" src="https://img.shields.io/badge/Canary%20Token-000000" alt="Canary Token" /></a>
 
-- <a href="" target="_blank" rel="noreferrer noopener">Caja de Arena</a>
+<a href="" target="_blank" rel="noreferrer noopener"> <img align="center" src="https://img.shields.io/badge/Caja%20de%20Arena-000000" alt="Caja de Arena" /></a>
 
-- <a href="" target="_blank" rel="noreferrer noopener">Servidor Honeypot</a>
+<a href="" target="_blank" rel="noreferrer noopener"> <img align="center" src="https://img.shields.io/badge/Servidor%20Honeypot-000000" alt="Servidor Honeypot" /></a>
 
-- <a href="" target="_blank" rel="noreferrer noopener">SIEM Stack</a>
+<a href="" target="_blank" rel="noreferrer noopener"> <img align="center" src="https://img.shields.io/badge/SIEM%20Stack-000000" alt="SIEM Stack" /></a>
 
-- <a href="" target="_blank" rel="noreferrer noopener">Sistema de Detección</a>
+<a href="" target="_blank" rel="noreferrer noopener"> <img align="center" src="https://img.shields.io/badge/Sistema%20de%20Detección-000000" alt="Sistema de Detección" /></a>
 
 </details>
 
@@ -281,15 +281,15 @@ Mi trayectoria en la informática me ha llevado a desarrollar una pasión por la
 <details>
 <summary>Proyectos FrontEnd</summary>
 
-- <a href="https://github.com/GabrielLugooo/Game-Awards-Copycat" target="_blank" rel="noreferrer noopener">Game Awards Web</a>
+<a href="https://github.com/GabrielLugooo/Game-Awards-Copycat" target="_blank" rel="noreferrer noopener"> <img align="center" src="https://img.shields.io/badge/Game%20Awards%20Web-000000" alt="Game Awards Web" /></a>
 
-- <a href="https://github.com/GabrielLugooo/DC-Shoes-Copycat" target="_blank" rel="noreferrer noopener">DC Shoes Web</a>
+<a href="https://github.com/GabrielLugooo/DC-Shoes-Copycat" target="_blank" rel="noreferrer noopener"> <img align="center" src="https://img.shields.io/badge/DC%20Shoes%20Web-000000" alt="DC Shoes Web" /></a>
 
-- <a href="https://github.com/GabrielLugooo/Mad-Cool-Copycat" target="_blank" rel="noreferrer noopener">Mad Cool Web</a>
+<a href="https://github.com/GabrielLugooo/Mad-Cool-Copycat" target="_blank" rel="noreferrer noopener"> <img align="center" src="https://img.shields.io/badge/Mad%20Cool%20Web-000000" alt="Mad Cool Web" /></a>
 
-- <a href="https://github.com/GabrielLugooo/Netflix-Copycat" target="_blank" rel="noreferrer noopener">Netflix Web</a>
+<a href="https://github.com/GabrielLugooo/Netflix-Copycat" target="_blank" rel="noreferrer noopener"> <img align="center" src="https://img.shields.io/badge/Netflix%20Web-000000" alt="Netflix Web" /></a>
 
-- <a href="https://github.com/GabrielLugooo/Tinder-Copycat" target="_blank" rel="noreferrer noopener">Tinder Web</a>
+<a href="https://github.com/GabrielLugooo/Tinder-Copycat" target="_blank" rel="noreferrer noopener"> <img align="center" src="https://img.shields.io/badge/Tinder%20Web-000000" alt="Tinder Web" /></a>
 
 </details>
 
