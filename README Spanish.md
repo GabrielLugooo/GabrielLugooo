@@ -53,6 +53,7 @@ Mi trayectoria en la informática me ha llevado a desarrollar una pasión por la
 
 <a href="https://drive.google.com/file/d/1oJDDwhmU-63QezLYwp3LQu_0WgPsO0EJ/view?usp=drive_link" target="_blank" rel="noreferrer noopener"> <img align="center" src="https://img.shields.io/badge/CV%20Analista%20Sistemas%20Lugo%20Inglés-000000" alt="CV Sistemas Lugo Inglés" /></a>
 <a href="https://drive.google.com/file/d/1KovZuy-BnDWXD-ntp7fFhVtDt-vB0OdN/view?usp=drive_link" target="_blank" rel="noreferrer noopener"> <img align="center" src="https://img.shields.io/badge/CV%20Analista%20Sistemas%20Lugo%20Español-000000" alt="CV Sistemas Lugo Español" /></a>
+
 </p>
 
 </details>
@@ -247,8 +248,7 @@ Mi trayectoria en la informática me ha llevado a desarrollar una pasión por la
 <details>
 <summary><h3>Proyectos</h3></summary>
 
-<details>
-<summary>Proyectos CiberSec</summary>
+- Proyectos CiberSec
 
 <a href="https://github.com/GabrielLugooo/Python-Automation" target="_blank" rel="noreferrer noopener"> <img align="center" src="https://img.shields.io/badge/Automatización%20Python-000000" alt="Automatización Python" /></a>
 <a href="https://github.com/GabrielLugooo/Owasp-Pass-Test" target="_blank" rel="noreferrer noopener"> <img align="center" src="https://img.shields.io/badge/Test Fortaleza%20de%20Contraseña Owasp-000000" alt="Owasp Pass Test" /></a>
@@ -261,25 +261,17 @@ Mi trayectoria en la informática me ha llevado a desarrollar una pasión por la
 <a href="" target="_blank" rel="noreferrer noopener"> <img align="center" src="https://img.shields.io/badge/SIEM%20Stack-000000" alt="SIEM Stack" /></a>
 <a href="" target="_blank" rel="noreferrer noopener"> <img align="center" src="https://img.shields.io/badge/Sistema%20de%20Detección-000000" alt="Sistema de Detección" /></a>
 
-</details>
-
-<details>
-<summary>Proyectos Ai</summary>
+- Proyectos Ai
 
 <a href="https://github.com/GabrielLugooo/Vicky-Ai-Project" target="_blank" rel="noreferrer noopener"> <img align="center" src="https://img.shields.io/badge/Proyecto%20Vicky%20AI-000000" alt="Proyecto Vicky AI" /></a>
 
-</details>
-
-<details>
-<summary>Proyectos FrontEnd</summary>
+- Proyectos FrontEnd
 
 <a href="https://github.com/GabrielLugooo/Game-Awards-Copycat" target="_blank" rel="noreferrer noopener"> <img align="center" src="https://img.shields.io/badge/Game%20Awards%20Web-000000" alt="Game Awards Web" /></a>
 <a href="https://github.com/GabrielLugooo/DC-Shoes-Copycat" target="_blank" rel="noreferrer noopener"> <img align="center" src="https://img.shields.io/badge/DC%20Shoes%20Web-000000" alt="DC Shoes Web" /></a>
 <a href="https://github.com/GabrielLugooo/Mad-Cool-Copycat" target="_blank" rel="noreferrer noopener"> <img align="center" src="https://img.shields.io/badge/Mad%20Cool%20Web-000000" alt="Mad Cool Web" /></a>
 <a href="https://github.com/GabrielLugooo/Netflix-Copycat" target="_blank" rel="noreferrer noopener"> <img align="center" src="https://img.shields.io/badge/Netflix%20Web-000000" alt="Netflix Web" /></a>
 <a href="https://github.com/GabrielLugooo/Tinder-Copycat" target="_blank" rel="noreferrer noopener"> <img align="center" src="https://img.shields.io/badge/Tinder%20Web-000000" alt="Tinder Web" /></a>
-
-</details>
 
 </details>
 
