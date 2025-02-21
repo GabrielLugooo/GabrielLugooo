@@ -48,12 +48,11 @@ Mi trayectoria en la informática me ha llevado a desarrollar una pasión por la
 <summary><h3>CV´s</h3></summary>
 
 <p align="left">
-<a href="https://docs.google.com/document/d/16CRnSfFObLvR0PXFiPym0Doz5CGISGQ3AJCcIFAhpIY/edit?usp=sharing" target="_blank" rel="noreferrer noopener"> <img align="center" src="https://img.shields.io/badge/CV%20Analista%20CiberSec%20Lugo%20Inglés-000000" alt="CV CyberSec Lugo Inglés" /></a>
-<a href="https://docs.google.com/document/d/1zKbdoVUCwNzW58XPBt--MFvbxf-2bXi0VfjkTu30jfI/edit?usp=sharing" target="_blank" rel="noreferrer noopener"> <img align="center" src="https://img.shields.io/badge/CV%20Analista%20CiberSec%20Lugo%20Españolh-000000" alt="CV CyberSec Lugo Español" /></a>
+<a href="https://drive.google.com/file/d/12ESW56uXGSEp8vwKSq7YypLj6A6IuvLQ/view?usp=drive_link" target="_blank" rel="noreferrer noopener"> <img align="center" src="https://img.shields.io/badge/CV%20Analista%20CiberSec%20Lugo%20Inglés-000000" alt="CV CyberSec Lugo Inglés" /></a>
+<a href="https://drive.google.com/file/d/1PH6jO4xDqQCSIH-tfKDMOLwTBtfv5PYD/view?usp=drive_link" target="_blank" rel="noreferrer noopener"> <img align="center" src="https://img.shields.io/badge/CV%20Analista%20CiberSec%20Lugo%20Españolh-000000" alt="CV CyberSec Lugo Español" /></a>
 
-<a href="https://docs.google.com/document/d/1mO4L2IJ0deiYdo515eaVGis_1r_OAxeZAtlXNPOTQ5w/edit?usp=sharing" target="_blank" rel="noreferrer noopener"> <img align="center" src="https://img.shields.io/badge/CV%20Analista%20Sistemas%20Lugo%20Inglés-000000" alt="CV Sistemas Lugo Inglés" /></a>
-<a href="https://docs.google.com/document/d/1J_JAEm1ceemn9kxLkHk5BLSulhVQ3b8eUPhguSQ_vKw/edit?usp=sharing" target="_blank" rel="noreferrer noopener"> <img align="center" src="https://img.shields.io/badge/CV%20Analista%20Sistemas%20Lugo%20Español-000000" alt="CV Sistemas Lugo Español" /></a>
-
+<a href="https://drive.google.com/file/d/1oJDDwhmU-63QezLYwp3LQu_0WgPsO0EJ/view?usp=drive_link" target="_blank" rel="noreferrer noopener"> <img align="center" src="https://img.shields.io/badge/CV%20Analista%20Sistemas%20Lugo%20Inglés-000000" alt="CV Sistemas Lugo Inglés" /></a>
+<a href="https://drive.google.com/file/d/1KovZuy-BnDWXD-ntp7fFhVtDt-vB0OdN/view?usp=drive_link" target="_blank" rel="noreferrer noopener"> <img align="center" src="https://img.shields.io/badge/CV%20Analista%20Sistemas%20Lugo%20Español-000000" alt="CV Sistemas Lugo Español" /></a>
 </p>
 
 </details>
