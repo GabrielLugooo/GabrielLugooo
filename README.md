@@ -252,16 +252,17 @@ My journey in computer science has led me to develop a passion for cybersecurity
 
 <a href="https://github.com/GabrielLugooo/SOC-Automation" target="_blank" rel="noreferrer noopener"> <img align="center" src="https://img.shields.io/badge/SOC%20Automation%20Project-000000" alt="SOC Automation Project" /></a>
 <a href="https://github.com/GabrielLugooo/SIEM-Stack" target="_blank" rel="noreferrer noopener"> <img align="center" src="https://img.shields.io/badge/SIEM%20Stack-000000" alt="SIEM Stack" /></a>
+<a href="https://github.com/GabrielLugooo/Detection-System" target="_blank" rel="noreferrer noopener"> <img align="center" src="https://img.shields.io/badge/Detection%20System-000000" alt="Detection System" /></a>
 
 <a href="https://github.com/GabrielLugooo/Python-Automation" target="_blank" rel="noreferrer noopener"> <img align="center" src="https://img.shields.io/badge/Python%20Algorithm%20Automation-000000" alt="Python Automation" /></a>
 <a href="https://github.com/GabrielLugooo/Image-Encrypt" target="_blank" rel="noreferrer noopener"> <img align="center" src="https://img.shields.io/badge/Image%20Encrypt-000000" alt="Image Encrypt" /></a>
 <a href="https://github.com/GabrielLugooo/Owasp-Pass-Test" target="_blank" rel="noreferrer noopener"> <img align="center" src="https://img.shields.io/badge/Owasp%20Pass%20Test-000000" alt="Owasp Pass Test" /></a>
 <a href="https://github.com/GabrielLugooo/Pass-Generator" target="_blank" rel="noreferrer noopener"> <img align="center" src="https://img.shields.io/badge/Pass%20Generator-000000" alt="Pass Generator" /></a>
 
+<a href="https://github.com/GabrielLugooo/Ports-Scanner" target="_blank" rel="noreferrer noopener"> <img align="center" src="https://img.shields.io/badge/Ports%20Scanner-000000" alt="Ports Scanner" /></a>
 <a href="https://github.com/GabrielLugooo/Canary-Token" target="_blank" rel="noreferrer noopener"> <img align="center" src="https://img.shields.io/badge/Canary%20Token-000000" alt="Canary Token" /></a>
 <a href="https://github.com/GabrielLugooo/Sandbox" target="_blank" rel="noreferrer noopener"> <img align="center" src="https://img.shields.io/badge/Sandbox-000000" alt="Sandbox" /></a>
 <a href="https://github.com/GabrielLugooo/Honeypot-Server" target="_blank" rel="noreferrer noopener"> <img align="center" src="https://img.shields.io/badge/Honeypot%20Server-000000" alt="Honeypot Server" /></a>
-<a href="https://github.com/GabrielLugooo/Detection-System" target="_blank" rel="noreferrer noopener"> <img align="center" src="https://img.shields.io/badge/Detection%20System-000000" alt="Detection System" /></a>
 
 - Ai Projects
 
@@ -293,4 +294,4 @@ My journey in computer science has led me to develop a passion for cybersecurity
 </p>
 
 <a href="https://linktr.ee/gabriellugooo" target="_blank" rel="noreferrer noopener"> <img align="center" src="https://img.shields.io/badge/Credits-Gabriel%20Lugo-green" alt="Credits" /></a>
-<a href="" target="_blank" rel="noreferrer noopener"> <img align="center" src="https://img.shields.io/badge/Last%20Edited-11%2002%202025-green" alt="Last Edited" /></a>
+<a href="" target="_blank" rel="noreferrer noopener"> <img align="center" src="https://img.shields.io/badge/Last%20Edited-22%2002%202025-green" alt="Last Edited" /></a>
