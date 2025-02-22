@@ -254,11 +254,12 @@ Mi trayectoria en la informática me ha llevado a desarrollar una pasión por la
 <a href="https://github.com/GabrielLugooo/SIEM-Stack" target="_blank" rel="noreferrer noopener"> <img align="center" src="https://img.shields.io/badge/SIEM%20Stack-000000" alt="SIEM Stack" /></a>
 <a href="https://github.com/GabrielLugooo/Detection-System" target="_blank" rel="noreferrer noopener"> <img align="center" src="https://img.shields.io/badge/Sistema%20de%20Detección-000000" alt="Sistema de Detección" /></a>
 
-<a href="https://github.com/GabrielLugooo/Python-Automation" target="_blank" rel="noreferrer noopener"> <img align="center" src="https://img.shields.io/badge/Automatización%20Python-000000" alt="Automatización Python" /></a>
 <a href="https://github.com/GabrielLugooo/Image-Encrypt" target="_blank" rel="noreferrer noopener"> <img align="center" src="https://img.shields.io/badge/Encriptador%20de%20Imágenes-000000" alt="Encriptador de Imágenes" /></a>
 <a href="https://github.com/GabrielLugooo/Owasp-Pass-Test" target="_blank" rel="noreferrer noopener"> <img align="center" src="https://img.shields.io/badge/Test%20Fortaleza%20de%20Contraseña%20Owasp-000000" alt="Owasp Pass Test" /></a>
 <a href="https://github.com/GabrielLugooo/Pass-Generator" target="_blank" rel="noreferrer noopener"> <img align="center" src="https://img.shields.io/badge/Generador%20de%20Contraseña-000000" alt="Pass Generator" /></a>
+<a href="https://github.com/GabrielLugooo/Hash-Cracker" target="_blank" rel="noreferrer noopener"> <img align="center" src="https://img.shields.io/badge/Cracker%20de%20Hash-000000" alt="Cracker de Hash" /></a>
 
+<a href="https://github.com/GabrielLugooo/Python-Automation" target="_blank" rel="noreferrer noopener"> <img align="center" src="https://img.shields.io/badge/Automatización%20Python-000000" alt="Automatización Python" /></a>
 <a href="https://github.com/GabrielLugooo/Ports-Scanner" target="_blank" rel="noreferrer noopener"> <img align="center" src="https://img.shields.io/badge/Scanner%20de%20Puertos-000000" alt="Scanner Puertos" /></a>
 <a href="https://github.com/GabrielLugooo/Canary-Token" target="_blank" rel="noreferrer noopener"> <img align="center" src="https://img.shields.io/badge/Canary%20Token-000000" alt="Canary Token" /></a>
 <a href="https://github.com/GabrielLugooo/Sandbox" target="_blank" rel="noreferrer noopener"> <img align="center" src="https://img.shields.io/badge/Caja%20de%20Arena-000000" alt="Caja de Arena" /></a>
