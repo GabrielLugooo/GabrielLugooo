@@ -272,6 +272,7 @@ Mi trayectoria en la informática me ha llevado a desarrollar una pasión por la
 - Otros Proyectos
 
 <a href="https://github.com/GabrielLugooo/Voice-Assistant" target="_blank" rel="noreferrer noopener"> <img align="center" src="https://img.shields.io/badge/Asistente%20de%20Voz-000000" alt="Asistente de Voz" /></a>
+<a href="https://github.com/GabrielLugooo/Translator" target="_blank" rel="noreferrer noopener"> <img align="center" src="https://img.shields.io/badge/Traductor-000000" alt="Traductor" /></a>
 
 - Proyectos FrontEnd
 
