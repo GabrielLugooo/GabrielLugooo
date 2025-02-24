@@ -257,13 +257,17 @@ My journey in computer science has led me to develop a passion for cybersecurity
 <a href="https://github.com/GabrielLugooo/Image-Encrypt" target="_blank" rel="noreferrer noopener"> <img align="center" src="https://img.shields.io/badge/Image%20Encrypt-000000" alt="Image Encrypt" /></a>
 <a href="https://github.com/GabrielLugooo/Owasp-Pass-Test" target="_blank" rel="noreferrer noopener"> <img align="center" src="https://img.shields.io/badge/Owasp%20Pass%20Test-000000" alt="Owasp Pass Test" /></a>
 <a href="https://github.com/GabrielLugooo/Pass-Generator" target="_blank" rel="noreferrer noopener"> <img align="center" src="https://img.shields.io/badge/Pass%20Generator-000000" alt="Pass Generator" /></a>
-<a href="https://github.com/GabrielLugooo/Hash-Cracker" target="_blank" rel="noreferrer noopener"> <img align="center" src="https://img.shields.io/badge/Hash%20Cracker-000000" alt="Hash Cracker" /></a>
 
 <a href="https://github.com/GabrielLugooo/Python-Automation" target="_blank" rel="noreferrer noopener"> <img align="center" src="https://img.shields.io/badge/Python%20Algorithm%20Automation-000000" alt="Python Automation" /></a>
 <a href="https://github.com/GabrielLugooo/Ports-Scanner" target="_blank" rel="noreferrer noopener"> <img align="center" src="https://img.shields.io/badge/Ports%20Scanner-000000" alt="Ports Scanner" /></a>
 <a href="https://github.com/GabrielLugooo/Canary-Token" target="_blank" rel="noreferrer noopener"> <img align="center" src="https://img.shields.io/badge/Canary%20Token-000000" alt="Canary Token" /></a>
 <a href="https://github.com/GabrielLugooo/Sandbox" target="_blank" rel="noreferrer noopener"> <img align="center" src="https://img.shields.io/badge/Sandbox-000000" alt="Sandbox" /></a>
 <a href="https://github.com/GabrielLugooo/Honeypot-Server" target="_blank" rel="noreferrer noopener"> <img align="center" src="https://img.shields.io/badge/Honeypot%20Server-000000" alt="Honeypot Server" /></a>
+
+- Hacking Projects
+
+<a href="https://github.com/GabrielLugooo/Hash-Cracker" target="_blank" rel="noreferrer noopener"> <img align="center" src="https://img.shields.io/badge/Hash%20Cracker-000000" alt="Hash Cracker" /></a>
+<a href="https://github.com/GabrielLugooo/Worm" target="_blank" rel="noreferrer noopener"> <img align="center" src="https://img.shields.io/badge/Worm-000000" alt="Worm" /></a>
 
 - Ai Projects
 
