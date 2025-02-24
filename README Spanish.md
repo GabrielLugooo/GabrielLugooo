@@ -269,6 +269,10 @@ Mi trayectoria en la informática me ha llevado a desarrollar una pasión por la
 
 <a href="https://github.com/GabrielLugooo/Vicky-Ai-Project" target="_blank" rel="noreferrer noopener"> <img align="center" src="https://img.shields.io/badge/Proyecto%20Vicky%20AI-000000" alt="Proyecto Vicky AI" /></a>
 
+- Otros Proyectos
+
+<a href="https://github.com/GabrielLugooo/Voice-Assistant" target="_blank" rel="noreferrer noopener"> <img align="center" src="https://img.shields.io/badge/Asistente%20de%20Voz-000000" alt="Asistente de Voz" /></a>
+
 - Proyectos FrontEnd
 
 <a href="https://github.com/GabrielLugooo/Game-Awards-Copycat" target="_blank" rel="noreferrer noopener"> <img align="center" src="https://img.shields.io/badge/Game%20Awards%20Web-000000" alt="Game Awards Web" /></a>

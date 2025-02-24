@@ -269,6 +269,10 @@ My journey in computer science has led me to develop a passion for cybersecurity
 
 <a href="https://github.com/GabrielLugooo/Vicky-Ai-Project/tree/main" target="_blank" rel="noreferrer noopener"> <img align="center" src="https://img.shields.io/badge/Vicky%20AI%20Project-000000" alt="Vicky AI Project" /></a>
 
+- Others Projects
+
+<a href="https://github.com/GabrielLugooo/Voice-Assistant" target="_blank" rel="noreferrer noopener"> <img align="center" src="https://img.shields.io/badge/Voice%20Assistant-000000" alt="Voice Assitant" /></a>
+
 - FrontEnd Projects
 
 <a href="https://github.com/GabrielLugooo/Game-Awards-Copycat" target="_blank" rel="noreferrer noopener"> <img align="center" src="https://img.shields.io/badge/Game%20Awards%20Web-000000" alt="Game Awards Web" /></a>
