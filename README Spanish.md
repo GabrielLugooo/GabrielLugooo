@@ -248,7 +248,7 @@ Mi trayectoria en la informática me ha llevado a desarrollar una pasión por la
 <details>
 <summary><h3>Proyectos</h3></summary>
 
-- Proyectos CiberSec
+- #### Proyectos CiberSec
 
 <a href="https://github.com/GabrielLugooo/SOC-Automation" target="_blank" rel="noreferrer noopener"> <img align="center" src="https://img.shields.io/badge/Proyecto%20Automatización%20SOC-000000" alt="Proyecto Automatización SOC" /></a>
 <a href="https://github.com/GabrielLugooo/SIEM-Stack" target="_blank" rel="noreferrer noopener"> <img align="center" src="https://img.shields.io/badge/SIEM%20Stack-000000" alt="SIEM Stack" /></a>
@@ -257,28 +257,32 @@ Mi trayectoria en la informática me ha llevado a desarrollar una pasión por la
 <a href="https://github.com/GabrielLugooo/Image-Encrypt" target="_blank" rel="noreferrer noopener"> <img align="center" src="https://img.shields.io/badge/Encriptador%20de%20Imágenes-000000" alt="Encriptador de Imágenes" /></a>
 <a href="https://github.com/GabrielLugooo/Owasp-Pass-Test" target="_blank" rel="noreferrer noopener"> <img align="center" src="https://img.shields.io/badge/Test%20Fortaleza%20de%20Contraseña%20Owasp-000000" alt="Owasp Pass Test" /></a>
 <a href="https://github.com/GabrielLugooo/Pass-Generator" target="_blank" rel="noreferrer noopener"> <img align="center" src="https://img.shields.io/badge/Generador%20de%20Contraseña-000000" alt="Pass Generator" /></a>
-
 <a href="https://github.com/GabrielLugooo/Python-Automation" target="_blank" rel="noreferrer noopener"> <img align="center" src="https://img.shields.io/badge/Automatización%20Python-000000" alt="Automatización Python" /></a>
+
 <a href="https://github.com/GabrielLugooo/Ports-Scanner" target="_blank" rel="noreferrer noopener"> <img align="center" src="https://img.shields.io/badge/Scanner%20de%20Puertos-000000" alt="Scanner Puertos" /></a>
 <a href="https://github.com/GabrielLugooo/Canary-Token" target="_blank" rel="noreferrer noopener"> <img align="center" src="https://img.shields.io/badge/Canary%20Token-000000" alt="Canary Token" /></a>
 <a href="https://github.com/GabrielLugooo/Sandbox" target="_blank" rel="noreferrer noopener"> <img align="center" src="https://img.shields.io/badge/Caja%20de%20Arena-000000" alt="Caja de Arena" /></a>
 <a href="https://github.com/GabrielLugooo/Honeypot-Server" target="_blank" rel="noreferrer noopener"> <img align="center" src="https://img.shields.io/badge/Servidor%20Honeypot-000000" alt="Servidor Honeypot" /></a>
 
-- Proyectos de Hacking
+- #### Proyectos de Hacking
 
 <a href="https://github.com/GabrielLugooo/Hash-Cracker" target="_blank" rel="noreferrer noopener"> <img align="center" src="https://img.shields.io/badge/Cracker%20de%20Hash-000000" alt="Cracker de Hash" /></a>
 <a href="https://github.com/GabrielLugooo/Worm" target="_blank" rel="noreferrer noopener"> <img align="center" src="https://img.shields.io/badge/Gusano-000000" alt="Gusano" /></a>
 
-- Proyectos Ai
+- #### Proyectos Ai
 
 <a href="https://github.com/GabrielLugooo/Vicky-Ai-Project" target="_blank" rel="noreferrer noopener"> <img align="center" src="https://img.shields.io/badge/Proyecto%20Vicky%20AI-000000" alt="Proyecto Vicky AI" /></a>
 
-- Otros Proyectos
+- #### Otros Proyectos
 
 <a href="https://github.com/GabrielLugooo/Voice-Assistant" target="_blank" rel="noreferrer noopener"> <img align="center" src="https://img.shields.io/badge/Asistente%20de%20Voz-000000" alt="Asistente de Voz" /></a>
+<a href="https://github.com/GabrielLugooo/Writter-Assistant" target="_blank" rel="noreferrer noopener"> <img align="center" src="https://img.shields.io/badge/Asistente%20de%20Escritura-000000" alt="Asistente de Escritura" /></a>
 <a href="https://github.com/GabrielLugooo/Translator" target="_blank" rel="noreferrer noopener"> <img align="center" src="https://img.shields.io/badge/Traductor-000000" alt="Traductor" /></a>
 
-- Proyectos FrontEnd
+<a href="https://github.com/GabrielLugooo/Alarm" target="_blank" rel="noreferrer noopener"> <img align="center" src="https://img.shields.io/badge/Alarma-000000" alt="Alarma" /></a>
+<a href="https://github.com/GabrielLugooo/QR-Code" target="_blank" rel="noreferrer noopener"> <img align="center" src="https://img.shields.io/badge/Código%20QR-000000" alt="Código QR" /></a>
+
+- #### Proyectos FrontEnd
 
 <a href="https://github.com/GabrielLugooo/Game-Awards-Copycat" target="_blank" rel="noreferrer noopener"> <img align="center" src="https://img.shields.io/badge/Game%20Awards%20Web-000000" alt="Game Awards Web" /></a>
 <a href="https://github.com/GabrielLugooo/DC-Shoes-Copycat" target="_blank" rel="noreferrer noopener"> <img align="center" src="https://img.shields.io/badge/DC%20Shoes%20Web-000000" alt="DC Shoes Web" /></a>
