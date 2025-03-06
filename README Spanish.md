@@ -289,7 +289,7 @@ Mi trayectoria en la informática me ha llevado a desarrollar una pasión por la
 </details>
 
 ---
-
+<img align="right" src="https://i.imgur.com/7jvxhKB.png" alt="QRCode" width="150" height="150" />
 <h3 align="left">Conecta Conmigo</h3>
 
 <p align="left">
