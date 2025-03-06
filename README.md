@@ -289,8 +289,8 @@ My journey in computer science has led me to develop a passion for cybersecurity
 </details>
 
 ---
-
-<h3 align="left">Connect with me</h3>
+<img align="right" src="https://i.imgur.com/7jvxhKB.png" alt="QRCode" width="150" height="150" />
+<h3 align="left">Connect with me</h3> 
 
 <p align="left">
 <a href="https://www.youtube.com/@gabriellugooo" target="_blank" rel="noreferrer noopener"> <img align="center" src="https://img.icons8.com/?size=50&id=55200&format=png" alt="@gabriellugooo" height="40" width="40" /></a>
@@ -304,4 +304,4 @@ My journey in computer science has led me to develop a passion for cybersecurity
 </p>
 
 <a href="https://linktr.ee/gabriellugooo" target="_blank" rel="noreferrer noopener"> <img align="center" src="https://img.shields.io/badge/Credits-Gabriel%20Lugo-green" alt="Credits" /></a>
-<a href="" target="_blank" rel="noreferrer noopener"> <img align="center" src="https://img.shields.io/badge/Last%20Edited-22%2002%202025-green" alt="Last Edited" /></a>
+<a href="" target="_blank" rel="noreferrer noopener"> <img align="center" src="https://img.shields.io/badge/Last%20Edited-10%2003%202025-green" alt="Last Edited" /></a>
