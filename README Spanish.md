@@ -308,4 +308,4 @@ Mi trayectoria en la informática me ha llevado a desarrollar una pasión por la
 </p>
 
 <a href="https://linktr.ee/gabriellugooo" target="_blank" rel="noreferrer noopener"> <img align="center" src="https://img.shields.io/badge/Créditos-Gabriel%20Lugo-green" alt="Créditos" /></a>
-<a href="" target="_blank" rel="noreferrer noopener"> <img align="center" src="https://img.shields.io/badge/Última%20Edición-22%2002%202025-green" alt="Última Edición" /></a>
+<a href="" target="_blank" rel="noreferrer noopener"> <img align="center" src="https://img.shields.io/badge/Última%20Edición-10%2003%202025-green" alt="Última Edición" /></a>
