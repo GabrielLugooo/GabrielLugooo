@@ -277,14 +277,15 @@ My journey in computer science has led me to develop a passion for cybersecurity
 - #### Others Projects
 
 <a href="https://github.com/GabrielLugooo/Voice-Assistant" target="_blank" rel="noreferrer noopener"> <img align="center" src="https://img.shields.io/badge/Voice%20Assistant-000000" alt="Voice Assistant" /></a>
+<a href="https://github.com/GabrielLugooo/Reader-Assistant" target="_blank" rel="noreferrer noopener"> <img align="center" src="https://img.shields.io/badge/Reader%20Assisant-000000" alt="Reader Assistant" /></a>
+<a href="https://github.com/GabrielLugooo/Writter-Assistant" target="_blank" rel="noreferrer noopener"> <img align="center" src="https://img.shields.io/badge/Writter%20Assistant-000000" alt="Writter Assistant" /></a>
+
 <a href="https://github.com/GabrielLugooo/Translator" target="_blank" rel="noreferrer noopener"> <img align="center" src="https://img.shields.io/badge/Translator-000000" alt="Translator" /></a>
 <a href="https://github.com/GabrielLugooo/Login" target="_blank" rel="noreferrer noopener"> <img align="center" src="https://img.shields.io/badge/Login-000000" alt="Login" /></a>
-<a href="https://github.com/GabrielLugooo/QR-Code" target="_blank" rel="noreferrer noopener"> <img align="center" src="https://img.shields.io/badge/QR%20Code-000000" alt="QR Code" /></a>
-
 <a href="https://github.com/GabrielLugooo/Alarm" target="_blank" rel="noreferrer noopener"> <img align="center" src="https://img.shields.io/badge/Alarm-000000" alt="Alarm" /></a>
 <a href="https://github.com/GabrielLugooo/QR-Code" target="_blank" rel="noreferrer noopener"> <img align="center" src="https://img.shields.io/badge/QR%20Code-000000" alt="QR Code" /></a>
 
-- #### FrontEnd Projects
+- FrontEnd Projects
 
 <a href="https://github.com/GabrielLugooo/Game-Awards-Copycat" target="_blank" rel="noreferrer noopener"> <img align="center" src="https://img.shields.io/badge/Game%20Awards%20Web-000000" alt="Game Awards Web" /></a>
 <a href="https://github.com/GabrielLugooo/DC-Shoes-Copycat" target="_blank" rel="noreferrer noopener"> <img align="center" src="https://img.shields.io/badge/DC%20Shoes%20Web-000000" alt="DC Shoes Web" /></a>
