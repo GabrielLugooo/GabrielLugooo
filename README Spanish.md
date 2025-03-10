@@ -268,6 +268,7 @@ Mi trayectoria en la informática me ha llevado a desarrollar una pasión por la
 
 <a href="https://github.com/GabrielLugooo/Hash-Cracker" target="_blank" rel="noreferrer noopener"> <img align="center" src="https://img.shields.io/badge/Cracker%20de%20Hash-000000" alt="Cracker de Hash" /></a>
 <a href="https://github.com/GabrielLugooo/Worm" target="_blank" rel="noreferrer noopener"> <img align="center" src="https://img.shields.io/badge/Gusano-000000" alt="Gusano" /></a>
+<a href="https://github.com/GabrielLugooo/Keylogger" target="_blank" rel="noreferrer noopener"> <img align="center" src="https://img.shields.io/badge/Keylogger-000000" alt="Keylogger" /></a>
 
 - #### Proyectos Ai
 
@@ -285,7 +286,7 @@ Mi trayectoria en la informática me ha llevado a desarrollar una pasión por la
 <a href="https://github.com/GabrielLugooo/Alarm" target="_blank" rel="noreferrer noopener"> <img align="center" src="https://img.shields.io/badge/Alarma-000000" alt="Alarma" /></a>
 <a href="https://github.com/GabrielLugooo/QR-Code" target="_blank" rel="noreferrer noopener"> <img align="center" src="https://img.shields.io/badge/Código%20QR-000000" alt="Código QR" /></a>
 
-- Proyectos FrontEnd
+- #### Proyectos FrontEnd
 
 <a href="https://github.com/GabrielLugooo/Game-Awards-Copycat" target="_blank" rel="noreferrer noopener"> <img align="center" src="https://img.shields.io/badge/Game%20Awards%20Web-000000" alt="Game Awards Web" /></a>
 <a href="https://github.com/GabrielLugooo/DC-Shoes-Copycat" target="_blank" rel="noreferrer noopener"> <img align="center" src="https://img.shields.io/badge/DC%20Shoes%20Web-000000" alt="DC Shoes Web" /></a>

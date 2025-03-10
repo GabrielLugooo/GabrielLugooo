@@ -268,6 +268,7 @@ My journey in computer science has led me to develop a passion for cybersecurity
 
 <a href="https://github.com/GabrielLugooo/Hash-Cracker" target="_blank" rel="noreferrer noopener"> <img align="center" src="https://img.shields.io/badge/Hash%20Cracker-000000" alt="Hash Cracker" /></a>
 <a href="https://github.com/GabrielLugooo/Worm" target="_blank" rel="noreferrer noopener"> <img align="center" src="https://img.shields.io/badge/Worm-000000" alt="Worm" /></a>
+<a href="https://github.com/GabrielLugooo/Keylogger" target="_blank" rel="noreferrer noopener"> <img align="center" src="https://img.shields.io/badge/Keylogger-000000" alt="Keylogger" /></a>
 
 - #### Ai Projects
 
@@ -285,7 +286,7 @@ My journey in computer science has led me to develop a passion for cybersecurity
 <a href="https://github.com/GabrielLugooo/Alarm" target="_blank" rel="noreferrer noopener"> <img align="center" src="https://img.shields.io/badge/Alarm-000000" alt="Alarm" /></a>
 <a href="https://github.com/GabrielLugooo/QR-Code" target="_blank" rel="noreferrer noopener"> <img align="center" src="https://img.shields.io/badge/QR%20Code-000000" alt="QR Code" /></a>
 
-- FrontEnd Projects
+- #### FrontEnd Projects
 
 <a href="https://github.com/GabrielLugooo/Game-Awards-Copycat" target="_blank" rel="noreferrer noopener"> <img align="center" src="https://img.shields.io/badge/Game%20Awards%20Web-000000" alt="Game Awards Web" /></a>
 <a href="https://github.com/GabrielLugooo/DC-Shoes-Copycat" target="_blank" rel="noreferrer noopener"> <img align="center" src="https://img.shields.io/badge/DC%20Shoes%20Web-000000" alt="DC Shoes Web" /></a>
