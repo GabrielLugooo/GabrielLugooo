@@ -248,7 +248,7 @@ My journey in computer science has led me to develop a passion for cybersecurity
 <details>
 <summary><h3>Projects</h3></summary>
 
-- CyberSec Projects
+- #### CyberSec Projects
 
 <a href="https://github.com/GabrielLugooo/SOC-Automation" target="_blank" rel="noreferrer noopener"> <img align="center" src="https://img.shields.io/badge/SOC%20Automation%20Project-000000" alt="SOC Automation Project" /></a>
 <a href="https://github.com/GabrielLugooo/SIEM-Stack" target="_blank" rel="noreferrer noopener"> <img align="center" src="https://img.shields.io/badge/SIEM%20Stack-000000" alt="SIEM Stack" /></a>
@@ -257,34 +257,34 @@ My journey in computer science has led me to develop a passion for cybersecurity
 <a href="https://github.com/GabrielLugooo/Image-Encrypt" target="_blank" rel="noreferrer noopener"> <img align="center" src="https://img.shields.io/badge/Image%20Encrypt-000000" alt="Image Encrypt" /></a>
 <a href="https://github.com/GabrielLugooo/Owasp-Pass-Test" target="_blank" rel="noreferrer noopener"> <img align="center" src="https://img.shields.io/badge/Owasp%20Pass%20Test-000000" alt="Owasp Pass Test" /></a>
 <a href="https://github.com/GabrielLugooo/Pass-Generator" target="_blank" rel="noreferrer noopener"> <img align="center" src="https://img.shields.io/badge/Pass%20Generator-000000" alt="Pass Generator" /></a>
-
 <a href="https://github.com/GabrielLugooo/Python-Automation" target="_blank" rel="noreferrer noopener"> <img align="center" src="https://img.shields.io/badge/Python%20Algorithm%20Automation-000000" alt="Python Automation" /></a>
+
 <a href="https://github.com/GabrielLugooo/Ports-Scanner" target="_blank" rel="noreferrer noopener"> <img align="center" src="https://img.shields.io/badge/Ports%20Scanner-000000" alt="Ports Scanner" /></a>
 <a href="https://github.com/GabrielLugooo/Canary-Token" target="_blank" rel="noreferrer noopener"> <img align="center" src="https://img.shields.io/badge/Canary%20Token-000000" alt="Canary Token" /></a>
 <a href="https://github.com/GabrielLugooo/Sandbox" target="_blank" rel="noreferrer noopener"> <img align="center" src="https://img.shields.io/badge/Sandbox-000000" alt="Sandbox" /></a>
 <a href="https://github.com/GabrielLugooo/Honeypot-Server" target="_blank" rel="noreferrer noopener"> <img align="center" src="https://img.shields.io/badge/Honeypot%20Server-000000" alt="Honeypot Server" /></a>
 
-- Hacking Projects
+- #### Hacking Projects
 
 <a href="https://github.com/GabrielLugooo/Hash-Cracker" target="_blank" rel="noreferrer noopener"> <img align="center" src="https://img.shields.io/badge/Hash%20Cracker-000000" alt="Hash Cracker" /></a>
 <a href="https://github.com/GabrielLugooo/Worm" target="_blank" rel="noreferrer noopener"> <img align="center" src="https://img.shields.io/badge/Worm-000000" alt="Worm" /></a>
 
-- Ai Projects
+- #### Ai Projects
 
 <a href="https://github.com/GabrielLugooo/Vicky-Ai-Project/tree/main" target="_blank" rel="noreferrer noopener"> <img align="center" src="https://img.shields.io/badge/Vicky%20AI%20Project-000000" alt="Vicky AI Project" /></a>
 <a href="https://github.com/GabrielLugooo/Image-Recogn" target="_blank" rel="noreferrer noopener"> <img align="center" src="https://img.shields.io/badge/Image%20Recognition-000000" alt="Image Recogn" /></a>
 
-- Others Projects
+- #### Others Projects
 
 <a href="https://github.com/GabrielLugooo/Voice-Assistant" target="_blank" rel="noreferrer noopener"> <img align="center" src="https://img.shields.io/badge/Voice%20Assistant-000000" alt="Voice Assistant" /></a>
-<a href="https://github.com/GabrielLugooo/Reader-Assistant" target="_blank" rel="noreferrer noopener"> <img align="center" src="https://img.shields.io/badge/Reader%20Assisant-000000" alt="Reader Assistant" /></a>
-<a href="https://github.com/GabrielLugooo/Writter-Assistant" target="_blank" rel="noreferrer noopener"> <img align="center" src="https://img.shields.io/badge/Writter%20Assistant-000000" alt="Writter Assistant" /></a>
-
 <a href="https://github.com/GabrielLugooo/Translator" target="_blank" rel="noreferrer noopener"> <img align="center" src="https://img.shields.io/badge/Translator-000000" alt="Translator" /></a>
 <a href="https://github.com/GabrielLugooo/Login" target="_blank" rel="noreferrer noopener"> <img align="center" src="https://img.shields.io/badge/Login-000000" alt="Login" /></a>
 <a href="https://github.com/GabrielLugooo/QR-Code" target="_blank" rel="noreferrer noopener"> <img align="center" src="https://img.shields.io/badge/QR%20Code-000000" alt="QR Code" /></a>
 
-- FrontEnd Projects
+<a href="https://github.com/GabrielLugooo/Alarm" target="_blank" rel="noreferrer noopener"> <img align="center" src="https://img.shields.io/badge/Alarm-000000" alt="Alarm" /></a>
+<a href="https://github.com/GabrielLugooo/QR-Code" target="_blank" rel="noreferrer noopener"> <img align="center" src="https://img.shields.io/badge/QR%20Code-000000" alt="QR Code" /></a>
+
+- #### FrontEnd Projects
 
 <a href="https://github.com/GabrielLugooo/Game-Awards-Copycat" target="_blank" rel="noreferrer noopener"> <img align="center" src="https://img.shields.io/badge/Game%20Awards%20Web-000000" alt="Game Awards Web" /></a>
 <a href="https://github.com/GabrielLugooo/DC-Shoes-Copycat" target="_blank" rel="noreferrer noopener"> <img align="center" src="https://img.shields.io/badge/DC%20Shoes%20Web-000000" alt="DC Shoes Web" /></a>
@@ -296,6 +296,7 @@ My journey in computer science has led me to develop a passion for cybersecurity
 
 ---
 
+<img align="right" src="https://i.imgur.com/7jvxhKB.png" alt="QRCode" width="150" height="150" />
 <h3 align="left">Connect with me</h3>
 
 <p align="left">
@@ -310,4 +311,4 @@ My journey in computer science has led me to develop a passion for cybersecurity
 </p>
 
 <a href="https://linktr.ee/gabriellugooo" target="_blank" rel="noreferrer noopener"> <img align="center" src="https://img.shields.io/badge/Credits-Gabriel%20Lugo-green" alt="Credits" /></a>
-<a href="" target="_blank" rel="noreferrer noopener"> <img align="center" src="https://img.shields.io/badge/Last%20Edited-22%2002%202025-green" alt="Last Edited" /></a>
+<a href="" target="_blank" rel="noreferrer noopener"> <img align="center" src="https://img.shields.io/badge/Last%20Edited-10%2003%202025-green" alt="Last Edited" /></a>
