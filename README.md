@@ -280,6 +280,7 @@ My journey in computer science has led me to develop a passion for cybersecurity
 <a href="https://github.com/GabrielLugooo/Voice-Assistant" target="_blank" rel="noreferrer noopener"> <img align="center" src="https://img.shields.io/badge/Voice%20Assistant-000000" alt="Voice Assistant" /></a>
 <a href="https://github.com/GabrielLugooo/Reader-Assistant" target="_blank" rel="noreferrer noopener"> <img align="center" src="https://img.shields.io/badge/Reader%20Assisant-000000" alt="Reader Assistant" /></a>
 <a href="https://github.com/GabrielLugooo/Writter-Assistant" target="_blank" rel="noreferrer noopener"> <img align="center" src="https://img.shields.io/badge/Writter%20Assistant-000000" alt="Writter Assistant" /></a>
+<a href="https://github.com/GabrielLugooo/DB-Insert" target="_blank" rel="noreferrer noopener"> <img align="center" src="https://img.shields.io/badge/DB%20Insert-000000" alt="DB Insert" /></a>
 
 <a href="https://github.com/GabrielLugooo/Translator" target="_blank" rel="noreferrer noopener"> <img align="center" src="https://img.shields.io/badge/Translator-000000" alt="Translator" /></a>
 <a href="https://github.com/GabrielLugooo/Login" target="_blank" rel="noreferrer noopener"> <img align="center" src="https://img.shields.io/badge/Login-000000" alt="Login" /></a>
