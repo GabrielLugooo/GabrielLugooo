@@ -272,20 +272,21 @@ Mi trayectoria en la informática me ha llevado a desarrollar una pasión por la
 
 - #### Proyectos Ai
 
-<a href="https://github.com/GabrielLugooo/Vicky-Ai-Project" target="_blank" rel="noreferrer noopener"> <img align="center" src="https://img.shields.io/badge/Proyecto%20Vicky%20AI-000000" alt="Proyecto Vicky AI" /></a>
+<a href="https://github.com/GabrielLugooo/Vicky-Ai-Public" target="_blank" rel="noreferrer noopener"> <img align="center" src="https://img.shields.io/badge/Vicky%20AI-000000" alt="Vicky AI" /></a>
 <a href="https://github.com/GabrielLugooo/Image-Recogn" target="_blank" rel="noreferrer noopener"> <img align="center" src="https://img.shields.io/badge/Reconocedor%20de%20Imagenes-000000" alt="Reconocedor de Imagenes" /></a>
 
 - #### Otros Proyectos
 
 <a href="https://github.com/GabrielLugooo/Voice-Assistant" target="_blank" rel="noreferrer noopener"> <img align="center" src="https://img.shields.io/badge/Asistente%20de%20Voz-000000" alt="Asistente de Voz" /></a>
 <a href="https://github.com/GabrielLugooo/Reader-Assistant" target="_blank" rel="noreferrer noopener"> <img align="center" src="https://img.shields.io/badge/Asistente%20de%20Lectura-000000" alt="Asistente de Lectura" /></a>
-<a href="https://github.com/GabrielLugooo/Writter-Assistant" target="_blank" rel="noreferrer noopener"> <img align="center" src="https://img.shields.io/badge/Asistente%20de%20Escritura-000000" alt="Asistente de Escritura" /></a>
+<a href="https://github.com/GabrielLugooo/Writer-Assistant-Public" target="_blank" rel="noreferrer noopener"> <img align="center" src="https://img.shields.io/badge/Asistente%20de%20Escritura-000000" alt="Asistente de Escritura" /></a>
 <a href="https://github.com/GabrielLugooo/DB-Insert" target="_blank" rel="noreferrer noopener"> <img align="center" src="https://img.shields.io/badge/DB%20Insert-000000" alt="DB Insert" /></a>
 
 <a href="https://github.com/GabrielLugooo/Translator" target="_blank" rel="noreferrer noopener"> <img align="center" src="https://img.shields.io/badge/Traductor-000000" alt="Traductor" /></a>
 <a href="https://github.com/GabrielLugooo/Login" target="_blank" rel="noreferrer noopener"> <img align="center" src="https://img.shields.io/badge/Inicio%20de%20Sesion-000000" alt="Inicio de Sesion" /></a>
 <a href="https://github.com/GabrielLugooo/Alarm" target="_blank" rel="noreferrer noopener"> <img align="center" src="https://img.shields.io/badge/Alarma-000000" alt="Alarma" /></a>
 <a href="https://github.com/GabrielLugooo/QR-Code" target="_blank" rel="noreferrer noopener"> <img align="center" src="https://img.shields.io/badge/Código%20QR-000000" alt="Código QR" /></a>
+<a href="https://github.com/GabrielLugooo/Telegram-Bot-Public" target="_blank" rel="noreferrer noopener"> <img align="center" src="https://img.shields.io/badge/Bot%20de%20Telegram-000000" alt="Bot de Telegram" /></a>
 
 - #### Proyectos FrontEnd
 
