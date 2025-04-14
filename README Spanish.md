@@ -273,6 +273,7 @@ Mi trayectoria en la informática me ha llevado a desarrollar una pasión por la
 - #### Proyectos Ai
 
 <a href="https://github.com/GabrielLugooo/Vicky-Ai-Public" target="_blank" rel="noreferrer noopener"> <img align="center" src="https://img.shields.io/badge/Vicky%20AI-000000" alt="Vicky AI" /></a>
+<a href="https://github.com/GabrielLugooo/Vicky-Backup-Poemas" target="_blank" rel="noreferrer noopener"> <img align="center" src="https://img.shields.io/badge/Vicky%20Backup%20Poemas-000000" alt="Vicky Backup Poemas" /></a>
 <a href="https://github.com/GabrielLugooo/Image-Recogn" target="_blank" rel="noreferrer noopener"> <img align="center" src="https://img.shields.io/badge/Reconocedor%20de%20Imagenes-000000" alt="Reconocedor de Imagenes" /></a>
 
 - #### Otros Proyectos
