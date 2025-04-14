@@ -273,6 +273,7 @@ My journey in computer science has led me to develop a passion for cybersecurity
 - #### Ai Projects
 
 <a href="https://github.com/GabrielLugooo/Vicky-Ai-Public" target="_blank" rel="noreferrer noopener"> <img align="center" src="https://img.shields.io/badge/Vicky%20AI-000000" alt="Vicky AI" /></a>
+<a href="https://github.com/GabrielLugooo/Vicky-Backup-Poemas" target="_blank" rel="noreferrer noopener"> <img align="center" src="https://img.shields.io/badge/Vicky%20Backup%20Poemas-000000" alt="Vicky Backup Poemas" /></a>
 <a href="https://github.com/GabrielLugooo/Image-Recogn" target="_blank" rel="noreferrer noopener"> <img align="center" src="https://img.shields.io/badge/Image%20Recognition-000000" alt="Image Recogn" /></a>
 
 - #### Others Projects
@@ -287,14 +288,6 @@ My journey in computer science has led me to develop a passion for cybersecurity
 <a href="https://github.com/GabrielLugooo/Alarm" target="_blank" rel="noreferrer noopener"> <img align="center" src="https://img.shields.io/badge/Alarm-000000" alt="Alarm" /></a>
 <a href="https://github.com/GabrielLugooo/QR-Code" target="_blank" rel="noreferrer noopener"> <img align="center" src="https://img.shields.io/badge/QR%20Code-000000" alt="QR Code" /></a>
 <a href="https://github.com/GabrielLugooo/Telegram-Bot-Public" target="_blank" rel="noreferrer noopener"> <img align="center" src="https://img.shields.io/badge/Telegram%20Bot-000000" alt="Telegram Bot" /></a>
-
-- #### FrontEnd Projects
-
-<a href="https://github.com/GabrielLugooo/Game-Awards-Copycat" target="_blank" rel="noreferrer noopener"> <img align="center" src="https://img.shields.io/badge/Game%20Awards%20Web-000000" alt="Game Awards Web" /></a>
-<a href="https://github.com/GabrielLugooo/DC-Shoes-Copycat" target="_blank" rel="noreferrer noopener"> <img align="center" src="https://img.shields.io/badge/DC%20Shoes%20Web-000000" alt="DC Shoes Web" /></a>
-<a href="https://github.com/GabrielLugooo/Mad-Cool-Copycat" target="_blank" rel="noreferrer noopener"> <img align="center" src="https://img.shields.io/badge/Mad%20Cool%20Web-000000" alt="Mad Cool Web" /></a>
-<a href="https://github.com/GabrielLugooo/Netflix-Copycat" target="_blank" rel="noreferrer noopener"> <img align="center" src="https://img.shields.io/badge/Netflix%20Web-000000" alt="Netflix Web" /></a>
-<a href="https://github.com/GabrielLugooo/Tinder-Copycat" target="_blank" rel="noreferrer noopener"> <img align="center" src="https://img.shields.io/badge/Tinder%20Web-000000" alt="Tinder Web" /></a>
 
 </details>
 
