@@ -1,4 +1,4 @@
-<img align="center" src="https://media.licdn.com/dms/image/v2/D4D16AQGUNxQ7NSC05A/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1738695150340?e=1744243200&v=beta&t=oXX-ixT9bR3dJcYCLv4KBs5wjKFoeP0524kFGHQMYmQ" alt="gabriellugo" />
+<img align="center" src="https://media.licdn.com/dms/image/v2/D4D16AQGUNxQ7NSC05A/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1738695150340?e=1749686400&v=beta&t=hBmszzzG0Zu-m7ZxeCdU5VxgDWqIZuWB0vnrMycuqY4" alt="gabriellugo" />
 
 <p align="left">
 <h1 align="left">Hola! 👋, Soy Gabriel Lugo</h1>
@@ -287,14 +287,6 @@ Mi trayectoria en la informática me ha llevado a desarrollar una pasión por la
 <a href="https://github.com/GabrielLugooo/Alarm" target="_blank" rel="noreferrer noopener"> <img align="center" src="https://img.shields.io/badge/Alarma-000000" alt="Alarma" /></a>
 <a href="https://github.com/GabrielLugooo/QR-Code" target="_blank" rel="noreferrer noopener"> <img align="center" src="https://img.shields.io/badge/Código%20QR-000000" alt="Código QR" /></a>
 <a href="https://github.com/GabrielLugooo/Telegram-Bot-Public" target="_blank" rel="noreferrer noopener"> <img align="center" src="https://img.shields.io/badge/Bot%20de%20Telegram-000000" alt="Bot de Telegram" /></a>
-
-- #### Proyectos FrontEnd
-
-<a href="https://github.com/GabrielLugooo/Game-Awards-Copycat" target="_blank" rel="noreferrer noopener"> <img align="center" src="https://img.shields.io/badge/Game%20Awards%20Web-000000" alt="Game Awards Web" /></a>
-<a href="https://github.com/GabrielLugooo/DC-Shoes-Copycat" target="_blank" rel="noreferrer noopener"> <img align="center" src="https://img.shields.io/badge/DC%20Shoes%20Web-000000" alt="DC Shoes Web" /></a>
-<a href="https://github.com/GabrielLugooo/Mad-Cool-Copycat" target="_blank" rel="noreferrer noopener"> <img align="center" src="https://img.shields.io/badge/Mad%20Cool%20Web-000000" alt="Mad Cool Web" /></a>
-<a href="https://github.com/GabrielLugooo/Netflix-Copycat" target="_blank" rel="noreferrer noopener"> <img align="center" src="https://img.shields.io/badge/Netflix%20Web-000000" alt="Netflix Web" /></a>
-<a href="https://github.com/GabrielLugooo/Tinder-Copycat" target="_blank" rel="noreferrer noopener"> <img align="center" src="https://img.shields.io/badge/Tinder%20Web-000000" alt="Tinder Web" /></a>
 
 </details>
 
