@@ -62,7 +62,7 @@ My journey in computer science has led me to develop a passion for cybersecurity
 <summary><h3>Certifications</h3></summary>
     
 <a href="https://coursera.org/share/ec641fbfb8df73815a842d43dcc33515" target="_blank" rel="noreferrer noopener"> <img src="https://img.shields.io/badge/Google%20CyberSecurity%20Analyst%20Certificate-000000" alt="Google Cybersecurity Certificate" /></a>
-<a href="https://drive.google.com/file/d/1_XZ_zH40Cy4QJnDo4KaW6r1S5AtOI8B2/view?usp=sharing" target="_blank" rel="noreferrer noopener"> <img src="https://img.shields.io/badge/ISIV%20Systems%20Analyst%20Certificate-000000" alt="Virasoro Higher Institute of Informatics" /></a>
+<a href=""> <img src="https://img.shields.io/badge/ISIV%20Systems%20Analyst%20Certificate-000000" alt="Virasoro Higher Institute of Informatics" /></a>
     
 <details>
 <summary>More Certifications</summary>
@@ -308,4 +308,4 @@ My journey in computer science has led me to develop a passion for cybersecurity
 </p>
 
 <a href="https://linktr.ee/gabriellugooo" target="_blank" rel="noreferrer noopener"> <img align="center" src="https://img.shields.io/badge/Credits-Gabriel%20Lugo-green" alt="Credits" /></a>
-<a href="" target="_blank" rel="noreferrer noopener"> <img align="center" src="https://img.shields.io/badge/Last%20Edited-10%2003%202025-green" alt="Last Edited" /></a>
+<a href="" target="_blank" rel="noreferrer noopener"> <img align="center" src="https://img.shields.io/badge/Last%20Edited-02%2010%202060-green" alt="Last Edited" /></a>
