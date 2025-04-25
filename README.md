@@ -48,11 +48,11 @@ My journey in computer science has led me to develop a passion for cybersecurity
 <summary><h3>CV´s</h3></summary>
 
 <p align="left">
-<a href="https://drive.google.com/file/d/12ESW56uXGSEp8vwKSq7YypLj6A6IuvLQ/view?usp=drive_link" target="_blank" rel="noreferrer noopener"> <img align="center" src="https://img.shields.io/badge/CV%20CyberSec%20Analyst%20Lugo%20English-000000" alt="CV CyberSec Lugo English" /></a>
-<a href="https://drive.google.com/file/d/1PH6jO4xDqQCSIH-tfKDMOLwTBtfv5PYD/view?usp=drive_link" target="_blank" rel="noreferrer noopener"> <img align="center" src="https://img.shields.io/badge/CV%20CyberSec%20Analyst%20Lugo%20Spanish-000000" alt="CV CyberSec Lugo Spanish" /></a>
+<a href="https://drive.google.com/file/d/1XUgorgjmPaPTReh-e18mMy8anrYC1cIO/view?usp=sharing" target="_blank" rel="noreferrer noopener"> <img align="center" src="https://img.shields.io/badge/CV%20CyberSec%20Analyst%20Lugo%20English-000000" alt="CV CyberSec Lugo English" /></a>
+<a href="https://drive.google.com/file/d/18q0kwflu1nqt4Z6UTEobhl2MnssXhy1d/view?usp=sharing" target="_blank" rel="noreferrer noopener"> <img align="center" src="https://img.shields.io/badge/CV%20CyberSec%20Analyst%20Lugo%20Spanish-000000" alt="CV CyberSec Lugo Spanish" /></a>
 
-<a href="https://drive.google.com/file/d/1oJDDwhmU-63QezLYwp3LQu_0WgPsO0EJ/view?usp=drive_link" target="_blank" rel="noreferrer noopener"> <img align="center" src="https://img.shields.io/badge/CV%20Systems%20Analyst%20Lugo%20English-000000" alt="CV Systems Lugo English" /></a>
-<a href="https://drive.google.com/file/d/1KovZuy-BnDWXD-ntp7fFhVtDt-vB0OdN/view?usp=drive_link" target="_blank" rel="noreferrer noopener"> <img align="center" src="https://img.shields.io/badge/CV%20Systems%20Analyst%20Lugo%20Spanish-000000" alt="CV Systems Lugo Spanish" /></a>
+<a href="https://drive.google.com/file/d/104sgdg0H0tv62TC5tIfQRoDnNjum3J9L/view?usp=sharing" target="_blank" rel="noreferrer noopener"> <img align="center" src="https://img.shields.io/badge/CV%20Systems%20Analyst%20Lugo%20English-000000" alt="CV Systems Lugo English" /></a>
+<a href="https://drive.google.com/file/d/1VdELpa0uh5gEkWZBi7BOtUHmubBMhhTL/view?usp=sharing" target="_blank" rel="noreferrer noopener"> <img align="center" src="https://img.shields.io/badge/CV%20Systems%20Analyst%20Lugo%20Spanish-000000" alt="CV Systems Lugo Spanish" /></a>
 
 </p>
 
@@ -62,7 +62,7 @@ My journey in computer science has led me to develop a passion for cybersecurity
 <summary><h3>Certifications</h3></summary>
     
 <a href="https://coursera.org/share/ec641fbfb8df73815a842d43dcc33515" target="_blank" rel="noreferrer noopener"> <img src="https://img.shields.io/badge/Google%20CyberSecurity%20Analyst%20Certificate-000000" alt="Google Cybersecurity Certificate" /></a>
-<a href=""> <img src="https://img.shields.io/badge/ISIV%20Systems%20Analyst%20Certificate-000000" alt="Virasoro Higher Institute of Informatics" /></a>
+<a href="https://drive.google.com/file/d/19ujtSoh2K2ah8h_-z-0ndjSa_tdK4tR8/view?usp=sharing" target="_blank" rel="noreferrer noopener"> <img src="https://img.shields.io/badge/ISIV%20Systems%20Analyst%20Certificate-000000" alt="Virasoro Higher Institute of Informatics" /></a>
     
 <details>
 <summary>More Certifications</summary>
