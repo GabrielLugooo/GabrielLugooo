@@ -1,4 +1,4 @@
-<img align="center" src="https://imgur.com/ZgHWFhw" alt="gabriellugo" />
+<img align="center" src="https://i.imgur.com/ZgHWFhw.png" alt="gabriellugo" />
 
 <p align="left">
 <h1 align="left">Hi 👋, I'm Gabriel Lugo</h1>
