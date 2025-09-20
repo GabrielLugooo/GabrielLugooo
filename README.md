@@ -1,4 +1,4 @@
-<img align="center" src="https://media.licdn.com/dms/image/v2/D4D16AQGUNxQ7NSC05A/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1738695150340?e=1756944000&v=beta&t=n_6qNeE5ASp2onzoEazna8IR9MIqi7UGmxlQPLhb5z8" alt="gabriellugo" />
+<img align="center" src="https://imgur.com/a/github-banner-iDIGGQR" alt="gabriellugo" />
 
 <p align="left">
 <h1 align="left">Hi 👋, I'm Gabriel Lugo</h1>
@@ -272,7 +272,7 @@ My journey in computer science has led me to develop a passion for cybersecurity
 
 - #### Ai Projects
 
-<a href="https://github.com/GabrielLugooo/Vicky-Ai-Public" target="_blank" rel="noreferrer noopener"> <img align="center" src="https://img.shields.io/badge/Vicky%20AI-000000" alt="Vicky AI" /></a>
+<a href="https://github.com/GabrielLugooo/Vicky-Ai" target="_blank" rel="noreferrer noopener"> <img align="center" src="https://img.shields.io/badge/Vicky%20AI-000000" alt="Vicky AI" /></a>
 <a href="https://github.com/GabrielLugooo/Vicky-Backup-Poemas" target="_blank" rel="noreferrer noopener"> <img align="center" src="https://img.shields.io/badge/Vicky%20Backup%20Poemas-000000" alt="Vicky Backup Poemas" /></a>
 <a href="https://github.com/GabrielLugooo/Image-Recogn" target="_blank" rel="noreferrer noopener"> <img align="center" src="https://img.shields.io/badge/Image%20Recognition-000000" alt="Image Recogn" /></a>
 
@@ -287,7 +287,7 @@ My journey in computer science has led me to develop a passion for cybersecurity
 <a href="https://github.com/GabrielLugooo/Login" target="_blank" rel="noreferrer noopener"> <img align="center" src="https://img.shields.io/badge/Login-000000" alt="Login" /></a>
 <a href="https://github.com/GabrielLugooo/Alarm" target="_blank" rel="noreferrer noopener"> <img align="center" src="https://img.shields.io/badge/Alarm-000000" alt="Alarm" /></a>
 <a href="https://github.com/GabrielLugooo/QR-Code" target="_blank" rel="noreferrer noopener"> <img align="center" src="https://img.shields.io/badge/QR%20Code-000000" alt="QR Code" /></a>
-<a href="https://github.com/GabrielLugooo/Telegram-Bot-Public" target="_blank" rel="noreferrer noopener"> <img align="center" src="https://img.shields.io/badge/Telegram%20Bot-000000" alt="Telegram Bot" /></a>
+<a href="https://github.com/GabrielLugooo/Telegram-Bot" target="_blank" rel="noreferrer noopener"> <img align="center" src="https://img.shields.io/badge/Telegram%20Bot-000000" alt="Telegram Bot" /></a>
 
 </details>
 
