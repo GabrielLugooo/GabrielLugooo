@@ -272,7 +272,6 @@ My journey in computer science has led me to develop a passion for cybersecurity
 
 - #### Ai Projects
 
-<a href="https://github.com/GabrielLugooo/Vicky-Ai" target="_blank" rel="noreferrer noopener"> <img align="center" src="https://img.shields.io/badge/Vicky%20AI-000000" alt="Vicky AI" /></a>
 <a href="https://github.com/GabrielLugooo/Vicky-Backup-Poemas" target="_blank" rel="noreferrer noopener"> <img align="center" src="https://img.shields.io/badge/Vicky%20Backup%20Poemas-000000" alt="Vicky Backup Poemas" /></a>
 <a href="https://github.com/GabrielLugooo/Image-Recogn" target="_blank" rel="noreferrer noopener"> <img align="center" src="https://img.shields.io/badge/Image%20Recognition-000000" alt="Image Recogn" /></a>
 
