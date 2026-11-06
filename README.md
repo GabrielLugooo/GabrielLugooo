@@ -29,15 +29,16 @@ I have been interested in the IT field of since I had access to the Internet. At
 Also I like science: specifically astronomy and quantum mechanics, books, learning piano (i was dj in the past, now trying to make EDM as a producer), mtbike & trial running, portrait photography (worked like PH for a while). I have an entrepreneurial mind, In the recent past i had a small computer store & it support service, and started my own small overzise t-shirt brand.
 
 </details>
-
 </p>
 
 ---
 
-<h2 align="left">Objectives</h2>
-<p align="left">
+<details>
+<summary><h2>Objetives</h2></summary>
+
 My journey in computer science has led me to develop a passion for IT support, data science & cybersec, and I am now eager to transition into this fields, specifically aiming to join as full stack dev, functional system, data or cybersec analyst to apply my skills.
-</p>
+
+</details>
 
 <details>
 <summary><h2>CV's</h2></summary>
