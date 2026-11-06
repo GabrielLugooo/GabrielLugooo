@@ -9,7 +9,7 @@
 
 </p>
 
-<h3 align="left">About Me</h3>
+<h2 align="left">About Me</h2>
 <p align="left">
 
 Hello! My name is Gabriel, I am passionate about computing, data science, cybersecurity and technology.
@@ -30,15 +30,14 @@ Also I like science: specifically astronomy and quantum mechanics, books, learni
 
 </details>
 
-</p>
-
----
-
 <h2 align="left">Objectives</h2>
-
 <p align="left">
 My journey in computer science has led me to develop a passion for IT support, data science & cybersec, and I am now eager to transition into this fields, specifically aiming to join as full stack dev, functional system, data or cybersec analyst to apply my skills.
 </p>
+
+</p>
+
+---
 
 <details>
 <summary><h2>CV's</h2></summary>
