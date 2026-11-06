@@ -5,93 +5,77 @@
 
 <a href="https://github.com/GabrielLugooo/GabrielLugooo/blob/main/README.md" target="_blank" rel="noreferrer noopener"> <img align="center" src="https://img.shields.io/badge/English%20Version-000000" alt="English Version" /></a>
 <a href="https://github.com/GabrielLugooo/GabrielLugooo/blob/main/README%20Spanish.md" target="_blank" rel="noreferrer noopener"> <img align="center" src="https://img.shields.io/badge/Spanish%20Version-Green" alt="Spanish Version" /></a>
-<img align="center" src="https://komarev.com/ghpvc/?username=GabrielLugoo&label=Profile%20views&color=green&base=2000" alt="GabrielLugooo" />
+<img align="center" src="https://komarev.com/ghpvc/?username=GabrielLugoo&label=Profile%20views&color=green&base=1" alt="GabrielLugooo" />
 
 </p>
 
 <h3 align="left">About Me</h3>
 <p align="left">
 
-Hello! My name is Gabriel, I am motivated and passionate about technology, cybersecurity and computing, as well as safeguarding people's security, including their financial well-being. I enjoy working with technology and analyzing and solving cybersecurity problems.
+Hello! My name is Gabriel, I am passionate about computing, data science, cybersecurity and technology.
 
-I am a recent graduate as a systems analyst and cybersecurity analyst. I also like to continue learning, so I have taken anothers courses in the IT industry that help me continue to expand my horizon of knowledge, develop my professional skills, and solve organizational problems. I am passionate about helping others, so I share information on topics related to technology, IT, and cybersecurity on my social networks.
+I am graduate as a systems, data and cybersecurity analyst. I also like to continue learning, so I have taken many anothers courses inside the IT industry that help me continue to expand my horizons of knowledge, develop my professional skills, and solve problems. I am passionate about helping others, so I share information on topics related to software, technology, IT, data science, cybersec and about UFO´s on my socials.
 
 <!-- QUOTE -->
-<p align="right">
-    <q><i>Passion drives me, Curiosity guides me</i></q> - by Me 😎<br>
-</p>
-  
+<p align="right"><q><i>Passion drives me, Curiosity guides me</i></q> - by Me 😎</p>
+
 <details>
 <summary>More About me</summary>
-<p align="left">
-  
+
 I was introduced to the world of computing in 1994, at the age of 14, when I started a GW BASIC course, a year before the Windows 95 OS. In 1997/98, at the age of 17/18, I was already helping my 4th year high school computer classmates with the first TANGO Software app (soft for accountants) in MS-DOS and MS Windows.
 
-I have been interested in the field of cybersecurity since I had access to the Internet. At the age of 18, I had my first notebook and the first thing I did was play Resident Evil and analyze networks with Triangle, a pioneering software for triangulating GSM technology antennas to determine locations and access Wi-Fi networks.
+I have been interested in the IT field of since I had access to the Internet. At the age of 18, I had my first notebook and the first thing I did was play Resident Evil and analyze networks with Triangle, a pioneering software for triangulating GSM technology antennas to determine locations and access Wi-Fi networks.
 
-Also I like science, books, learn & play piano (i was dj & producer in the past!), mtbike & trial running, bmx & skate, portrait photography (worked like PH for a while!) and woodworking. I have an entrepreneurial mind, In the past i had a neigborhood supermarket for 10 years, a small computer store & it support service, and started my own small overzise t-shirt brand (about skate & bmx).
-
-</p>
+Also I like science: specifically astronomy and quantum mechanics, books, learning piano (i was dj in the past, now trying to make EDM as a producer), mtbike & trial running, portrait photography (worked like PH for a while). I have an entrepreneurial mind, In the recent past i had a small computer store & it support service, and started my own small overzise t-shirt brand.
 
 </details>
+
+</p>
 
 ---
 
-<h3 align="left">Objectives</h3>
+<h2 align="left">Objectives</h2>
+
 <p align="left">
-My journey in computer science has led me to develop a passion for cybersecurity, and I am now eager to transition into this field, specifically aiming to join a Security Operations Center (SOC) as a Tier 1 Analyst to apply my skills in network security, security policy, and organizational risk management.
+My journey in computer science has led me to develop a passion for IT support, data science & cybersec, and I am now eager to transition into this fields, specifically aiming to join as full stack dev, functional system, data or cybersec analyst to apply my skills.
 </p>
 
-<img align="right" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExbXJsc205cjNiMzJxYTV6MnozejUwMGcwcHV2cWl6OWt1cDliY3phZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/aRHz5xbOz8VEJwgqcR/giphy.gif" alt="SOC Center Gif" width="500" />
+# TO-DO
 
 <details>
-<summary><h3>CV´s</h3></summary>
+<summary><h2>CV's</h2></summary>
 
-<p align="left">
-<a href="https://drive.google.com/file/d/1XUgorgjmPaPTReh-e18mMy8anrYC1cIO/view?usp=sharing" target="_blank" rel="noreferrer noopener"> <img align="center" src="https://img.shields.io/badge/CV%20CyberSec%20Analyst%20Lugo%20English-000000" alt="CV CyberSec Lugo English" /></a>
-<a href="https://drive.google.com/file/d/18q0kwflu1nqt4Z6UTEobhl2MnssXhy1d/view?usp=sharing" target="_blank" rel="noreferrer noopener"> <img align="center" src="https://img.shields.io/badge/CV%20CyberSec%20Analyst%20Lugo%20Spanish-000000" alt="CV CyberSec Lugo Spanish" /></a>
+<a href="" target="_blank" rel="noreferrer noopener"> <img align="center" src="https://img.shields.io/badge/CV%20Lugo%20English-000000" alt="CV Lugo English" /></a>
 
-<a href="https://drive.google.com/file/d/104sgdg0H0tv62TC5tIfQRoDnNjum3J9L/view?usp=sharing" target="_blank" rel="noreferrer noopener"> <img align="center" src="https://img.shields.io/badge/CV%20Systems%20Analyst%20Lugo%20English-000000" alt="CV Systems Lugo English" /></a>
-<a href="https://drive.google.com/file/d/1VdELpa0uh5gEkWZBi7BOtUHmubBMhhTL/view?usp=sharing" target="_blank" rel="noreferrer noopener"> <img align="center" src="https://img.shields.io/badge/CV%20Systems%20Analyst%20Lugo%20Spanish-000000" alt="CV Systems Lugo Spanish" /></a>
-
-</p>
+<a href="" target="_blank" rel="noreferrer noopener"> <img align="center" src="https://img.shields.io/badge/CV%20Lugo%20Spanish-000000" alt="CV Lugo Spanish" /></a>
 
 </details>
 
+# TO-DO
+
 <details>
-<summary><h3>Certifications</h3></summary>
-    
+<summary><h2>Certifications</h2></summary>
+
 <a href="https://coursera.org/share/ec641fbfb8df73815a842d43dcc33515" target="_blank" rel="noreferrer noopener"> <img src="https://img.shields.io/badge/Google%20CyberSecurity%20Analyst%20Certificate-000000" alt="Google Cybersecurity Certificate" /></a>
+
 <a href="https://drive.google.com/file/d/19ujtSoh2K2ah8h_-z-0ndjSa_tdK4tR8/view?usp=sharing" target="_blank" rel="noreferrer noopener"> <img src="https://img.shields.io/badge/ISIV%20Systems%20Analyst%20Certificate-000000" alt="Virasoro Higher Institute of Informatics" /></a>
-    
-<details>
-<summary>More Certifications</summary>
-    
+
 <a href="https://drive.google.com/file/d/1kD3ijLHutOUMc17g4CLBc3IvdTeEl0Fc/view?usp=sharing" target="_blank" rel="noreferrer noopener"> <img src="https://img.shields.io/badge/Google%20Web%20Analytics-000000" alt="Web Analytics" /></a>
 
-<a href="https://drive.google.com/file/d/1L6hVLP3dWeAKx9uW4QGde3TbC5nAjSLT/view?usp=sharing" target="_blank" rel="noreferrer noopener"> <img src="https://img.shields.io/badge/Google%20ECommerce%20Fundamentals-000000" alt="E-Commerce Fundamentals Certificate" /></a>
 <a href="https://drive.google.com/file/d/1QlslvkTRxXVIpDVT83SdaksUATSyJqQE/view?usp=sharing" target="_blank" rel="noreferrer noopener"> <img src="https://img.shields.io/badge/Google%20ECommerce-000000" alt="E-Commerce Certificate" /></a>
 
-<a href="https://drive.google.com/file/d/1zhiX5yMXfWPW1MJstMi3fywYQKr2620t/view?usp=sharing" target="_blank" rel="noreferrer noopener"> <img src="https://img.shields.io/badge/Google%20Digital%20Marketing%20Fundamentals-000000" alt="Digital Marketing Fundamentals Certificate" /></a>
 <a href="https://drive.google.com/file/d/1lfb2ErXMMkV7c14biQWZ8RvjlnE63Lo7/view?usp=sharing" target="_blank" rel="noreferrer noopener"> <img src="https://img.shields.io/badge/Google%20Digital%20Marketing-000000" alt="Digital Marketing Certificate" /></a>
-<a href="https://drive.google.com/file/d/1yzmB79LJ4OROZPY82usaSxT4UtEy_DCE/view?usp=sharing" target="_blank" rel="noreferrer noopener"> <img src="https://img.shields.io/badge/Google%20Digital%20Marketing%20Garage-000000" alt="Digital Marketing Garage Certificate" /></a>
 
-<a href="https://drive.google.com/file/d/1sjB6YvplBR95dEzHv-OCHtP_6mrJfXBK/view?usp=sharing" target="_blank" rel="noreferrer noopener"> <img src="https://img.shields.io/badge/Google%20Mobile%20Apps%20Fundamentals-000000" alt="Mobile Apps Fundamentals Certificate" /></a>
 <a href="https://drive.google.com/file/d/1Z9l7PIBEDjimKFFm9jmfQBuJ95wZQjc-/view?usp=sharing" target="_blank" rel="noreferrer noopener"> <img src="https://img.shields.io/badge/Google%20Mobile%20Apps-000000" alt="Mobile Apps Certificate" /></a>
-<a href="https://drive.google.com/file/d/18T46smPjLIABQFjEXr1D7AKCRmPkgjfG/view?usp=sharing" target="_blank" rel="noreferrer noopener"> <img src="https://img.shields.io/badge/Google%20Mobile%20Apps%20Inventor-000000" alt="Mobile Apps Inventor Certificate" /></a>
 
 <a href="https://drive.google.com/file/d/1gQu1rKui90JUQGpSa3BBqV_LyP92BzOO/view?usp=sharing" target="_blank" rel="noreferrer noopener"> <img src="https://img.shields.io/badge/Electronics%20Technician-000000" alt="Electronics Technician Certificate" /></a>
 
-<a href="https://drive.google.com/file/d/1xhLZg0KT_273_EuGAfaNxem_Fv6_SZGV/view?usp=sharing" target="_blank" rel="noreferrer noopener"> <img src="https://img.shields.io/badge/Kings%20English%20Basics-000000" alt="English Basics Certificate" /></a>
-<a href="https://drive.google.com/file/d/145XJHRFAGnsFNWUSQI8dPqrX4rBD_5Zn/view?usp=sharing" target="_blank" rel="noreferrer noopener"> <img src="https://img.shields.io/badge/Kings%20English%20Intermediate-000000" alt="English Intermediate Certificate" /></a>
+<a href="" target="_blank" rel="noreferrer noopener"> <img src="https://img.shields.io/badge/a%20a-000000" alt="" /></a>
 
 </details>
 
-</details>
-  
 <details>
-<summary><h3>Strengths</h3></summary>
-
+<summary><h2>Strengths</h2></summary>
 - Strong detail-oriented
 - Strong problem-solving skills
 - Excellent organization
@@ -100,11 +84,52 @@ My journey in computer science has led me to develop a passion for cybersecurity
 - Protection and security mindset
 - Passion for cybersec, technology & computing
 - Efficiency, service and fast learning
+</details>
+
+# TO-DO
+
+<details>
+<summary><h2>Systems Analyst Skills</h2></summary>
+-
+</details>
+
+<details>
+<summary><h2>Data Analyst Skills</h2></summary>
+
+### With Power Bi:
+
+- Importing and integrating data from .csv and .xlsx files.
+- Cleaning, transforming, and assigning data types using Power Query.
+- Applying regional settings to correctly interpret dates and numerical values.
+- Handling missing values ​​while preserving original data to ensure traceability.
+- Creating derived columns to normalize variables with inconsistent scales.
+- Designing an analytical data model with fact and dimension tables.
+- Creating composite keys to link sales data with the weekly characteristics of each store.
+- Configuring one-to-many relationships and validating data integrity.
+- Creating a calendar table to analyze sales over time.
+- Developing measures and calculated columns using DAX.
+- Calculating sales metrics, including totals, maximums, minimums, averages, and sales by day type.
+- Analyzing sales by store, store type, location, time period, holidays, and temperature.
+- Designing interactive reports with charts, cards, slicers, and cross-page navigation.
+- Documenting results, quality controls, key findings, and the limitations of the analysis.
+
+### With Python:
+
+- Data import and analysis using Python.
+- Reading and manipulating .csv and .xlsx files.
+- Data cleaning and preparation for analysis.
+- Using Pandas to filter, group, and summarize information.
+- Exploring data related to sales, stores, and weekly characteristics.
+- Calculating key performance indicators (KPIs) and descriptive statistics.
+- Analyzing sales by period, store, department, and holidays.
+- Comparing sales against variables such as temperature, fuel prices, the Consumer Price Index (CPI), and unemployment rates.
+- Creating visualizations to communicate findings.
+- Documenting results, analysis criteria, and project limitations.
 
 </details>
 
 <details>
-<summary><h3>CyberSec Skills</h3></summary>
+<summary><h2>CyberSec Analyst Skills</h2></summary>
 
 - Threats, risks and vulnerabilities
 - Incident response
@@ -118,138 +143,177 @@ My journey in computer science has led me to develop a passion for cybersecurity
 </details>
 
 <details>
-<summary><h3>Other Technicall Skills</h3></summary>
-<h4 align="left">Networks</h4>
-<p>
+<summary><h2>Other Technicall Skills</h2></summary>
+
+<h3 align="left">Programming Languages</h3>
+<p align="left"> 
+<a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/c--4.svg" alt="csharp" width="40" height="40"/></a>
+<a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/java-4.svg" alt="java" width="40" height="40"/></a>
+<a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/php-4.svg" alt="php" width="40" height="40"/></a>
+<a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/python-5.svg" alt="python" width="40" height="40"/></a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/javascript-1.svg" alt="javascript" width="40" height="40"/></a>
+<a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/typescript.svg" alt="typescript" width="40" height="40"/></a>
+</p>
+
+<h3 align="left">Frontend Development</h3>
+<p align="left"> 
+<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/3d3a6094-88ce-4a2e-ad6d-18792c0d8acc/html5-3.svg" alt="html5" width="40" height="40"/></a>
+<a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/d5ed08a2-47d2-4a96-879a-d78e7305f479/css3.svg" alt="css3" width="40" height="40"/></a>
+<a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/2b14b1ce-c5c2-444d-9029-8500b5b378be/react-2.svg" alt="react" width="40" height="40"/></a>
+<a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/4487aeb0-0db2-402c-8ee0-54befb4ff055/angularjs-3.svg" alt="angular" width="40" height="40"/></a>
+<a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/32387b91-f115-4c1b-aa2a-12a0d738dc74/vuejs.svg" alt="vuejs" width="40" height="40"/></a>
+</p>
+
+<h3 align="left">Backend Development</h3>
+<p align="left">
+<a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nodejs-1.svg" alt="nodejs" width="40" height="40"/></a>
+<a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/></a> 
+<a href="https://graphql.org" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/graphql-logo-2.svg" alt="graphql" width="40" height="40"/></a>  
+</p>
+
+<h3 align="left">Backend As a Service (BaaS)</h3>
+<p align="left">
+<a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/></a> 
+</p>
+
+<h3 align="left">Databases</h3>
+<p align="left">
+<a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/551bd4de-ae75-4a9e-9cc5-d53ad9f21724/microsoft-sql-server.svg" alt="mssql" width="40" height="40"/></a> 
+<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/mysql-3.svg" alt="mysql" width="40" height="40"/></a>
+<a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/></a> 
+<a href="https://mariadb.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" alt="mariadb" width="40" height="40"/></a>
+<a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/></a>
+<a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/84ef1c6d-7d82-4baa-acd6-a6faa404465a/postgresql.svg" alt="postgresql" width="40" height="40"/></a>
+</p>
+
+<h3 align="left">DevOps</h3>
+<p align="left">
+<a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/></a> 
+<a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/></a>
+<a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/amazon-web-services-2.svg" alt="aws" width="40" height="40"/></a>
+<a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/a5d54547-01d9-47a9-b4f1-53cc0a97fabd/docker-7.svg" alt="docker" width="40" height="40"/></a>  
+</p>
+
+<h3 align="left">Frameworks</h3>
+<p align="left">
+<a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/bbe89132-5549-42bd-91ad-6f9e46a57239/net-2.svg" alt="dotnet" width="40" height="40"/></a>
+</p>
+
+<h3 align="left">Static Site Generators</h3>
+<p align="left">
+<a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/next-js.svg" alt="nextjs" width="40" height="40"/></a> 
+</p>
+
+<h3 align="left">Mobile Apps Development</h3>
+<p align="left">
+<a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/android-6.svg" alt="android" width="40" height="40"/></a> 
+<a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/></a> 
+<a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/react-native-1.svg" alt="reactnative" width="40" height="40"/></a> 
+</p>
+
+<h3 align="left">Networks</h3>
+<p align="left">
 <a href="https://www.tcpdump.org" rel="noreferrer"> <img src="https://aboutnetworks.net/wp-content/uploads/2020/05/tcpdump-logo.jpg" alt="tcpdump" height="40"/></a>
-<a href="https://www.wireshark.org" rel="noreferrer"> <img src="https://simpleicons.org/icons/wireshark.svg" alt="wireshark" height="40"/></a>
+<a href="https://www.wireshark.org" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/wireshark.svg" alt="wireshark" height="40"/></a>
 <a href="https://suricata.io" rel="noreferrer"> <img src="https://suricata.io/wp-content/uploads/2023/09/Logo-Suricata-vert-whitetype-R.png" alt="suricata" height="40"/></a>
 </p>
 
-<h4 align="left">EndPoints</h4>
+<h3 align="left">EndPoints</h3>
 <p align="left">
-<a href="https://learn.microsoft.com/en-us/defender-endpoint/microsoft-defender-endpoint" rel="noreferrer"> <img src="https://www.svgrepo.com/show/452062/microsoft.svg" alt="microsoftdefender" width="40" height="40"/></a>
+<a href="https://learn.microsoft.com/en-us/defender-endpoint/microsoft-defender-endpoint" rel="noreferrer"> <img src="https://www.svgrepo.com/show/452062/microsoft.svg" alt="msdefender" width="40" height="40"/></a>
 <a href="https://docs.velociraptor.app" rel="noreferrer"> <img src="https://www.svgrepo.com/show/101327/velociraptor.svg" alt="velociraptor" width="40" height="40"/></a>
 </p>
 
-<h4 align="left">SIEM´s Softwares</h4>
+<h3 align="left">SIEM´s Softwares</h3>
 <p align="left">
-<a href="https://cloud.google.com/security/products/security-operations?hl=es_419" rel="noreferrer"> <img src="https://www.svgrepo.com/show/353805/google-cloud.svg" alt="googlesecops" width="40" height="40"/></a>
-<a href="https://www.splunk.com/en_us/download/soar-free-trial.html?locale=en_us" rel="noreferrer"> <img src="https://www.svgrepo.com/show/448628/splunk.svg" alt="splunk" width="40" height="40"/></a>
+<a href="https://cloud.google.com/security/products/security-operations?hl=es_419" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/google-cloud-3.svg" alt="googlesecops" width="40" height="40"/></a>
+<a href="https://www.splunk.com/en_us/download/soar-free-trial.html?locale=en_us" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/splunk.svg" alt="splunk" width="40" height="40"/></a>
 <a href="https://netalertx.com" rel="noreferrer"> <img src="https://www.svgrepo.com/show/512317/github-142.svg" alt="netalertx" width="40" height="40"/></a>
 <a href="https://wazuh.com/" rel="noreferrer"> <img src="https://simpleicons.org/icons/wantedly.svg" alt="wazuh" width="40" height="40"/></a>
 <a href="https://www.elastic.co/es/blog/elastic-siem-free-open" rel="noreferrer"> <img src="https://www.svgrepo.com/show/373575/elastic.svg" alt="elastic" width="40" height="40"/></a>
 </p>
 
-<h4 align="left">Programming Languages</h4>
-<p align="left"> 
-<a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/></a>
-<a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/></a>
-<a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/></a>
-<a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/></a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/></a>
-<a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/></a>
-</p>
-
-<h4 align="left">Frontend Development</h4>
-<p align="left"> 
-<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/></a>
-<a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/></a>
-<a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/></a>
-<a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/></a>
-<a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/></a>
-</p>
-
-<h4 align="left">Backend Development</h4>
-<p align="left">
-<a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/></a>
-<a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/></a> 
-<a href="https://graphql.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql" width="40" height="40"/></a>  
-</p>
-
-<h4 align="left">Mobile App Development</h4>
-<p align="left">
-<a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/></a>
-<a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/></a> 
-<a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/></a> 
-<a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/></a> 
-<a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/></a> 
-</p>
-
-<h4 align="left">AI / ML</h4>
+<h3 align="left">AI - Machine Learning</h3>
 <p align="left">
 <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/></a>
-<a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/></a> 
+<a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/pandas.svg" alt="pandas" width="40" height="40"/></a> 
 </p>
 
-<h4 align="left">Database</h4>
+# TO-DO
+
+<h3 align="left">Data Science</h3>
 <p align="left">
-<a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/></a> 
-<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/></a>
-<a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/></a> 
-<a href="https://mariadb.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" alt="mariadb" width="40" height="40"/></a>
-<a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/></a>
-<a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/></a>
+<a href="" target="_blank" rel="noreferrer"> <img src="" alt=".csv" width="40" height="40"/></a>
+<a href="" target="_blank" rel="noreferrer"> <img src="" alt=".xlsx" width="40" height="40"/></a>
+<a href="" target="_blank" rel="noreferrer"> <img src="" alt="dax" width="40" height="40"/></a>
+<a href="" target="_blank" rel="noreferrer"> <img src="" alt="powerbi" width="40" height="40"/></a>
+<a href="" target="_blank" rel="noreferrer"> <img src="" alt="power query" width="40" height="40"/></a>
+<a href="" target="_blank" rel="noreferrer"> <img src="" alt="python" width="40" height="40"/></a>
+<a href="" target="_blank" rel="noreferrer"> <img src="" alt="pandas" width="40" height="40"/></a>
+<a href="" target="_blank" rel="noreferrer"> <img src="" alt="jupyter notebook" width="40" height="40"/></a>
+<a href="" target="_blank" rel="noreferrer"> <img src="" alt="matpotlib" width="40" height="40"/></a>
+<a href="" target="_blank" rel="noreferrer"> <img src="" alt="seaborn" width="40" height="40"/></a>
 </p>
 
-<h4 align="left">DevOps</h4>
+<h3 align="left">Design Software</h3>
 <p align="left">
-<a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/></a> 
-<a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/></a>
-<a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/></a>
-<a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/></a> 
-<a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/></a> 
+<a href="https://lightroom.adobe.com/home" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/lightroom-cc.svg" alt="lightroom" width="40" height="40"/></a>
+<a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/photoshop-cc-4.svg" alt="photoshop" width="40" height="40"/></a>
+<a href="https://www.adobe.com/ar/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-illustrator-cs6.svg" alt="illustrator" width="40" height="40"/></a>
+<a href="https://www.adobe.com/ar/products/aftereffects.html" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/after-effects-2019.svg" alt="after" width="40" height="40"/></a>
+<a href="https://www.adobe.com/ar/products/premiere.html" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/premiere-cc-1.svg" alt="premiere" width="40" height="40"/></a>
 </p>
 
-<h4 align="left">Backend As a Service (BaaS)</h4>
+<h3 align="left">Game Engines</h3>
 <p align="left">
-<a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/></a> 
+<a href="https://unrealengine.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/unreal-1.svg" alt="unreal" width="40" height="40"/></a>
+<a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/blender-2.svg" alt="blender" width="40" height="40"/></a>
 </p>
 
-<h4 align="left">Framework</h4>
+<h3 align="left">IDE´s</h3>
 <p align="left">
-<a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/></a>
+<a href="https://netbeans.apache.org/front/main/index.html" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/5d2fd206-c601-4e5d-a058-1d37d892581b/netbeans-2.svg" alt="netbeans" width="40" height="40"/></a>
+<a href="https://visualstudio.microsoft.com/es/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/fcf07600-09fe-440f-880f-f8a019618168/visual-studio.svg" alt="visual" width="40" height="40"/></a>
+<a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/83ba60ea-c762-434f-827b-bc13db2b5a9d/visual-studio-code.svg" alt="vscode" width="40" height="40"/></a>
+<a href="https://www.jetbrains.com/es-es/idea/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/intellij-idea-1.svg" alt="intellij" width="40" height="40"/></a>
+<a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/e101688d-0635-40e7-9c17-c972fdff650c/android-studio-4.svg" alt="androidstudio" width="40" height="40"/></a> 
 </p>
 
-<h4 align="left">Software</h4>
+<h3 align="left">OS</h3>
 <p align="left">
-<a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/></a>
-<a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/></a>
-<a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/></a>
+<a href="" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/windows-darkblue-2012-svg.svg" alt="windows" width="40" height="40"/></a>
+<a href="" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/windows-server-2012.svg" alt="winserver" width="40" height="40"/></a>
+<a href="https://www.debian.org/index.es.html" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/debian-openlogo.svg" alt="debian" width="40" height="40"/></a>
+<a href="https://www.centos.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/centos.svg" alt="centos" width="40" height="40"/></a>
+<a href="" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/e52a3b2e-6803-471f-8968-55c4e6d47c0e/kalilinux.svg" alt="kali" width="40" height="40"/></a>
 </p>
 
-<h4 align="left">Static Site Generators</h4>
+<h3 align="left">Electronics</h3>
 <p align="left">
-<a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/></a> 
-</p>
-
-<h4 align="left">Game Engines</h4>
-<p align="left">
-<a href="https://unrealengine.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/kenangundogan/fontisto/036b7eca71aab1bef8e6a0518f7329f13ed62f6b/icons/svg/brand/unreal-engine.svg" alt="unreal" width="40" height="40"/></a>
-</p>
-
-<h4 align="left">Others</h4>
-<p align="left">
-<a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/></a>
-<a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/></a> 
 <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/></a> 
 </p>
 
+<h3 align="left">Others</h3>
+<p align="left">
+<a href="https://learn.microsoft.com/es-es/windows-server/administration/windows-commands/cmd" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/4303bdf5-1a59-4d8f-bd20-72055a8dfd98/powershell-2.svg" alt="cmd" width="40" height="40"/></a>
+<a href="https://apps.microsoft.com/detail/9mz1snwt0n5d?hl=es-ES&gl=UY" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/powershell.svg" alt="powershell" width="40" height="40"/></a>
+<a href="https://learn.microsoft.com/es-es/windows/wsl/install" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/linux-tux.svg" alt="wsl" width="40" height="40"/></a>
+<a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/></a>
+<a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/></a>
+<a href="https://git-scm.com/book/es/v2/Ap%C3%A9ndice-A:-Git-en-otros-entornos-Git-con-Bash" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/git-bash.svg" alt="gitbash" width="40" height="40"/></a>
+</p>
+
 </details>
 
 <details>
-<summary><h3>CyberSec Logs Documentation</h3></summary>
+<summary><h2>Projects</h2></summary>
 
-<a href="https://github.com/GabrielLugooo/CiberSec-Logs-English" target="_blank" rel="noreferrer noopener"> <img align="center" src="https://img.shields.io/badge/English%20Logs-000000" alt="English Logs" /></a>
-<a href="https://github.com/GabrielLugooo/CiberSec-Logs-Spanish" target="_blank" rel="noreferrer noopener"> <img align="center" src="https://img.shields.io/badge/Spanish%20Logs-000000" alt="Spanish Logs" /></a>
+- ### Data Science Projects
 
-</details>
+<a href="https://github.com/GabrielLugooo/Gestion-Analitica-Datos-PowerBi" target="_blank" rel="noreferrer noopener"> <img align="center" src="https://img.shields.io/badge/Data%20Analytics%20PowerBi-000000" alt="" /></a>
+<a href="https://github.com/GabrielLugooo/Gestion-Analitica-Datos-Python" target="_blank" rel="noreferrer noopener"> <img align="center" src="https://img.shields.io/badge/Data%20Analytics%20Python-000000" alt="" /></a>
 
-<details>
-<summary><h3>Projects</h3></summary>
-
-- #### CyberSec Projects
-
+- ### CyberSec Projects
 
 <a href="https://github.com/GabrielLugooo/Image-Encrypt" target="_blank" rel="noreferrer noopener"> <img align="center" src="https://img.shields.io/badge/Image%20Encrypt-000000" alt="Image Encrypt" /></a>
 <a href="https://github.com/GabrielLugooo/Owasp-Pass-Test" target="_blank" rel="noreferrer noopener"> <img align="center" src="https://img.shields.io/badge/Owasp%20Pass%20Test-000000" alt="Owasp Pass Test" /></a>
@@ -259,22 +323,24 @@ My journey in computer science has led me to develop a passion for cybersecurity
 <a href="https://github.com/GabrielLugooo/Ports-Scanner" target="_blank" rel="noreferrer noopener"> <img align="center" src="https://img.shields.io/badge/Ports%20Scanner-000000" alt="Ports Scanner" /></a>
 <a href="https://github.com/GabrielLugooo/Canary-Token" target="_blank" rel="noreferrer noopener"> <img align="center" src="https://img.shields.io/badge/Canary%20Token-000000" alt="Canary Token" /></a>
 
+<a href="https://github.com/GabrielLugooo/CiberSec-Logs-English" target="_blank" rel="noreferrer noopener"> <img align="center" src="https://img.shields.io/badge/English%20Logs-000000" alt="English Logs" /></a>
+<a href="https://github.com/GabrielLugooo/CiberSec-Logs-Spanish" target="_blank" rel="noreferrer noopener"> <img align="center" src="https://img.shields.io/badge/Spanish%20Logs-000000" alt="Spanish Logs" /></a>
 
-- #### Hacking Projects
+- ### Hacking Projects
 
 <a href="https://github.com/GabrielLugooo/Hash-Cracker" target="_blank" rel="noreferrer noopener"> <img align="center" src="https://img.shields.io/badge/Hash%20Cracker-000000" alt="Hash Cracker" /></a>
 <a href="https://github.com/GabrielLugooo/Worm" target="_blank" rel="noreferrer noopener"> <img align="center" src="https://img.shields.io/badge/Worm-000000" alt="Worm" /></a>
 <a href="https://github.com/GabrielLugooo/Keylogger" target="_blank" rel="noreferrer noopener"> <img align="center" src="https://img.shields.io/badge/Keylogger-000000" alt="Keylogger" /></a>
 
-- #### Ai Projects
+- ### Ai Projects
 
 <a href="https://github.com/GabrielLugooo/Vicky-Backup-Poemas" target="_blank" rel="noreferrer noopener"> <img align="center" src="https://img.shields.io/badge/Vicky%20Backup%20Poemas-000000" alt="Vicky Backup Poemas" /></a>
 <a href="https://github.com/GabrielLugooo/Image-Recogn" target="_blank" rel="noreferrer noopener"> <img align="center" src="https://img.shields.io/badge/Image%20Recognition-000000" alt="Image Recogn" /></a>
 
-- #### Others Projects
+- ### Others Projects
 
 <a href="https://github.com/GabrielLugooo/Voice-Assistant" target="_blank" rel="noreferrer noopener"> <img align="center" src="https://img.shields.io/badge/Voice%20Assistant-000000" alt="Voice Assistant" /></a>
-<a href="https://github.com/GabrielLugooo/Reader-Assistant" target="_blank" rel="noreferrer noopener"> <img align="center" src="https://img.shields.io/badge/Reader%20Assisant-000000" alt="Reader Assistant" /></a>
+<a href="https://github.com/GabrielLugooo/Reader-Assistant" target="_blank" rel="noreferrer noopener"> <img align="center" src="https://img.shields.io/badge/Reader%20Assistant-000000" alt="Reader Assistant" /></a>
 <a href="https://github.com/GabrielLugooo/Writer-Assistant" target="_blank" rel="noreferrer noopener"> <img align="center" src="https://img.shields.io/badge/Writer%20Assistant-000000" alt="Writer Assistant" /></a>
 <a href="https://github.com/GabrielLugooo/DB-Insert" target="_blank" rel="noreferrer noopener"> <img align="center" src="https://img.shields.io/badge/DB%20Insert-000000" alt="DB Insert" /></a>
 
@@ -292,14 +358,14 @@ My journey in computer science has led me to develop a passion for cybersecurity
 <h3 align="left">Connect with me</h3>
 
 <p align="left">
-    <a href="https://www.youtube.com/@gabriellugooo" target="_blank" rel="noreferrer noopener"> <img align="center" src="https://img.icons8.com/?size=50&id=55200&format=png" alt="@gabriellugooo" height="40" width="40" /></a>
-    <a href="http://www.tiktok.com/@gabriellugooo" target="_blank" rel="noreferrer noopener"> <img align="center" src="https://img.icons8.com/?size=50&id=118638&format=png" alt="@gabriellugooo" height="40" width="40" /></a>
-    <a href="https://instagram.com/lugooogabriel" target="_blank" rel="noreferrer noopener"> <img align="center" src="https://img.icons8.com/?size=50&id=32309&format=png" alt="lugooogabriel" height="40" width="40" /></a>
-    <a href="https://twitter.com/gabriellugo__" target="_blank" rel="noreferrer noopener"> <img align="center" src="https://img.icons8.com/?size=50&id=phOKFKYpe00C&format=png" alt="gabriellugo__" height="40" width="40" /></a>
-    <a href="https://www.linkedin.com/in/hernando-gabriel-lugo" target="_blank" rel="noreferrer noopener"> <img align="center" src="https://img.icons8.com/?size=50&id=8808&format=png" alt="hernando-gabriel-lugo" height="40" width="40" /></a>
-    <a href="https://github.com/GabrielLugooo" target="_blank" rel="noreferrer noopener"> <img align="center" src="https://img.icons8.com/?size=80&id=AngkmzgE6d3E&format=png" alt="gabriellugooo" height="34" width="34" /></a>
-    <a href=""> <img align="center" src="https://img.icons8.com/?size=50&id=38036&format=png" alt="lugohernandogabriel@gmail.com" height="40" width="40" /></a>
-    <a href="https://linktr.ee/gabriellugooo" target="_blank" rel="noreferrer noopener"> <img align="center" src="https://simpleicons.org/icons/linktree.svg" alt="gabriellugooo" height="40" width="40" /></a>
+<a href="https://www.youtube.com/@gabriellugooo" target="_blank" rel="noreferrer noopener"> <img align="center" src="https://img.icons8.com/?size=50&id=55200&format=png" alt="@gabriellugooo" height="40" width="40" /></a>
+<a href="http://www.tiktok.com/@gabriellugooo" target="_blank" rel="noreferrer noopener"> <img align="center" src="https://img.icons8.com/?size=50&id=118638&format=png" alt="@gabriellugooo" height="40" width="40" /></a>
+<a href="https://instagram.com/gabriellugooo_" target="_blank" rel="noreferrer noopener"> <img align="center" src="https://img.icons8.com/?size=50&id=32309&format=png" alt="gabriellugooo_" height="40" width="40" /></a>
+<a href="https://x.com/gabriellugooo" target="_blank" rel="noreferrer noopener"> <img align="center" src="https://img.icons8.com/?size=50&id=phOKFKYpe00C&format=png" alt="gabriellugooo" height="40" width="40" /></a>
+<a href="https://www.linkedin.com/in/hernando-gabriel-lugo" target="_blank" rel="noreferrer noopener"> <img align="center" src="https://img.icons8.com/?size=50&id=8808&format=png" alt="hernando-gabriel-lugo" height="40" width="40" /></a>
+<a href="https://github.com/GabrielLugooo" target="_blank" rel="noreferrer noopener"> <img align="center" src="https://img.icons8.com/?size=80&id=AngkmzgE6d3E&format=png" alt="gabriellugooo" height="34" width="34" /></a>
+<a href="mailto:lugohernandogabriel@gmail.com"> <img align="center" src="https://img.icons8.com/?size=50&id=38036&format=png" alt="lugohernandogabriel@gmail.com" height="40" width="40" /></a>
+<a href="https://linktr.ee/gabriellugooo" target="_blank" rel="noreferrer noopener"> <img align="center" src="https://simpleicons.org/icons/linktree.svg" alt="gabriellugooo" height="40" width="40" /></a>
 </p>
 
 <a href="https://linktr.ee/gabriellugooo" target="_blank" rel="noreferrer noopener"> <img align="center" src="https://img.shields.io/badge/Credits-Gabriel%20Lugo-green" alt="Credits" /></a>
