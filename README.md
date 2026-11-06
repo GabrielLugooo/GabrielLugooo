@@ -40,8 +40,6 @@ Also I like science: specifically astronomy and quantum mechanics, books, learni
 My journey in computer science has led me to develop a passion for IT support, data science & cybersec, and I am now eager to transition into this fields, specifically aiming to join as full stack dev, functional system, data or cybersec analyst to apply my skills.
 </p>
 
-# TO-DO
-
 <details>
 <summary><h2>CV's</h2></summary>
 
@@ -50,8 +48,6 @@ My journey in computer science has led me to develop a passion for IT support, d
 <a href="" target="_blank" rel="noreferrer noopener"> <img align="center" src="https://img.shields.io/badge/CV%20Lugo%20Spanish-000000" alt="CV Lugo Spanish" /></a>
 
 </details>
-
-# TO-DO
 
 <details>
 <summary><h2>Certifications</h2></summary>
@@ -75,7 +71,9 @@ My journey in computer science has led me to develop a passion for IT support, d
 </details>
 
 <details>
+
 <summary><h2>Strengths</h2></summary>
+
 - Strong detail-oriented
 - Strong problem-solving skills
 - Excellent organization
@@ -84,47 +82,34 @@ My journey in computer science has led me to develop a passion for IT support, d
 - Protection and security mindset
 - Passion for cybersec, technology & computing
 - Efficiency, service and fast learning
-</details>
 
-# TO-DO
+</details>
 
 <details>
 <summary><h2>Systems Analyst Skills</h2></summary>
--
+
+- Requirements gathering, analysis, and technical documentation (BRD, FRD)
+- Business process modeling and workflows (BPMN, UML, DFD, ERD)
+- Software Development Life Cycle (SDLC) management (Agile/Scrum & Waterfall)
+- System architecture design and API integrations (REST/JSON)
+- Testing and Quality Assurance (Functional, Integration, UAT)
+- Troubleshooting, log analysis, and root cause analysis (RCA)
+- Windows and Linux environments administration
+- Version control and collaborative workflows with Git & GitHub
+
 </details>
 
 <details>
 <summary><h2>Data Analyst Skills</h2></summary>
 
-### With Power Bi:
-
-- Importing and integrating data from .csv and .xlsx files.
-- Cleaning, transforming, and assigning data types using Power Query.
-- Applying regional settings to correctly interpret dates and numerical values.
-- Handling missing values ​​while preserving original data to ensure traceability.
-- Creating derived columns to normalize variables with inconsistent scales.
-- Designing an analytical data model with fact and dimension tables.
-- Creating composite keys to link sales data with the weekly characteristics of each store.
-- Configuring one-to-many relationships and validating data integrity.
-- Creating a calendar table to analyze sales over time.
-- Developing measures and calculated columns using DAX.
-- Calculating sales metrics, including totals, maximums, minimums, averages, and sales by day type.
-- Analyzing sales by store, store type, location, time period, holidays, and temperature.
-- Designing interactive reports with charts, cards, slicers, and cross-page navigation.
-- Documenting results, quality controls, key findings, and the limitations of the analysis.
-
-### With Python:
-
-- Data import and analysis using Python.
-- Reading and manipulating .csv and .xlsx files.
-- Data cleaning and preparation for analysis.
-- Using Pandas to filter, group, and summarize information.
-- Exploring data related to sales, stores, and weekly characteristics.
-- Calculating key performance indicators (KPIs) and descriptive statistics.
-- Analyzing sales by period, store, department, and holidays.
-- Comparing sales against variables such as temperature, fuel prices, the Consumer Price Index (CPI), and unemployment rates.
-- Creating visualizations to communicate findings.
-- Documenting results, analysis criteria, and project limitations.
+- Data ingestion, ETL processes, and pipeline integration (.csv, .xlsx, SQL databases)
+- Data cleaning, transformation, and normalization (Power Query & Pandas)
+- Data modeling (Star/Snowflake schemas, fact and dimension tables)
+- Advanced data analysis, metrics, and calculated measures (DAX & Python)
+- Time intelligence and chronological data analysis
+- Descriptive statistics, exploratory data analysis (EDA), and KPI formulation
+- Data visualization and interactive dashboard design (Power BI, Matplotlib, Seaborn)
+- Technical reporting, insights documentation, and data traceability
 
 </details>
 
@@ -239,20 +224,18 @@ My journey in computer science has led me to develop a passion for IT support, d
 <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/pandas.svg" alt="pandas" width="40" height="40"/></a> 
 </p>
 
-# TO-DO
-
 <h3 align="left">Data Science</h3>
 <p align="left">
-<a href="" target="_blank" rel="noreferrer"> <img src="" alt=".csv" width="40" height="40"/></a>
-<a href="" target="_blank" rel="noreferrer"> <img src="" alt=".xlsx" width="40" height="40"/></a>
-<a href="" target="_blank" rel="noreferrer"> <img src="" alt="dax" width="40" height="40"/></a>
-<a href="" target="_blank" rel="noreferrer"> <img src="" alt="powerbi" width="40" height="40"/></a>
-<a href="" target="_blank" rel="noreferrer"> <img src="" alt="power query" width="40" height="40"/></a>
-<a href="" target="_blank" rel="noreferrer"> <img src="" alt="python" width="40" height="40"/></a>
-<a href="" target="_blank" rel="noreferrer"> <img src="" alt="pandas" width="40" height="40"/></a>
-<a href="" target="_blank" rel="noreferrer"> <img src="" alt="jupyter notebook" width="40" height="40"/></a>
-<a href="" target="_blank" rel="noreferrer"> <img src="" alt="matpotlib" width="40" height="40"/></a>
-<a href="" target="_blank" rel="noreferrer"> <img src="" alt="seaborn" width="40" height="40"/></a>
+<a href="https://learn.microsoft.com/es-es/power-bi/connect-data/service-comma-separated-value-files" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/375309/csv-document.svg" alt=".csv" width="40" height="40"/></a>
+<a href="https://excel.cloud.microsoft/en-us/" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/42291/xlsx-file-format-extension.svg" alt=".xlsx" width="40" height="40"/></a>
+<a href="https://learn.microsoft.com/es-es/dax/dax-overview" target="_blank" rel="noreferrer"> <img src="https://thumb.wikimedia.org/wikipedia/commons/thumb/6/67/DAX-logo.svg/1280px-DAX-logo.svg.png?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=thumbnail&_=20231118190459" alt="dax" width="40" height="40"/></a>
+<a href="https://www.microsoft.com/es-ar/power-platform/products/power-bi" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/fe421848-88b3-4b74-8d61-c026b73deb6f/power-bi-3.svg" alt="powerbi" width="40" height="40"/></a>
+<a href="https://learn.microsoft.com/es-es/power-query/power-query-what-is-power-query" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/power-bi-1.svg" alt="power query" width="40" height="40"/></a>
+<a href="https://www.python.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/python-5.svg" alt="python" width="40" height="40"/></a>
+<a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/pandas.svg" alt="pandas" width="40" height="40"/></a>
+<a href="https://jupyter.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/4400a159-a944-43ee-b130-e7d54b30a905/jupyter.svg" alt="jupyter notebook" width="40" height="40"/></a>
+<a href="https://matplotlib.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/8e0fec01-9101-4a65-9acc-6d0f6bf44140/matplotlib.svg" alt="matpotlib" width="40" height="40"/></a>
+<a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/seaborn-1.svg" alt="seaborn" width="40" height="40"/></a>
 </p>
 
 <h3 align="left">Design Software</h3>
