@@ -64,9 +64,22 @@ My journey in computer science has led me to develop a passion for IT support, d
 
 <a href="https://drive.google.com/file/d/1Z9l7PIBEDjimKFFm9jmfQBuJ95wZQjc-/view?usp=sharing" target="_blank" rel="noreferrer noopener"> <img src="https://img.shields.io/badge/Google%20Mobile%20Apps-000000" alt="Mobile Apps Certificate" /></a>
 
-<a href="https://drive.google.com/file/d/1gQu1rKui90JUQGpSa3BBqV_LyP92BzOO/view?usp=sharing" target="_blank" rel="noreferrer noopener"> <img src="https://img.shields.io/badge/Electronics%20Technician-000000" alt="Electronics Technician Certificate" /></a>
+<a href="https://drive.google.com/file/d/1gQu1rKui90JUQGpSa3BBqV_LyP92BzOO/view?usp=sharing" target="_blank" rel="noreferrer noopener"> <img src="https://img.shields.io/badge/Electronics%20Technician-000000" alt="Electronics Technician" /></a>
 
-<a href="https://drive.google.com/file/d/1qnoJk2tHkrkbaMr9UXjoSggOOXjESaQ4/view?usp=drive_link" target="_blank" rel="noreferrer noopener"> <img src="https://img.shields.io/badge/Air%20conditioning%20installation%20and%20repair%20technician-000000" alt="AC Technician" /></a>
+<a href="https://drive.google.com/file/d/1rjad5HnZ2aPu2NuX8iR9frBKiZ3Z5uVa/view?usp=sharing" target="_blank" rel="noreferrer noopener"> <img src="https://img.shields.io/badge/IT%20Training%20Session-000000" alt="IT Trainning" /></a>
+
+<a href="https://drive.google.com/file/d/1qnoJk2tHkrkbaMr9UXjoSggOOXjESaQ4/view?usp=drive_link" target="_blank" rel="noreferrer noopener"> <img src="https://img.shields.io/badge/Air%20Conditioning%20Installation%20and%20Repair%20Technician%201-000000" alt="AC Technician 1" /></a>
+
+<a href="https://drive.google.com/file/d/1N2flE4NK8oeRfrsuJcyI9LTogOxS4dVc/view?usp=sharing" target="_blank" rel="noreferrer noopener"> <img src="https://img.shields.io/badge/Air%20Conditioning%20Installation%20and%20Repair%20Technician%202-000000" alt="AC Technician 2" /></a>
+
+<a href="https://drive.google.com/file/d/1g98VKckwxwnX-BaSwWPIDrDowfG_BlSu/view?usp=sharing" target="_blank" rel="noreferrer noopener"> <img src="https://img.shields.io/badge/Boiler%20and%20Steam%20Generator%20Operators-000000" alt="Boiler Operator" /></a>
+
+<a href="https://drive.google.com/file/d/1Fc4dAPLmQqgafctxquuJiWpIBCWdxaW9/view?usp=sharing" target="_blank" rel="noreferrer noopener"> <img src="https://img.shields.io/badge/Roofs%20with%20Timber%20Structures-000000" alt="Timber Structures" /></a>
+
+
+
+
+
 
 </details>
 
