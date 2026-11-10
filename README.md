@@ -66,7 +66,7 @@ My journey in computer science has led me to develop a passion for IT support, d
 
 <a href="https://drive.google.com/file/d/1gQu1rKui90JUQGpSa3BBqV_LyP92BzOO/view?usp=sharing" target="_blank" rel="noreferrer noopener"> <img src="https://img.shields.io/badge/Electronics%20Technician-000000" alt="Electronics Technician Certificate" /></a>
 
-<a href="" target="_blank" rel="noreferrer noopener"> <img src="https://img.shields.io/badge/a%20a-000000" alt="" /></a>
+<a href="https://drive.google.com/file/d/1qnoJk2tHkrkbaMr9UXjoSggOOXjESaQ4/view?usp=drive_link" target="_blank" rel="noreferrer noopener"> <img src="https://img.shields.io/badge/Air%20conditioning%20installation%20and%20repair%20technician-000000" alt="AC Technician" /></a>
 
 </details>
 
