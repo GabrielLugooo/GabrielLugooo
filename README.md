@@ -34,7 +34,7 @@ Also I like science: specifically astronomy and quantum mechanics, books, learni
 ---
 
 <details>
-<summary><h2>Objetives</h2></summary>
+<summary><h2>Objectives</h2></summary>
 
 My journey in computer science has led me to develop a passion for IT support, data science & cybersec, and I am now eager to transition into this fields, specifically aiming to join as full stack dev, functional system, data or cybersec analyst to apply my skills.
 
@@ -43,9 +43,9 @@ My journey in computer science has led me to develop a passion for IT support, d
 <details>
 <summary><h2>CV's</h2></summary>
 
-<a href="" target="_blank" rel="noreferrer noopener"> <img align="center" src="https://img.shields.io/badge/CV%20Lugo%20English-000000" alt="CV Lugo English" /></a>
+<a href="https://drive.google.com/file/d/15DIIJu3ODSCAAxHRvHsyktl_aACg7qib/view?usp=sharing" target="_blank" rel="noreferrer noopener"> <img align="center" src="https://img.shields.io/badge/CV%20Lugo%20English-000000" alt="CV Lugo English" /></a>
 
-<a href="" target="_blank" rel="noreferrer noopener"> <img align="center" src="https://img.shields.io/badge/CV%20Lugo%20Spanish-000000" alt="CV Lugo Spanish" /></a>
+<a href="https://drive.google.com/file/d/1bcPl5c7f1u0HxiVx0zUdPF2jug6ujX1o/view?usp=sharing" target="_blank" rel="noreferrer noopener"> <img align="center" src="https://img.shields.io/badge/CV%20Lugo%20Spanish-000000" alt="CV Lugo Spanish" /></a>
 
 </details>
 
