@@ -136,11 +136,11 @@ My journey in computer science has led me to develop a passion for IT support, d
 
 <a href="https://drive.google.com/file/d/1Fc4dAPLmQqgafctxquuJiWpIBCWdxaW9/view?usp=sharing" target="_blank" rel="noreferrer noopener"> <img src="https://img.shields.io/badge/FCF-Roofs%20with%20Timber%20Structures-000000" alt="Timber Structures" /></a>
 
-<a href="" target="_blank" rel="noreferrer noopener"> <img src="https://img.shields.io/badge/-000000" alt="" /></a>
+<a href="https://drive.google.com/file/d/1FHik0hYsNP_ljjRKb3Hy6yM0Q6UDyUoL/view?usp=sharing" target="_blank" rel="noreferrer noopener"> <img src="https://img.shields.io/badge/STEySS-Tools%20for%20Entrepreurship-000000" alt="" /></a>
 
-<a href="" target="_blank" rel="noreferrer noopener"> <img src="https://img.shields.io/badge/-000000" alt="" /></a>
+<a href="https://drive.google.com/file/d/106RTUK_zeB7CRyGToR0dGqzii4ykx68d/view?usp=sharing" target="_blank" rel="noreferrer noopener"> <img src="https://img.shields.io/badge/STEySS-Management of%20Financial%20Tools%20for%20Entrepreneurs-000000" alt="" /></a>
 
-<a href="" target="_blank" rel="noreferrer noopener"> <img src="https://img.shields.io/badge/-000000" alt="" /></a>
+<a href="https://drive.google.com/file/d/1cAjywUU78cHsrf1FvDmGX023X6raJCi6/view?usp=sharing" target="_blank" rel="noreferrer noopener"> <img src="https://img.shields.io/badge/STEySS-Customer Service-000000" alt="" /></a>
 
 </details>
 
@@ -280,14 +280,14 @@ My journey in computer science has led me to develop a passion for IT support, d
 <h3 align="left">EndPoints</h3>
 <p align="left">
 <a href="https://learn.microsoft.com/en-us/defender-endpoint/microsoft-defender-endpoint" rel="noreferrer"> <img src="https://www.svgrepo.com/show/452062/microsoft.svg" alt="msdefender" width="40" height="40"/></a>
-<a href="https://docs.velociraptor.app" rel="noreferrer"> <img src="https://www.svgrepo.com/show/101327/velociraptor.svg" alt="velociraptor" width="40" height="40"/></a>
+<a href="https://docs.velociraptor.app" rel="noreferrer"> <img src="https://www.svgrepo.com/show/157419/velociraptor.svg" alt="velociraptor" width="40" height="40"/></a>
 </p>
 
 <h3 align="left">SIEM´s Softwares</h3>
 <p align="left">
 <a href="https://cloud.google.com/security/products/security-operations?hl=es_419" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/google-cloud-3.svg" alt="googlesecops" width="40" height="40"/></a>
 <a href="https://www.splunk.com/en_us/download/soar-free-trial.html?locale=en_us" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/splunk.svg" alt="splunk" width="40" height="40"/></a>
-<a href="https://netalertx.com" rel="noreferrer"> <img src="https://www.svgrepo.com/show/512317/github-142.svg" alt="netalertx" width="40" height="40"/></a>
+<a href="https://netalertx.com" rel="noreferrer"> <img src="https://avatars.githubusercontent.com/u/229217789?s=60&v=4" alt="netalertx" width="40" height="40"/></a>
 <a href="https://wazuh.com/" rel="noreferrer"> <img src="https://simpleicons.org/icons/wantedly.svg" alt="wazuh" width="40" height="40"/></a>
 <a href="https://www.elastic.co/es/blog/elastic-siem-free-open" rel="noreferrer"> <img src="https://www.svgrepo.com/show/373575/elastic.svg" alt="elastic" width="40" height="40"/></a>
 </p>
