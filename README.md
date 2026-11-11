@@ -289,7 +289,7 @@ My journey in computer science has led me to develop a passion for IT support, d
 <a href="https://www.splunk.com/en_us/download/soar-free-trial.html?locale=en_us" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/splunk.svg" alt="splunk" width="40" height="40"/></a>
 <a href="https://netalertx.com" target="_blank" rel="noreferrer"> <img src="https://avatars.githubusercontent.com/u/229217789?s=60&v=4" alt="netalertx" width="40" height="40"/></a>
 <a href="https://wazuh.com/" target="_blank" rel="noreferrer"> <img src="https://simpleicons.org/icons/wantedly.svg" alt="wazuh" width="40" height="40"/></a>
-<a href="https://www.elastic.co/es/blog/elastic-siem-free-open" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/373575/elastic.svg" alt="elastic" width="40" height="40"/></a>
+<a href="https://www.elastic.co/es/blog/elastic-siem-free-open" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/349350/elastic.svg" alt="elastic" width="40" height="40"/></a>
 </p>
 
 <h3 align="left">AI - Machine Learning</h3>
