@@ -68,9 +68,9 @@ My journey in computer science has led me to develop a passion for IT support, d
 
 <a href="https://drive.google.com/file/d/1kD3ijLHutOUMc17g4CLBc3IvdTeEl0Fc/view?usp=sharing" target="_blank" rel="noreferrer noopener"> <img src="https://img.shields.io/badge/Google%20Web%20Analytics-000000" alt="Web Analytics" /></a>
 
-<a href="https://drive.google.com/file/d/1QlslvkTRxXVIpDVT83SdaksUATSyJqQE/view?usp=sharing" target="_blank" rel="noreferrer noopener"> <img src="https://img.shields.io/badge/Google%20E-Commerce%201-000000" alt="E-Commerce 1" /></a>
+<a href="https://drive.google.com/file/d/1QlslvkTRxXVIpDVT83SdaksUATSyJqQE/view?usp=sharing" target="_blank" rel="noreferrer noopener"> <img src="https://img.shields.io/badge/Google%20E%20Commerce%201-000000" alt="E-Commerce 1" /></a>
 
-<a href="https://drive.google.com/file/d/1L6hVLP3dWeAKx9uW4QGde3TbC5nAjSLT/view?usp=sharing" target="_blank" rel="noreferrer noopener"> <img src="https://img.shields.io/badge/Google%20E-Commerce%202-000000" alt="E-Commerce 2" /></a>
+<a href="https://drive.google.com/file/d/1L6hVLP3dWeAKx9uW4QGde3TbC5nAjSLT/view?usp=sharing" target="_blank" rel="noreferrer noopener"> <img src="https://img.shields.io/badge/Google%20E%20Commerce%202-000000" alt="E-Commerce 2" /></a>
 
 <a href="https://drive.google.com/file/d/1yzmB79LJ4OROZPY82usaSxT4UtEy_DCE/view?usp=sharing" target="_blank" rel="noreferrer noopener"> <img src="https://img.shields.io/badge/Google%20Digital%20Marketing%201-000000" alt="Digital Marketing 1" /></a>
 
@@ -88,25 +88,25 @@ My journey in computer science has led me to develop a passion for IT support, d
 
 <a href="https://drive.google.com/file/d/1gQu1rKui90JUQGpSa3BBqV_LyP92BzOO/view?usp=sharing" target="_blank" rel="noreferrer noopener"> <img src="https://img.shields.io/badge/Electronics%20Technician-000000" alt="Electronics Technician" /></a>
 
-<a href="https://drive.google.com/file/d/1Y5Txi5PGBm4eSXqHG-MGLL9poDLys3UC/view?usp=sharing" target="_blank" rel="noreferrer noopener"> <img src="https://img.shields.io/badge/Finder-000000" alt="Finder" /></a>
-
 <a href="https://drive.google.com/file/d/1rjad5HnZ2aPu2NuX8iR9frBKiZ3Z5uVa/view?usp=sharing" target="_blank" rel="noreferrer noopener"> <img src="https://img.shields.io/badge/IT%20Training%20Session-000000" alt="IT Trainning" /></a>
 
-<a href="https://drive.google.com/file/d/1TXq7abZkrfIsHI47gm7YQkPX1nQ1oqgL/view?usp=sharing" target="_blank" rel="noreferrer noopener"> <img src="https://img.shields.io/badge/Udemy%20Photography-000000" alt="Photography" /></a>
+<a href="https://drive.google.com/file/d/1Y5Txi5PGBm4eSXqHG-MGLL9poDLys3UC/view?usp=sharing" target="_blank" rel="noreferrer noopener"> <img src="https://img.shields.io/badge/Finder-000000" alt="Finder" /></a>
+
+<a href="https://drive.google.com/file/d/1TXq7abZkrfIsHI47gm7YQkPX1nQ1oqgL/view?usp=sharing" target="_blank" rel="noreferrer noopener"> <img src="https://img.shields.io/badge/Udemy%20Professional%20Photography-000000" alt="Photography" /></a>
 
 <a href="https://drive.google.com/file/d/1qnoJk2tHkrkbaMr9UXjoSggOOXjESaQ4/view?usp=drive_link" target="_blank" rel="noreferrer noopener"> <img src="https://img.shields.io/badge/Air%20Conditioning%20Installation%20and%20Repair%20Technician%201-000000" alt="AC Technician 1" /></a>
 
 <a href="https://drive.google.com/file/d/1N2flE4NK8oeRfrsuJcyI9LTogOxS4dVc/view?usp=sharing" target="_blank" rel="noreferrer noopener"> <img src="https://img.shields.io/badge/Air%20Conditioning%20Installation%20and%20Repair%20Technician%202-000000" alt="AC Technician 2" /></a>
 
+<a href="https://drive.google.com/file/d/1maIfYiVdihQnHCmdTYMCfMy4pfhO7KA6/view?usp=sharing" target="_blank" rel="noreferrer noopener"> <img src="https://img.shields.io/badge/V%20Belts%20Optibelt-000000" alt="V-Belts" /></a>
+
+<a href="https://drive.google.com/file/d/1uMw4gHoXtubz_irzvIjG3Dp7bIIENgPJ/view?usp=sharing" target="_blank" rel="noreferrer noopener"> <img src="https://img.shields.io/badge/Lubrication%20of%20Bearings-000000" alt="Lubrication" /></a>
+
 <a href="https://drive.google.com/file/d/1bcRQjdsZ2eOScGotcgAt54E3TL5DYQiH/view?usp=sharing" target="_blank" rel="noreferrer noopener"> <img src="https://img.shields.io/badge/Mounting%20and%20Dismounting%20of%20Bearings-000000" alt="Bearings" /></a>
 
-<a href="https://drive.google.com/file/d/1uMw4gHoXtubz_irzvIjG3Dp7bIIENgPJ/view?usp=sharing" target="_blank" rel="noreferrer noopener"> <img src="https://img.shields.io/badge/Lubrication%20Course-000000" alt="Lubrication" /></a>
-
-<a href="https://drive.google.com/file/d/1maIfYiVdihQnHCmdTYMCfMy4pfhO7KA6/view?usp=sharing" target="_blank" rel="noreferrer noopener"> <img src="https://img.shields.io/badge/V-Belts%20Optibelt-000000" alt="V-Belts" /></a>
+<a href="https://drive.google.com/file/d/1S7HLX6zL6PdJ9GOXNLFm8AbMXwaLK0tB/view?usp=sharing" target="_blank" rel="noreferrer noopener"> <img src="https://img.shields.io/badge/Pumping%20Theory-000000" alt="Pumping Theory" /></a>
 
 <a href="https://drive.google.com/file/d/1-wVaiVvdnZ2w4EW60SncV5fpHeLvju02/view?usp=sharing" target="_blank" rel="noreferrer noopener"> <img src="https://img.shields.io/badge/Process%20Valve%20Automation-000000" alt="Valve Automation" /></a>
-
-<a href="https://drive.google.com/file/d/1S7HLX6zL6PdJ9GOXNLFm8AbMXwaLK0tB/view?usp=sharing" target="_blank" rel="noreferrer noopener"> <img src="https://img.shields.io/badge/Pumping%20Theory-000000" alt="Pumping Theory" /></a>
 
 <a href="https://drive.google.com/file/d/1g98VKckwxwnX-BaSwWPIDrDowfG_BlSu/view?usp=sharing" target="_blank" rel="noreferrer noopener"> <img src="https://img.shields.io/badge/Boiler%20and%20Steam%20Generator%20Operators-000000" alt="Boiler Operator" /></a>
 
