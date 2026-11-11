@@ -272,24 +272,24 @@ My journey in computer science has led me to develop a passion for IT support, d
 
 <h3 align="left">Networks</h3>
 <p align="left">
-<a href="https://www.tcpdump.org" rel="noreferrer"> <img src="https://aboutnetworks.net/wp-content/uploads/2020/05/tcpdump-logo.jpg" alt="tcpdump" height="40"/></a>
-<a href="https://www.wireshark.org" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/wireshark.svg" alt="wireshark" height="40"/></a>
-<a href="https://suricata.io" rel="noreferrer"> <img src="https://suricata.io/wp-content/uploads/2023/09/Logo-Suricata-vert-whitetype-R.png" alt="suricata" height="40"/></a>
+<a href="https://www.tcpdump.org" target="_blank" rel="noreferrer"> <img src="https://aboutnetworks.net/wp-content/uploads/2020/05/tcpdump-logo.jpg" alt="tcpdump" height="40"/></a>
+<a href="https://www.wireshark.org" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/wireshark.svg" alt="wireshark" height="40"/></a>
+<a href="https://suricata.io" target="_blank" rel="noreferrer"> <img src="https://suricata.io/wp-content/uploads/2023/09/Logo-Suricata-vert-whitetype-R.png" alt="suricata" height="40"/></a>
 </p>
 
 <h3 align="left">EndPoints</h3>
 <p align="left">
-<a href="https://learn.microsoft.com/en-us/defender-endpoint/microsoft-defender-endpoint" rel="noreferrer"> <img src="https://www.svgrepo.com/show/452062/microsoft.svg" alt="msdefender" width="40" height="40"/></a>
-<a href="https://docs.velociraptor.app" rel="noreferrer"> <img src="https://www.svgrepo.com/show/157419/velociraptor.svg" alt="velociraptor" width="40" height="40"/></a>
+<a href="https://learn.microsoft.com/en-us/defender-endpoint/microsoft-defender-endpoint" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/349454/microsoft.svg" alt="msdefender" width="40" height="40"/></a>
+<a href="https://docs.velociraptor.app" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/101327/velociraptor.svg" alt="velociraptor" width="40" height="40"/></a>
 </p>
 
 <h3 align="left">SIEM´s Softwares</h3>
 <p align="left">
-<a href="https://cloud.google.com/security/products/security-operations?hl=es_419" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/google-cloud-3.svg" alt="googlesecops" width="40" height="40"/></a>
-<a href="https://www.splunk.com/en_us/download/soar-free-trial.html?locale=en_us" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/splunk.svg" alt="splunk" width="40" height="40"/></a>
-<a href="https://netalertx.com" rel="noreferrer"> <img src="https://avatars.githubusercontent.com/u/229217789?s=60&v=4" alt="netalertx" width="40" height="40"/></a>
-<a href="https://wazuh.com/" rel="noreferrer"> <img src="https://simpleicons.org/icons/wantedly.svg" alt="wazuh" width="40" height="40"/></a>
-<a href="https://www.elastic.co/es/blog/elastic-siem-free-open" rel="noreferrer"> <img src="https://www.svgrepo.com/show/373575/elastic.svg" alt="elastic" width="40" height="40"/></a>
+<a href="https://cloud.google.com/security/products/security-operations?hl=es_419" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/google-cloud-3.svg" alt="googlesecops" width="40" height="40"/></a>
+<a href="https://www.splunk.com/en_us/download/soar-free-trial.html?locale=en_us" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/splunk.svg" alt="splunk" width="40" height="40"/></a>
+<a href="https://netalertx.com" target="_blank" rel="noreferrer"> <img src="https://avatars.githubusercontent.com/u/229217789?s=60&v=4" alt="netalertx" width="40" height="40"/></a>
+<a href="https://wazuh.com/" target="_blank" rel="noreferrer"> <img src="https://simpleicons.org/icons/wantedly.svg" alt="wazuh" width="40" height="40"/></a>
+<a href="https://www.elastic.co/es/blog/elastic-siem-free-open" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/373575/elastic.svg" alt="elastic" width="40" height="40"/></a>
 </p>
 
 <h3 align="left">AI - Machine Learning</h3>
@@ -300,8 +300,8 @@ My journey in computer science has led me to develop a passion for IT support, d
 
 <h3 align="left">Data Science</h3>
 <p align="left">
-<a href="https://learn.microsoft.com/es-es/power-bi/connect-data/service-comma-separated-value-files" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/375309/csv-document.svg" alt=".csv" width="40" height="40"/></a>
-<a href="https://excel.cloud.microsoft/en-us/" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/42291/xlsx-file-format-extension.svg" alt=".xlsx" width="40" height="40"/></a>
+<a href="https://learn.microsoft.com/es-es/power-bi/connect-data/service-comma-separated-value-files" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/52382/csv.svg" alt="csv" width="40" height="40"/></a>
+<a href="https://excel.cloud.microsoft/en-us/" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/42291/xlsx-file-format-extension.svg" alt="xlsx" width="40" height="40"/></a>
 <a href="https://learn.microsoft.com/es-es/dax/dax-overview" target="_blank" rel="noreferrer"> <img src="https://thumb.wikimedia.org/wikipedia/commons/thumb/6/67/DAX-logo.svg/1280px-DAX-logo.svg.png?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=thumbnail&_=20231118190459" alt="dax" width="40" height="40"/></a>
 <a href="https://www.microsoft.com/es-ar/power-platform/products/power-bi" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/fe421848-88b3-4b74-8d61-c026b73deb6f/power-bi-3.svg" alt="powerbi" width="40" height="40"/></a>
 <a href="https://learn.microsoft.com/es-es/power-query/power-query-what-is-power-query" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/power-bi-1.svg" alt="power query" width="40" height="40"/></a>
