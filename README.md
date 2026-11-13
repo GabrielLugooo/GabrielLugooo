@@ -14,7 +14,7 @@
 
 Hello! My name is Gabriel, I am passionate about computing, data science, cybersecurity and technology.
 
-I am graduate as a systems, data and cybersecurity analyst. I also like to continue learning, so I have taken many anothers courses inside the IT industry that help me continue to expand my horizons of knowledge, develop my professional skills, and solve problems. I am passionate about helping others, so I share information on topics related to software, technology, IT, data science, cybersec and about UFO´s on my socials.
+I am graduate as a systems, data and cybersecurity analyst. I also like to continue learning, so I have taken many anothers courses inside the IT industry that help me continue to expand my horizons of knowledge, develop my professional skills, and solve problems. I am passionate about helping others, so I share information on topics related to software, technology, IT, data science, cybersec and about NHI technologies on my socials.
 
 <!-- QUOTE -->
 <p align="right"><q><i>Passion drives me, Curiosity guides me</i></q> - by Me 😎</p>
@@ -22,11 +22,11 @@ I am graduate as a systems, data and cybersecurity analyst. I also like to conti
 <details>
 <summary>More About me</summary>
 
-I was introduced to the world of computing in 1994, at the age of 14, when I started a GW BASIC course, a year before the Windows 95 OS. In 1997/98, at the age of 17/18, I was already helping my 4th year high school computer classmates with the first TANGO Software app (soft for accountants) in MS-DOS and MS Windows.
+I was introduced to the world of computing in 1994, at the age of 14, when I started a *GW BASIC* course, a year before the *Windows 95 OS*. In 1997/98, at the age of 17/18, I was already helping my 4th year high school computer classmates with the first *TANGO Software* app (soft for accountants) in *MS-DOS* and *MS Windows*.
 
-I have been interested in the IT field of since I had access to the Internet. At the age of 18, I had my first notebook and the first thing I did was play Resident Evil and analyze networks with Triangle, a pioneering software for triangulating GSM technology antennas to determine locations and access Wi-Fi networks.
+I have been interested in the IT field of since I had access to the Internet. At the age of 18, I had my first notebook and the first thing I did was play *Resident Evil* and analyze networks with *Triangle*, a pioneering software for triangulating GSM technology antennas to determine locations and access Wi-Fi networks.
 
-Also I like science: specifically astronomy and quantum mechanics, books, learning piano (i was dj in the past, now trying to make EDM as a producer), mtbike & trial running, portrait photography (worked like PH for a while). I have an entrepreneurial mind, In the recent past i had a small computer store & it support service, and started my own small overzise t-shirt brand.
+Also I like science: specifically astronomy and quantum mechanics, books, learning piano (i was dj in the past, now trying to make EDM as a producer), mountain bike & trial running, portrait photography (worked like PH for a while). I have an entrepreneurial mind, In the recent past i had a small computer store & it support service, and started my own small overzise t-shirt brand.
 
 </details>
 </p>
@@ -39,6 +39,8 @@ Also I like science: specifically astronomy and quantum mechanics, books, learni
 My journey in computer science has led me to develop a passion for IT support, data science & cybersec, and I am now eager to transition into this fields, specifically aiming to join as full stack dev, functional system, data or cybersec analyst to apply my skills.
 
 </details>
+
+<img align="right" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExbXJsc205cjNiMzJxYTV6MnozejUwMGcwcHV2cWl6OWt1cDliY3phZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/aRHz5xbOz8VEJwgqcR/giphy.gif" alt="SOC Center Gif" width="500" />
 
 <details>
 <summary><h2>CV's</h2></summary>
@@ -138,9 +140,9 @@ My journey in computer science has led me to develop a passion for IT support, d
 
 <a href="https://drive.google.com/file/d/1FHik0hYsNP_ljjRKb3Hy6yM0Q6UDyUoL/view?usp=sharing" target="_blank" rel="noreferrer noopener"> <img src="https://img.shields.io/badge/STEySS-Tools%20for%20Entrepreurship-000000" alt="" /></a>
 
-<a href="https://drive.google.com/file/d/106RTUK_zeB7CRyGToR0dGqzii4ykx68d/view?usp=sharing" target="_blank" rel="noreferrer noopener"> <img src="https://img.shields.io/badge/STEySS-Management of%20Financial%20Tools%20for%20Entrepreneurs-000000" alt="" /></a>
+<a href="https://drive.google.com/file/d/106RTUK_zeB7CRyGToR0dGqzii4ykx68d/view?usp=sharing" target="_blank" rel="noreferrer noopener"> <img src="https://img.shields.io/badge/STEySS-Management%20of%20Financial%20Tools%20for%20Entrepreneurs-000000" alt="" /></a>
 
-<a href="https://drive.google.com/file/d/1cAjywUU78cHsrf1FvDmGX023X6raJCi6/view?usp=sharing" target="_blank" rel="noreferrer noopener"> <img src="https://img.shields.io/badge/STEySS-Customer Service-000000" alt="" /></a>
+<a href="https://drive.google.com/file/d/1cAjywUU78cHsrf1FvDmGX023X6raJCi6/view?usp=sharing" target="_blank" rel="noreferrer noopener"> <img src="https://img.shields.io/badge/STEySS-Customer%20Service-000000" alt="" /></a>
 
 </details>
 
@@ -421,7 +423,7 @@ My journey in computer science has led me to develop a passion for IT support, d
 <a href="https://x.com/gabriellugooo" target="_blank" rel="noreferrer noopener"> <img align="center" src="https://img.icons8.com/?size=50&id=phOKFKYpe00C&format=png" alt="gabriellugooo" height="40" width="40" /></a>
 <a href="https://www.linkedin.com/in/hernando-gabriel-lugo" target="_blank" rel="noreferrer noopener"> <img align="center" src="https://img.icons8.com/?size=50&id=8808&format=png" alt="hernando-gabriel-lugo" height="40" width="40" /></a>
 <a href="https://github.com/GabrielLugooo" target="_blank" rel="noreferrer noopener"> <img align="center" src="https://img.icons8.com/?size=80&id=AngkmzgE6d3E&format=png" alt="gabriellugooo" height="34" width="34" /></a>
-<a href="mailto:lugohernandogabriel@gmail.com"> <img align="center" src="https://img.icons8.com/?size=50&id=38036&format=png" alt="lugohernandogabriel@gmail.com" height="40" width="40" /></a>
+<a href="mailto:lugohernandogabriel@proton.me" target="_blank" rel="noreferrer noopener"> <img align="center" src="https://img.icons8.com/?size=50&id=38036&format=png" alt="lugohernandogabriel@proton.me" height="40" width="40" /></a>
 <a href="https://linktr.ee/gabriellugooo" target="_blank" rel="noreferrer noopener"> <img align="center" src="https://simpleicons.org/icons/linktree.svg" alt="gabriellugooo" height="40" width="40" /></a>
 </p>
 
