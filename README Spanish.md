@@ -369,13 +369,13 @@ Mi trayectoria en el ámbito de la informática me ha llevado a desarrollar una 
 
 - ### Data Science Projects
 
-<a href="https://github.com/GabrielLugooo/Gestion-Analitica-Datos-PowerBi" target="_blank" rel="noreferrer noopener"> <img align="center" src="https://img.shields.io/badge/Gestion%20Analitica%20Datos%20con%20PowerBi-000000" alt="" /></a>
-<a href="https://github.com/GabrielLugooo/Gestion-Analitica-Datos-Python" target="_blank" rel="noreferrer noopener"> <img align="center" src="https://img.shields.io/badge/Gestion%20Analitica%20Datos%20con%20Python-000000" alt="" /></a>
+<a href="https://github.com/GabrielLugooo/Gestion-Analitica-Datos-PowerBi" target="_blank" rel="noreferrer noopener"> <img align="center" src="https://img.shields.io/badge/Gestion%20Analitica%20de%20Datos%20con%20PowerBi-000000" alt="" /></a>
+<a href="https://github.com/GabrielLugooo/Gestion-Analitica-Datos-Python" target="_blank" rel="noreferrer noopener"> <img align="center" src="https://img.shields.io/badge/Gestion%20Analitica%20de%20Datos%20con%20Python-000000" alt="" /></a>
 
 - ### CyberSec Projects
 
-<a href="https://github.com/GabrielLugooo/Image-Encrypt" target="_blank" rel="noreferrer noopener"> <img align="center" src="https://img.shields.io/badge/Encriptador%20de%20Imagen-000000" alt="Image Encrypt" /></a>
-<a href="https://github.com/GabrielLugooo/Owasp-Pass-Test" target="_blank" rel="noreferrer noopener"> <img align="center" src="https://img.shields.io/badge/Test%20de%20Contraseñas%20deOwasp-000000" alt="Owasp Pass Test" /></a>
+<a href="https://github.com/GabrielLugooo/Image-Encrypt" target="_blank" rel="noreferrer noopener"> <img align="center" src="https://img.shields.io/badge/Encriptador%20de%20Imagenes-000000" alt="Image Encrypt" /></a>
+<a href="https://github.com/GabrielLugooo/Owasp-Pass-Test" target="_blank" rel="noreferrer noopener"> <img align="center" src="https://img.shields.io/badge/Test%20de%20Contraseñas%20de%20Owasp-000000" alt="Owasp Pass Test" /></a>
 <a href="https://github.com/GabrielLugooo/Pass-Generator" target="_blank" rel="noreferrer noopener"> <img align="center" src="https://img.shields.io/badge/Generador%20de%20Contraseñas-000000" alt="Pass Generator" /></a>
 <a href="https://github.com/GabrielLugooo/Python-Automation" target="_blank" rel="noreferrer noopener"> <img align="center" src="https://img.shields.io/badge/Algoritmo%20de%20Automatizacion%20de%20Python-000000" alt="Python Automation" /></a>
 
@@ -393,13 +393,13 @@ Mi trayectoria en el ámbito de la informática me ha llevado a desarrollar una 
 
 - ### Ai Projects
 
-<a href="https://github.com/GabrielLugooo/Vicky-Backup-Poemas" target="_blank" rel="noreferrer noopener"> <img align="center" src="https://img.shields.io/badge/Backup%20de%20Poemasde%20%20Vicky-000000" alt="Vicky Backup Poemas" /></a>
+<a href="https://github.com/GabrielLugooo/Vicky-Backup-Poemas" target="_blank" rel="noreferrer noopener"> <img align="center" src="https://img.shields.io/badge/Backup%20de%20Poemas%20de%20Vicky-000000" alt="Vicky Backup Poemas" /></a>
 <a href="https://github.com/GabrielLugooo/Image-Recogn" target="_blank" rel="noreferrer noopener"> <img align="center" src="https://img.shields.io/badge/Reconocimiento%20de%20Imagenes-000000" alt="Image Recogn" /></a>
 
 - ### Others Projects
 
 <a href="https://github.com/GabrielLugooo/Voice-Assistant" target="_blank" rel="noreferrer noopener"> <img align="center" src="https://img.shields.io/badge/Asistente%20de%20Voz-000000" alt="Voice Assistant" /></a>
-<a href="https://github.com/GabrielLugooo/Reader-Assistant" target="_blank" rel="noreferrer noopener"> <img align="center" src="https://img.shields.io/badge/Asistente%20de%20Escritura-000000" alt="Reader Assistant" /></a>
+<a href="https://github.com/GabrielLugooo/Reader-Assistant" target="_blank" rel="noreferrer noopener"> <img align="center" src="https://img.shields.io/badge/Asistente%20de%20Lectura-000000" alt="Reader Assistant" /></a>
 <a href="https://github.com/GabrielLugooo/Writer-Assistant" target="_blank" rel="noreferrer noopener"> <img align="center" src="https://img.shields.io/badge/Asistente%20de%20Escritura-000000" alt="Writer Assistant" /></a>
 <a href="https://github.com/GabrielLugooo/DB-Insert" target="_blank" rel="noreferrer noopener"> <img align="center" src="https://img.shields.io/badge/DB%20Insert-000000" alt="DB Insert" /></a>
 
